@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Wed, 14 Oct 2026 13:01:08 GMT
+Content-Type: text/xml
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Server: nginx
+last-modified: Mon, 12 Oct 2026 04:00:51 GMT
+cache-control: max-age=1800
+expires: Wed, 14 Oct 2026 13:31:08 GMT
+vary: Accept-Encoding
+Front-End-Https: on
+X-Frame-Options: SAMEORIGIN
+X-Azion-Request-Id: 6dcbc378de6625d0f7d040f59bc2c441
+X-Azion-Edge-Location: CGH
+Alt-Svc: h3=":443"; ma=86400
+

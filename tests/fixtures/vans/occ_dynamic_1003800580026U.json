@@ -1,0 +1,602 @@
+{
+   "availableInStore" : false,
+   "cashback" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 0,00",
+      "priceType" : "FROM",
+      "value" : 0.0
+   },
+   "channelPrices" : [ {
+      "channel" : "web",
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 379,99",
+      "priceType" : "FROM",
+      "value" : 379.99
+   } ],
+   "colorOptions" : [ {
+      "code" : "1003800580018U",
+      "color" : "BRANCO",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf5/ha6/h00/h00/13073923145758/Thumbnail-V1003800580018-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane Mesh White Gum",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-mesh-white-gum/p/1003800580018U"
+   }, {
+      "code" : "1003800580042U",
+      "color" : "MARROM",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/ha9/h00/h00/13236403437598/Thumbnail-V1003800580042-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane 2-Tone Vintage Cocoa",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-2-tone-vintage-cocoa/p/1003800580042U"
+   }, {
+      "code" : "1003800580034U",
+      "color" : "PRETO",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h8b/h00/h00/13280789659678/Thumbnail-V1003800580034-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane Mono Black",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-mono-black/p/1003800580034U"
+   }, {
+      "code" : "1003800580017U",
+      "color" : "AZUL",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png"
+      },
+      "name" : "Tênis Hylane Stormy Weather",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-stormy-weather/p/1003800580017U"
+   }, {
+      "code" : "1003800580039U",
+      "color" : "AZUL",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h15/h00/h00/13280791298078/Thumbnail-V1003800580039-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane Suede Glacial Slate",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-suede-glacial-slate/p/1003800580039U"
+   }, {
+      "code" : "1003800580043U",
+      "color" : "MARROM",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdd/heb/h00/h00/13276941221918/Thumbnail-V1003800580043-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane Suede Vintage Cocoa",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-suede-vintage-cocoa/p/1003800580043U"
+   }, {
+      "code" : "1003800580032U",
+      "color" : "BEGE",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h23/h00/h00/13280788873246/Thumbnail-V1003800580032-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane Mono Mushroom",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-mono-mushroom/p/1003800580032U"
+   }, {
+      "code" : "1003800580015U",
+      "color" : "MARROM",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h89/h00/h00/12954248478750/Thumbnail-V1003800580015-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane 2-tone Coal Brown",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-2-tone-coal-brown/p/1003800580015U"
+   }, {
+      "code" : "1003800580044U",
+      "color" : "PRATEADO",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/ha4/h00/h00/13236404092958/Thumbnail-V1003800580044-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane Metallic Multi White",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-metallic-multi-white/p/1003800580044U"
+   }, {
+      "code" : "1003800580031U",
+      "color" : "PRETO",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/hb5/h00/h00/13259558715422/Thumbnail-V1003800580031-COLOR.jpg"
+      },
+      "name" : "Tênis Hylane Metallic Multi",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "url" : "/tenis-hylane-metallic-multi/p/1003800580031U"
+   } ],
+   "discountPrice" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$379,99",
+      "priceType" : "FROM",
+      "value" : 379.99
+   },
+   "favorited" : false,
+   "hasPriceVariations" : false,
+   "installment" : "3x de R$126,66",
+   "isPreOrder" : true,
+   "percentualOfDiscount" : "41",
+   "price" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 649,99",
+      "priceType" : "FROM",
+      "value" : 649.99
+   },
+   "productBenefits" : [ ],
+   "purchasable" : true,
+   "sellable" : true,
+   "sellableOmni" : true,
+   "variantOptions" : [ {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-33",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "33",
+      "ean" : "197804439188",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 5,
+         "stockLevelStatus" : "lowStock"
+      },
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "33"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-34",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "34",
+      "ean" : "197804439515",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 11,
+         "stockLevelStatus" : "inStock"
+      },
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "34"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-35",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "35",
+      "ean" : "197804439539",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 14,
+         "stockLevelStatus" : "inStock"
+      },
+      "stores" : [ ],
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "35"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-36",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "36",
+      "ean" : "197804439591",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 4,
+         "stockLevelStatus" : "lowStock"
+      },
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "36"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-37",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "37",
+      "ean" : "197804439843",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "37"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-38",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "38",
+      "ean" : "197804440047",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "38"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-39",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "39",
+      "ean" : "197804440146",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "stores" : [ ],
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "39"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-40",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "40",
+      "ean" : "197804440184",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "stores" : [ ],
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "40"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-41",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "41",
+      "ean" : "197804440399",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "stores" : [ ],
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "41"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-42",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "42",
+      "ean" : "197804440450",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "stores" : [ ],
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "42"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-43",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "43",
+      "ean" : "197804440511",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "43"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-44",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "44",
+      "ean" : "197804440764",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "stores" : [ ],
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "44"
+      } ]
+   }, {
+      "cashback" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 0,00",
+         "priceType" : "FROM",
+         "value" : 0.0
+      },
+      "code" : "1003800580026U-45",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "45",
+      "ean" : "197804440832",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "FROM",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "stores" : [ ],
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "45"
+      } ]
+   } ]
+}

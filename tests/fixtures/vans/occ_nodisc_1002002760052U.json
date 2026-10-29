@@ -1,0 +1,4252 @@
+{
+   "baseOptions" : [ {
+      "options" : [ {
+         "code" : "1002002760052U-33",
+         "displayText" : "33",
+         "ean" : "197804441549",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-33",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "33"
+         } ]
+      }, {
+         "code" : "1002002760052U-34",
+         "displayText" : "34",
+         "ean" : "197804441600",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 20,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-34",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "34"
+         } ]
+      }, {
+         "code" : "1002002760052U-35",
+         "displayText" : "35",
+         "ean" : "197804441655",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 17,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-35",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "35"
+         } ]
+      }, {
+         "code" : "1002002760052U-36",
+         "displayText" : "36",
+         "ean" : "197804442027",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 20,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-36",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "36"
+         } ]
+      }, {
+         "code" : "1002002760052U-37",
+         "displayText" : "37",
+         "ean" : "197804442249",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 16,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-37",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "37"
+         } ]
+      }, {
+         "code" : "1002002760052U-38",
+         "displayText" : "38",
+         "ean" : "197804442454",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 14,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-38",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "38"
+         } ]
+      }, {
+         "code" : "1002002760052U-39",
+         "displayText" : "39",
+         "ean" : "197804442805",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 52,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-39",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "39"
+         } ]
+      }, {
+         "code" : "1002002760052U-40",
+         "displayText" : "40",
+         "ean" : "197804442874",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 55,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-40",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "40"
+         } ]
+      }, {
+         "code" : "1002002760052U-41",
+         "displayText" : "41",
+         "ean" : "197804443093",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 70,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-41",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "41"
+         } ]
+      }, {
+         "code" : "1002002760052U-42",
+         "displayText" : "42",
+         "ean" : "197804443253",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 29,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-42",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "42"
+         } ]
+      }, {
+         "code" : "1002002760052U-43",
+         "displayText" : "43",
+         "ean" : "197804443413",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-43",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "43"
+         } ]
+      }, {
+         "code" : "1002002760052U-44",
+         "displayText" : "44",
+         "ean" : "197804443604",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-44",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "44"
+         } ]
+      }, {
+         "code" : "1002002760052U-45",
+         "displayText" : "45",
+         "ean" : "197804443659",
+         "installments" : "6x de R$116,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-45",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "45"
+         } ]
+      } ],
+      "selected" : {
+         "code" : "1002002760052U",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 699.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U",
+         "variantOptionQualifiers" : [ ]
+      },
+      "variantType" : "ModelVariantProduct"
+   } ],
+   "baseProduct" : "100200276",
+   "code" : "1002002760052U",
+   "color" : "Azul",
+   "colorOptions" : [ {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/hc2/h00/h00/13470204428318/Thumbnail-Vans-V1002002760087-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/h97/h00/h00/13470204755998/Thumbnail-Vans-V1002002760087-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1b/hfb/h00/h00/13470205083678/Thumbnail-Vans-V1002002760087-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h14/h62/h00/h00/13470205411358/Thumbnail-Vans-V1002002760087-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/he2/h00/h00/13470205739038/Thumbnail-Vans-V1002002760087-06.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6c/h98/h00/h00/13470206066718/Thumbnail-Vans-V1002002760087-07.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6c/h4d/h00/h00/13470204624926/Hires-Vans-V1002002760087-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h02/h9d/h00/h00/13470204952606/Hires-Vans-V1002002760087-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf9/hb8/h00/h00/13470205280286/Hires-Vans-V1002002760087-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h5c/h00/h00/13470205607966/Hires-Vans-V1002002760087-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h57/h0d/h00/h00/13470205935646/Hires-Vans-V1002002760087-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4a/h56/h00/h00/13470206263326/Hires-Vans-V1002002760087-07.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h76/h00/h00/13470204559390/Midres-Vans-V1002002760087-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb9/h26/h00/h00/13470204887070/Midres-Vans-V1002002760087-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha3/h1d/h00/h00/13470205214750/Midres-Vans-V1002002760087-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h31/h00/h00/13470205542430/Midres-Vans-V1002002760087-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h81/h00/h00/13470205870110/Midres-Vans-V1002002760087-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc8/he4/h00/h00/13470206197790/Midres-Vans-V1002002760087-07.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h84/h97/h00/h00/13470204493854/Lores-Vans-V1002002760087-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4b/h0b/h00/h00/13470204821534/Lores-Vans-V1002002760087-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h9c/h00/h00/13470205149214/Lores-Vans-V1002002760087-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h20/hbe/h00/h00/13470205476894/Lores-Vans-V1002002760087-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h9f/h00/h00/13470205804574/Lores-Vans-V1002002760087-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h3b/h00/h00/13470206132254/Lores-Vans-V1002002760087-07.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "EDICAOLIMITADA"
+      }, {
+         "code" : "ANIMALPRINT",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "PRODUTOSESTAMPADOS"
+      }, {
+         "code" : "TENDENCIAS"
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 549,99",
+         "priceType" : "BUY",
+         "value" : 549.99
+      } ],
+      "code" : "1002002760087U",
+      "color" : "ANIMALPRINT",
+      "description" : "<p>O Tênis Knu Skool Leopard Incense traz o legado da VANS em um modelo de cano baixo com acabamento costurado e a icônica sidestripe. Cabedal em couro camurça com construção reforçada, palmilha forrada para conforto e solado de borracha que garante aderência e resistência ao uso diário. Design unissex que combina presença retrô com conforto, suporte e flexibilidade para o cotidiano urbano.</p>",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/ha0/h00/h00/13470206394398/Thumbnail-V1002002760087-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/hc2/h00/h00/13470204428318/Thumbnail-Vans-V1002002760087-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h76/h00/h00/13470204559390/Midres-Vans-V1002002760087-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6c/h4d/h00/h00/13470204624926/Hires-Vans-V1002002760087-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4b/h0b/h00/h00/13470204821534/Lores-Vans-V1002002760087-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h84/h97/h00/h00/13470204493854/Lores-Vans-V1002002760087-01.jpg"
+      } ],
+      "installment" : "5x de R$109,99",
+      "legacyEntireSKU" : "V1002002760087U",
+      "legacySKU" : "V1002002760087",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Knu Skool Leopard Incense",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 549,99",
+         "priceType" : "BUY",
+         "value" : 549.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/hc2/h00/h00/13470204428318/Thumbnail-Vans-V1002002760087-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760087U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760087U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760087U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-leopard-incense/p/1002002760087U",
+      "variantDescription" : "Tênis Knu Skool Leopard Incense | Animalprint",
+      "variantOptions" : [ {
+         "code" : "1002002760087U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760087U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-43",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760087U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h7f/h00/h00/13484188860446/Thumbnail-Vans-V1002002760088-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hee/h27/h00/h00/13484189188126/Thumbnail-Vans-V1002002760088-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h32/h00/h00/13484189515806/Thumbnail-Vans-V1002002760088-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf9/h2a/h00/h00/13484189843486/Thumbnail-Vans-V1002002760088-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2d/ha6/h00/h00/13484190171166/Thumbnail-Vans-V1002002760088-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf3/hc2/h00/h00/13484190498846/Thumbnail-Vans-V1002002760088-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha5/hb9/h00/h00/13484189057054/Hires-Vans-V1002002760088-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/he8/h00/h00/13484189384734/Hires-Vans-V1002002760088-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h05/h75/h00/h00/13484189712414/Hires-Vans-V1002002760088-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h76/h14/h00/h00/13484190040094/Hires-Vans-V1002002760088-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h55/hab/h00/h00/13484190367774/Hires-Vans-V1002002760088-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hea/hfa/h00/h00/13484190695454/Hires-Vans-V1002002760088-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/hee/h00/h00/13484188991518/Midres-Vans-V1002002760088-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h58/h75/h00/h00/13484189319198/Midres-Vans-V1002002760088-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h28/h17/h00/h00/13484189646878/Midres-Vans-V1002002760088-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbd/h66/h00/h00/13484189974558/Midres-Vans-V1002002760088-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he0/h74/h00/h00/13484190302238/Midres-Vans-V1002002760088-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfe/h21/h00/h00/13484190629918/Midres-Vans-V1002002760088-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2f/h0d/h00/h00/13484188925982/Lores-Vans-V1002002760088-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h72/h56/h00/h00/13484189253662/Lores-Vans-V1002002760088-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h08/ha6/h00/h00/13484189581342/Lores-Vans-V1002002760088-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h3d/h00/h00/13484189909022/Lores-Vans-V1002002760088-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h48/h61/h00/h00/13484190236702/Lores-Vans-V1002002760088-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h33/h69/h00/h00/13484190564382/Lores-Vans-V1002002760088-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "ANIMALPRINT",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "PRODUTOSESTAMPADOS"
+      }, {
+         "code" : "TENDENCIAS"
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "EDICAOLIMITADA"
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 549,99",
+         "priceType" : "BUY",
+         "value" : 549.99
+      } ],
+      "code" : "1002002760088U",
+      "color" : "ANIMALPRINT",
+      "description" : "O Tênis Knu Skool Leopard Black traz o legado autêntico da Vans com construção vulcanizada e cabedal em couro combinado a detalhes em tecido listrado. Solado em borracha proporciona tração e durabilidade, enquanto o colarinho acolchoado oferece conforto e suporte. Design pensado para flexibilidade e resistência, com acabamento que valoriza expressão e atitude descontraída, mantendo os elementos técnicos e construtivos que marcaram a história da Vans.",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h20/h00/h00/13484190826526/Thumbnail-V1002002760088-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h7f/h00/h00/13484188860446/Thumbnail-Vans-V1002002760088-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/hee/h00/h00/13484188991518/Midres-Vans-V1002002760088-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha5/hb9/h00/h00/13484189057054/Hires-Vans-V1002002760088-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h72/h56/h00/h00/13484189253662/Lores-Vans-V1002002760088-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2f/h0d/h00/h00/13484188925982/Lores-Vans-V1002002760088-01.jpg"
+      } ],
+      "installment" : "5x de R$109,99",
+      "legacyEntireSKU" : "V1002002760088U",
+      "legacySKU" : "V1002002760088",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Knu Skool Leopard Black",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 549,99",
+         "priceType" : "BUY",
+         "value" : 549.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h7f/h00/h00/13484188860446/Thumbnail-Vans-V1002002760088-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760088U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1002002760088U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760088U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-leopard-black/p/1002002760088U",
+      "variantDescription" : "Tênis Knu Skool Leopard Black | Animalprint",
+      "variantOptions" : [ {
+         "code" : "1002002760088U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760088U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-43",
+         "sellable" : false
+      }, {
+         "code" : "1002002760088U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760088U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/ha9/h00/h00/13490845712414/Thumbnail-Vans-V1002002760090-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hce/h8d/h00/h00/13490846040094/Thumbnail-Vans-V1002002760090-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd8/hf1/h00/h00/13494428336158/Thumbnail-Vans-V1002002760090-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf7/haf/h00/h00/13494428663838/Thumbnail-Vans-V1002002760090-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8d/hff/h00/h00/13494428991518/Thumbnail-Vans-V1002002760090-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcd/h63/h00/h00/13494429319198/Thumbnail-Vans-V1002002760090-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h09/h00/h00/13490845909022/Hires-Vans-V1002002760090-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfc/h40/h00/h00/13490846236702/Hires-Vans-V1002002760090-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h40/h1e/h00/h00/13494428532766/Hires-Vans-V1002002760090-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd5/h6d/h00/h00/13494428860446/Hires-Vans-V1002002760090-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h39/h00/h00/13494429188126/Hires-Vans-V1002002760090-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6e/h44/h00/h00/13494429515806/Hires-Vans-V1002002760090-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb9/h5f/h00/h00/13490845843486/Midres-Vans-V1002002760090-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he8/h03/h00/h00/13490846171166/Midres-Vans-V1002002760090-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd0/h5d/h00/h00/13494428467230/Midres-Vans-V1002002760090-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h00/hbc/h00/h00/13494428794910/Midres-Vans-V1002002760090-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h4c/h00/h00/13494429122590/Midres-Vans-V1002002760090-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc6/h02/h00/h00/13494429450270/Midres-Vans-V1002002760090-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6f/h76/h00/h00/13490845777950/Lores-Vans-V1002002760090-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb3/hd2/h00/h00/13490846105630/Lores-Vans-V1002002760090-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h77/h73/h00/h00/13494428401694/Lores-Vans-V1002002760090-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2d/hd1/h00/h00/13494428729374/Lores-Vans-V1002002760090-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h30/hcb/h00/h00/13494429057054/Lores-Vans-V1002002760090-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9f/hd6/h00/h00/13494429384734/Lores-Vans-V1002002760090-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "EDICAOLIMITADA"
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "HALLOWEEN",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 599,99",
+         "priceType" : "BUY",
+         "value" : 599.99
+      } ],
+      "code" : "1002002760090U",
+      "color" : "PRETO",
+      "description" : "Tênis Knu Skool Pearl Suede Black traz o legado autêntico da Vans com construção vulcanizada e cabedal em couro combinado a detalhes em tecido listrado. Solado em borracha proporciona tração e durabilidade, enquanto o colarinho acolchoado oferece conforto e suporte. Design pensado para flexibilidade e resistência, com acabamento que valoriza expressão e atitude descontraída, mantendo os elementos técnicos e construtivos que marcaram a história da Vans.",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h09/h00/h00/13490846367774/Thumbnail-V1002002760090-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/ha9/h00/h00/13490845712414/Thumbnail-Vans-V1002002760090-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb9/h5f/h00/h00/13490845843486/Midres-Vans-V1002002760090-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h09/h00/h00/13490845909022/Hires-Vans-V1002002760090-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb3/hd2/h00/h00/13490846105630/Lores-Vans-V1002002760090-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6f/h76/h00/h00/13490845777950/Lores-Vans-V1002002760090-01.jpg"
+      } ],
+      "installment" : "6x de R$99,99",
+      "legacyEntireSKU" : "V1002002760090U",
+      "legacySKU" : "V1002002760090",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Knu Skool Pearl Suede Black",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 599,99",
+         "priceType" : "BUY",
+         "value" : 599.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/ha9/h00/h00/13490845712414/Thumbnail-Vans-V1002002760090-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760090U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1002002760090U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760090U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-pearl-suede-black/p/1002002760090U",
+      "variantDescription" : "Tênis Knu Skool Pearl Suede Black | Preto",
+      "variantOptions" : [ {
+         "code" : "1002002760090U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760090U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-38",
+         "sellable" : false
+      }, {
+         "code" : "1002002760090U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-43",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760090U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h09/h00/h00/13490852397086/Thumbnail-Vans-V1002002760091-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h02/h01/h00/h00/13490852724766/Thumbnail-Vans-V1002002760091-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5d/h18/h00/h00/13494430957598/Thumbnail-Vans-V1002002760091-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h00/h7c/h00/h00/13494431285278/Thumbnail-Vans-V1002002760091-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0a/h71/h00/h00/13494431612958/Thumbnail-Vans-V1002002760091-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha0/hc0/h00/h00/13494431940638/Thumbnail-Vans-V1002002760091-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf4/he5/h00/h00/13490852593694/Hires-Vans-V1002002760091-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h24/h43/h00/h00/13490852921374/Hires-Vans-V1002002760091-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf4/h31/h00/h00/13494431154206/Hires-Vans-V1002002760091-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h73/h00/h00/13494431481886/Hires-Vans-V1002002760091-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h08/hdc/h00/h00/13494431809566/Hires-Vans-V1002002760091-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h66/h78/h00/h00/13494432137246/Hires-Vans-V1002002760091-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he4/hee/h00/h00/13490852528158/Midres-Vans-V1002002760091-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb4/h90/h00/h00/13490852855838/Midres-Vans-V1002002760091-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h71/hc0/h00/h00/13494431088670/Midres-Vans-V1002002760091-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbe/h9c/h00/h00/13494431416350/Midres-Vans-V1002002760091-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h28/h4d/h00/h00/13494431744030/Midres-Vans-V1002002760091-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4b/h97/h00/h00/13494432071710/Midres-Vans-V1002002760091-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/hcf/h00/h00/13490852462622/Lores-Vans-V1002002760091-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6a/he0/h00/h00/13490852790302/Lores-Vans-V1002002760091-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc3/h5f/h00/h00/13494431023134/Lores-Vans-V1002002760091-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf3/hbd/h00/h00/13494431350814/Lores-Vans-V1002002760091-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h05/h3f/h00/h00/13494431678494/Lores-Vans-V1002002760091-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he2/hf5/h00/h00/13494432006174/Lores-Vans-V1002002760091-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "BRANCO",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "EDICAOLIMITADA"
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "ALLWHITE",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 599,99",
+         "priceType" : "BUY",
+         "value" : 599.99
+      } ],
+      "code" : "1002002760091U",
+      "color" : "BRANCO",
+      "description" : "O Tênis Knu Skool Pearl Marshmallow traz o legado autêntico da Vans com construção vulcanizada e cabedal em couro combinado a detalhes em tecido listrado. Solado em borracha proporciona tração e durabilidade, enquanto o colarinho acolchoado oferece conforto e suporte. Design pensado para flexibilidade e resistência, com acabamento que valoriza expressão e atitude descontraída, mantendo os elementos técnicos e construtivos que marcaram a história da Vans.",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9f/h62/h00/h00/13490853052446/Thumbnail-V1002002760091-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h09/h00/h00/13490852397086/Thumbnail-Vans-V1002002760091-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he4/hee/h00/h00/13490852528158/Midres-Vans-V1002002760091-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf4/he5/h00/h00/13490852593694/Hires-Vans-V1002002760091-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6a/he0/h00/h00/13490852790302/Lores-Vans-V1002002760091-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/hcf/h00/h00/13490852462622/Lores-Vans-V1002002760091-01.jpg"
+      } ],
+      "installment" : "6x de R$99,99",
+      "legacyEntireSKU" : "V1002002760091U",
+      "legacySKU" : "V1002002760091",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1002002760087U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/ha0/h00/h00/13470206394398/Thumbnail-V1002002760087-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/hc2/h00/h00/13470204428318/Thumbnail-Vans-V1002002760087-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-incense/p/1002002760087U"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h20/h00/h00/13484190826526/Thumbnail-V1002002760088-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h7f/h00/h00/13484188860446/Thumbnail-Vans-V1002002760088-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-black/p/1002002760088U"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h09/h00/h00/13490846367774/Thumbnail-V1002002760090-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/ha9/h00/h00/13490845712414/Thumbnail-Vans-V1002002760090-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-suede-black/p/1002002760090U"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9f/h62/h00/h00/13490853052446/Thumbnail-V1002002760091-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h09/h00/h00/13490852397086/Thumbnail-Vans-V1002002760091-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-marshmallow/p/1002002760091U"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haa/h45/h00/h00/12859384594462/Thumbnail-Vans-V1002002760002-01.jpg",
+         "url" : "/tenis-knu-skool-navy-true-white/p/1002002760002U"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hc3/h57/h00/h00/11549152706590/PRETO-2-.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h6c/h00/h00/12859397373982/Thumbnail-Vans-V1002002760001-01.jpg",
+         "url" : "/tenis-knu-skool-black-true-white/p/1002002760001U"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/h12/h4f/h00/h00/11549151559710/BEGE.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h8a/h00/h00/13361596825630/Thumbnail-Vans-V1002002760084-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-incense/p/1002002760084U"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h38/h00/h00/13494473555998/Thumbnail-V1002002760089-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h7a/h00/h00/13494472900638/Thumbnail-Vans-V1002002760089-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-olive-brown/p/1002002760089U"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf8/h7c/h00/h00/13426779160606/Thumbnail-V1002002760082-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h66/h00/h00/13426777128990/Thumbnail-Vans-V1002002760082-01.jpg",
+         "url" : "/tenis-knu-skool-creme-brule-brown/p/1002002760082U"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hdd/h00/h00/13490832343070/Thumbnail-V1002002760086-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h31/h00/h00/13490830376990/Thumbnail-Vans-V1002002760086-01.jpg",
+         "url" : "/tenis-knu-skool-nineties-salt-wash-navy-green/p/1002002760086U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Knu Skool Pearl Marshmallow",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 599,99",
+         "priceType" : "BUY",
+         "value" : 599.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h09/h00/h00/13490852397086/Thumbnail-Vans-V1002002760091-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760091U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U-34",
+         "size" : "34"
+      }, {
+         "available" : false,
+         "code" : "1002002760091U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1002002760091U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1002002760091U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U-39",
+         "size" : "39"
+      }, {
+         "available" : false,
+         "code" : "1002002760091U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1002002760091U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1002002760091U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760091U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-pearl-marshmallow/p/1002002760091U",
+      "variantDescription" : "Tênis Knu Skool Pearl Marshmallow | Branco",
+      "variantOptions" : [ {
+         "code" : "1002002760091U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-34",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-35",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-36",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-37",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760091U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760091U-40",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-41",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760091U-43",
+         "sellable" : false
+      }, {
+         "code" : "1002002760091U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760091U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haa/h45/h00/h00/12859384594462/Thumbnail-Vans-V1002002760002-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h25/h5d/h00/h00/12859384922142/Thumbnail-Vans-V1002002760002-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3f/h95/h00/h00/12859384266782/Thumbnail-Vans-V1002002760002-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h70/h03/h00/h00/12859383939102/Thumbnail-Vans-V1002002760002-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hea/hb7/h00/h00/12859383611422/Thumbnail-Vans-V1002002760002-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcb/h87/h00/h00/12859384791070/Hires-Vans-V1002002760002-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h09/hb3/h00/h00/12859385184286/Hires-Vans-V1002002760002-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h61/hd7/h00/h00/12859384463390/Hires-Vans-V1002002760002-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4b/hdf/h00/h00/12859384135710/Hires-Vans-V1002002760002-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h28/h95/h00/h00/12859383808030/Hires-Vans-V1002002760002-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h47/h9f/h00/h00/12859384725534/Midres-Vans-V1002002760002-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h15/hfd/h00/h00/12859385053214/Midres-Vans-V1002002760002-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h03/h00/h00/12859384397854/Midres-Vans-V1002002760002-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h67/h9a/h00/h00/12859384070174/Midres-Vans-V1002002760002-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h09/hfe/h00/h00/12859383742494/Midres-Vans-V1002002760002-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8a/hd4/h00/h00/12859384659998/Lores-Vans-V1002002760002-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf4/h84/h00/h00/12859384987678/Lores-Vans-V1002002760002-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h42/hdc/h00/h00/12859384332318/Lores-Vans-V1002002760002-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hac/h8c/h00/h00/12859384004638/Lores-Vans-V1002002760002-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2f/h2a/h00/h00/12859383676958/Lores-Vans-V1002002760002-05.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "AZUL",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "SEASONALKNU",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "NOHYPE",
+         "level" : 0
+      }, {
+         "code" : "TENISESTILOSO"
+      }, {
+         "code" : "VINTAGE",
+         "level" : 0
+      }, {
+         "code" : "TENISMODA"
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "FTWCLIENTE",
+         "level" : 0
+      }, {
+         "code" : "NOVASSILHUETAS"
+      }, {
+         "code" : "BESTSELLERS",
+         "level" : 0
+      }, {
+         "code" : "VERAO",
+         "level" : 0
+      }, {
+         "code" : "BLOCODAVANS",
+         "level" : 0
+      }, {
+         "code" : "BLOCODAVANSFTW"
+      }, {
+         "code" : "KNUSKOOLCAMP"
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "CLASSICS"
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PRODUTOSMOFADOSCD",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "TENDENCIAS"
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "ACADEMIA",
+         "level" : 0
+      }, {
+         "code" : "CLASSICOSVANS",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "BACKTOSKOOL",
+         "level" : 0
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "AMIZADE"
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1002002760002U",
+      "color" : "AZUL",
+      "description" : "Um estilo “volumoso” típico dos anos 90 que foi inspirado no tênis de cano baixo da Vans. O Knu Skool é a interpretação contemporânea de um estilo clássico dos anos 90, caracterizado por sua lingueta volumosa e Sidestripe Vans moldada em 3D, com acabamento marcado por cadarços oversized e robustos. Com perfil marcante e detalhes em estilo dramático, o Tênis Knu Skool Navy True White brinca com o original Old Skool enquanto mescla um ícone do passado com as tendências do presente.",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haa/h45/h00/h00/12859384594462/Thumbnail-Vans-V1002002760002-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h47/h9f/h00/h00/12859384725534/Midres-Vans-V1002002760002-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcb/h87/h00/h00/12859384791070/Hires-Vans-V1002002760002-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf4/h84/h00/h00/12859384987678/Lores-Vans-V1002002760002-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8a/hd4/h00/h00/12859384659998/Lores-Vans-V1002002760002-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1002002760002U",
+      "legacySKU" : "V1002002760002",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Knu Skool Navy True White",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haa/h45/h00/h00/12859384594462/Thumbnail-Vans-V1002002760002-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : true,
+         "code" : "1002002760002U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-44",
+         "size" : "44"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-navy-true-white/p/1002002760002U",
+      "variantDescription" : "Tênis Knu Skool Navy True White | Azul",
+      "variantOptions" : [ {
+         "code" : "1002002760002U-33",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-43",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760002U-45",
+         "sellable" : true
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h97/h68/h00/h00/13334515843102/Thumbnail-Vans-V1002002760001-HO.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h6c/h00/h00/12859397373982/Thumbnail-Vans-V1002002760001-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h37/hed/h00/h00/12859397046302/Thumbnail-Vans-V1002002760001-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h26/haf/h00/h00/12859396718622/Thumbnail-Vans-V1002002760001-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb8/he8/h00/h00/12859396390942/Thumbnail-Vans-V1002002760001-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h8a/h00/h00/12859396063262/Thumbnail-Vans-V1002002760001-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h64/h4f/h00/h00/13334516039710/Hires-Vans-V1002002760001-HO.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcb/h2a/h00/h00/12859397570590/Hires-Vans-V1002002760001-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he1/h22/h00/h00/12859397242910/Hires-Vans-V1002002760001-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h04/h6d/h00/h00/12859396915230/Hires-Vans-V1002002760001-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcb/h35/h00/h00/12859396587550/Hires-Vans-V1002002760001-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h61/h85/h00/h00/12859396259870/Hires-Vans-V1002002760001-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8b/h1e/h00/h00/13334515974174/Midres-Vans-V1002002760001-HO.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5b/h00/h00/h00/12859397505054/Midres-Vans-V1002002760001-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2b/ha3/h00/h00/12859397177374/Midres-Vans-V1002002760001-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h32/hf9/h00/h00/12859396849694/Midres-Vans-V1002002760001-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/ha9/h00/h00/12859396522014/Midres-Vans-V1002002760001-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2f/h07/h00/h00/12859396194334/Midres-Vans-V1002002760001-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/hf7/h00/h00/13334515908638/Lores-Vans-V1002002760001-HO.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7e/hd3/h00/h00/12859397439518/Lores-Vans-V1002002760001-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h26/h71/h00/h00/12859397111838/Lores-Vans-V1002002760001-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3d/h7a/h00/h00/12859396784158/Lores-Vans-V1002002760001-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/hc9/h00/h00/12859396456478/Lores-Vans-V1002002760001-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h97/he6/h00/h00/12859396128798/Lores-Vans-V1002002760001-05.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "BESTSELLERS",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "SEASONALKNU",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "VINTAGE",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "CARRYOVERFORYOU",
+         "level" : 0
+      }, {
+         "code" : "NOVASSILHUETAS"
+      }, {
+         "code" : "NOHYPE",
+         "level" : 0
+      }, {
+         "code" : "BLOCODAVANS",
+         "level" : 0
+      }, {
+         "code" : "BLOCODAVANSFTW"
+      }, {
+         "code" : "KNUSKOOLCAMP"
+      }, {
+         "code" : "FORAPROMO"
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "PRESENTESOFFTHEWALL"
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "FAVORITOS",
+         "level" : 0
+      }, {
+         "code" : "COMOUSARKNU"
+      }, {
+         "code" : "WINTER"
+      }, {
+         "code" : "BACKTOSKOOL",
+         "level" : 0
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "PRODUTOSMOFADOSCD",
+         "level" : 0
+      }, {
+         "code" : "TENDENCIAY2K"
+      }, {
+         "code" : "LOOKSKNUSKOOL"
+      }, {
+         "code" : "BLACKWHITE"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      }, {
+         "code" : "MAISVENDIDOS"
+      }, {
+         "code" : "NATAL"
+      }, {
+         "code" : "HOHOHO"
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "CLASSICS"
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "OPORTUNIDADES"
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "TENDENCIAS"
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "TALMAETALFILHO"
+      }, {
+         "code" : "ACADEMIA",
+         "level" : 0
+      }, {
+         "code" : "CLASSICOSVANS",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "AMIZADE"
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "FULL"
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1002002760001U",
+      "color" : "PRETO",
+      "description" : "Um estilo “volumoso” típico dos anos 90 que foi inspirado no tênis de cano baixo da Vans. O Knu Skool é a interpretação contemporânea de um estilo clássico dos anos 90, caracterizado por sua lingueta volumosa e Sidestripe Vans moldada em 3D, com acabamento marcado por cadarços oversized e robustos. Com perfil marcante e detalhes em estilo dramático, o Tênis Knu Skool Black True White brinca com o original Old Skool enquanto mescla um ícone do passado com as tendências do presente.",
+      "hasPriceVariations" : false,
+      "hasVideo" : true,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/root/hc3/h57/h00/h00/11549152706590/PRETO-2-.png"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h6c/h00/h00/12859397373982/Thumbnail-Vans-V1002002760001-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5b/h00/h00/h00/12859397505054/Midres-Vans-V1002002760001-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcb/h2a/h00/h00/12859397570590/Hires-Vans-V1002002760001-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/hf7/h00/h00/13334515908638/Lores-Vans-V1002002760001-HO.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7e/hd3/h00/h00/12859397439518/Lores-Vans-V1002002760001-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1002002760001U",
+      "legacySKU" : "V1002002760001",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Knu Skool Black True White",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h6c/h00/h00/12859397373982/Thumbnail-Vans-V1002002760001-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : true,
+         "code" : "1002002760001U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-44",
+         "size" : "44"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-black-true-white/p/1002002760001U",
+      "variantDescription" : "Tênis Knu Skool Black True White | Preto",
+      "variantOptions" : [ {
+         "code" : "1002002760001U-33",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-43",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760001U-45",
+         "sellable" : true
+      } ],
+      "videoVimeoUrl" : "https://player.vimeo.com/progressive_redirect/playback/1088483612/rendition/1080p/file.mp4?loc=external&signature=937ff3d873430dad29a9198bfb0141fd2d2e098c55dccd9c975a57677aee7534",
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h8a/h00/h00/13361596825630/Thumbnail-Vans-V1002002760084-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h26/h00/h00/13361597153310/Thumbnail-Vans-V1002002760084-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h85/hcc/h00/h00/13361597480990/Thumbnail-Vans-V1002002760084-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h59/hcb/h00/h00/13361597808670/Thumbnail-Vans-V1002002760084-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb1/hba/h00/h00/13361597022238/Hires-Vans-V1002002760084-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h23/h00/h00/13361597349918/Hires-Vans-V1002002760084-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he8/h1b/h00/h00/13361597677598/Hires-Vans-V1002002760084-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf4/h9a/h00/h00/13361598005278/Hires-Vans-V1002002760084-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6b/h07/h00/h00/13361596956702/Midres-Vans-V1002002760084-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h23/h00/h00/13361597284382/Midres-Vans-V1002002760084-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h32/hc6/h00/h00/13361597612062/Midres-Vans-V1002002760084-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hef/ha2/h00/h00/13361597939742/Midres-Vans-V1002002760084-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h50/h4c/h00/h00/13361596891166/Lores-Vans-V1002002760084-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8a/hb5/h00/h00/13361597218846/Lores-Vans-V1002002760084-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf4/h65/h00/h00/13361597546526/Lores-Vans-V1002002760084-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5e/h16/h00/h00/13361597874206/Lores-Vans-V1002002760084-04.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "BEGE",
+         "level" : 0
+      }, {
+         "code" : "COLORTHEORY",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1002002760084U",
+      "color" : "BEGE",
+      "description" : "O Tênis Knu Skool Color Theory Incense traz o legado autêntico da Vans com construção vulcanizada e cabedal em couro combinado a detalhes em tecido listrado. Solado em borracha proporciona tração e durabilidade, enquanto o colarinho acolchoado oferece conforto e suporte. Design pensado para flexibilidade e resistência, com acabamento que valoriza expressão e atitude descontraída, mantendo os elementos técnicos e construtivos que marcaram a história da Vans.",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/root/h12/h4f/h00/h00/11549151559710/BEGE.png"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h8a/h00/h00/13361596825630/Thumbnail-Vans-V1002002760084-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6b/h07/h00/h00/13361596956702/Midres-Vans-V1002002760084-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb1/hba/h00/h00/13361597022238/Hires-Vans-V1002002760084-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8a/hb5/h00/h00/13361597218846/Lores-Vans-V1002002760084-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h50/h4c/h00/h00/13361596891166/Lores-Vans-V1002002760084-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1002002760084U",
+      "legacySKU" : "V1002002760084",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1002002760087U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/ha0/h00/h00/13470206394398/Thumbnail-V1002002760087-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/hc2/h00/h00/13470204428318/Thumbnail-Vans-V1002002760087-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-incense/p/1002002760087U"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h20/h00/h00/13484190826526/Thumbnail-V1002002760088-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h7f/h00/h00/13484188860446/Thumbnail-Vans-V1002002760088-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-black/p/1002002760088U"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h09/h00/h00/13490846367774/Thumbnail-V1002002760090-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/ha9/h00/h00/13490845712414/Thumbnail-Vans-V1002002760090-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-suede-black/p/1002002760090U"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9f/h62/h00/h00/13490853052446/Thumbnail-V1002002760091-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h09/h00/h00/13490852397086/Thumbnail-Vans-V1002002760091-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-marshmallow/p/1002002760091U"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haa/h45/h00/h00/12859384594462/Thumbnail-Vans-V1002002760002-01.jpg",
+         "url" : "/tenis-knu-skool-navy-true-white/p/1002002760002U"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hc3/h57/h00/h00/11549152706590/PRETO-2-.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h6c/h00/h00/12859397373982/Thumbnail-Vans-V1002002760001-01.jpg",
+         "url" : "/tenis-knu-skool-black-true-white/p/1002002760001U"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/h12/h4f/h00/h00/11549151559710/BEGE.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h8a/h00/h00/13361596825630/Thumbnail-Vans-V1002002760084-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-incense/p/1002002760084U"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h38/h00/h00/13494473555998/Thumbnail-V1002002760089-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h7a/h00/h00/13494472900638/Thumbnail-Vans-V1002002760089-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-olive-brown/p/1002002760089U"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf8/h7c/h00/h00/13426779160606/Thumbnail-V1002002760082-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h66/h00/h00/13426777128990/Thumbnail-Vans-V1002002760082-01.jpg",
+         "url" : "/tenis-knu-skool-creme-brule-brown/p/1002002760082U"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hdd/h00/h00/13490832343070/Thumbnail-V1002002760086-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h31/h00/h00/13490830376990/Thumbnail-Vans-V1002002760086-01.jpg",
+         "url" : "/tenis-knu-skool-nineties-salt-wash-navy-green/p/1002002760086U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Knu Skool Color Theory Incense",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h8a/h00/h00/13361596825630/Thumbnail-Vans-V1002002760084-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760084U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760084U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-color-theory-incense/p/1002002760084U",
+      "variantDescription" : "Tênis Knu Skool Color Theory Incense | Bege",
+      "variantOptions" : [ {
+         "code" : "1002002760084U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760084U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-43",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760084U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h7a/h00/h00/13494472900638/Thumbnail-Vans-V1002002760089-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h84/hde/h00/h00/13494473228318/Thumbnail-Vans-V1002002760089-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h50/h27/h00/h00/13509973377054/Thumbnail-Vans-V1002002760089-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h1c/h00/h00/13509973704734/Thumbnail-Vans-V1002002760089-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfc/h7f/h00/h00/13509974032414/Thumbnail-Vans-V1002002760089-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h87/h00/h00/13509974360094/Thumbnail-Vans-V1002002760089-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h06/h00/h00/13494473097246/Hires-Vans-V1002002760089-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/h11/h00/h00/13494473424926/Hires-Vans-V1002002760089-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h97/hc8/h00/h00/13509973573662/Hires-Vans-V1002002760089-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc7/h25/h00/h00/13509973901342/Hires-Vans-V1002002760089-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h16/hcd/h00/h00/13509974229022/Hires-Vans-V1002002760089-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb9/hd4/h00/h00/13509974556702/Hires-Vans-V1002002760089-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h2d/h00/h00/13494473031710/Midres-Vans-V1002002760089-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1f/hd5/h00/h00/13494473359390/Midres-Vans-V1002002760089-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbd/hf3/h00/h00/13509973508126/Midres-Vans-V1002002760089-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h12/hae/h00/h00/13509973835806/Midres-Vans-V1002002760089-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h08/hca/h00/h00/13509974163486/Midres-Vans-V1002002760089-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h61/he6/h00/h00/13509974491166/Midres-Vans-V1002002760089-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/hac/h00/h00/13494472966174/Lores-Vans-V1002002760089-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h54/hf6/h00/h00/13494473293854/Lores-Vans-V1002002760089-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb1/ha5/h00/h00/13509973442590/Lores-Vans-V1002002760089-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h46/hf5/h00/h00/13509973770270/Lores-Vans-V1002002760089-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcd/h5f/h00/h00/13509974097950/Lores-Vans-V1002002760089-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h02/h43/h00/h00/13509974425630/Lores-Vans-V1002002760089-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "FULL"
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "MARROM",
+         "level" : 0
+      }, {
+         "code" : "COLORTHEORY",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1002002760089U",
+      "color" : "MARROM",
+      "description" : "O Tênis Knu Skool Color Theory Olive Brown traz o legado autêntico da Vans com construção vulcanizada e cabedal em couro combinado a detalhes em tecido listrado. Solado em borracha proporciona tração e durabilidade, enquanto o colarinho acolchoado oferece conforto e suporte. Design pensado para flexibilidade e resistência, com acabamento que valoriza expressão e atitude descontraída, mantendo os elementos técnicos e construtivos que marcaram a história da Vans..",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h38/h00/h00/13494473555998/Thumbnail-V1002002760089-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h7a/h00/h00/13494472900638/Thumbnail-Vans-V1002002760089-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h2d/h00/h00/13494473031710/Midres-Vans-V1002002760089-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h06/h00/h00/13494473097246/Hires-Vans-V1002002760089-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h54/hf6/h00/h00/13494473293854/Lores-Vans-V1002002760089-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/hac/h00/h00/13494472966174/Lores-Vans-V1002002760089-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1002002760089U",
+      "legacySKU" : "V1002002760089",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Knu Skool Color Theory Olive Brown",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h7a/h00/h00/13494472900638/Thumbnail-Vans-V1002002760089-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760089U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760089U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-color-theory-olive-brown/p/1002002760089U",
+      "variantDescription" : "Tênis Knu Skool Color Theory Olive Brown | Marrom",
+      "variantOptions" : [ {
+         "code" : "1002002760089U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760089U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-43",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760089U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h66/h00/h00/13426777128990/Thumbnail-Vans-V1002002760082-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/hb6/h00/h00/13426777456670/Thumbnail-Vans-V1002002760082-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfd/hf9/h00/h00/13426777784350/Thumbnail-Vans-V1002002760082-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h20/h43/h00/h00/13426778112030/Thumbnail-Vans-V1002002760082-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbe/h53/h00/h00/13426778439710/Thumbnail-Vans-V1002002760082-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h5b/h00/h00/13426778767390/Thumbnail-Vans-V1002002760082-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h65/h22/h00/h00/13426777325598/Hires-Vans-V1002002760082-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfb/h71/h00/h00/13426777653278/Hires-Vans-V1002002760082-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcb/h13/h00/h00/13426777980958/Hires-Vans-V1002002760082-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h49/h40/h00/h00/13426778308638/Hires-Vans-V1002002760082-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h0f/h00/h00/13426778636318/Hires-Vans-V1002002760082-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8e/h96/h00/h00/13426778963998/Hires-Vans-V1002002760082-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h46/hb1/h00/h00/13426777260062/Midres-Vans-V1002002760082-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdb/hb7/h00/h00/13426777587742/Midres-Vans-V1002002760082-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0b/h15/h00/h00/13426777915422/Midres-Vans-V1002002760082-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h97/h4e/h00/h00/13426778243102/Midres-Vans-V1002002760082-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h44/h57/h00/h00/13426778570782/Midres-Vans-V1002002760082-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/hed/h00/h00/13426778898462/Midres-Vans-V1002002760082-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he0/h7a/h00/h00/13426777194526/Lores-Vans-V1002002760082-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hef/h27/h00/h00/13426777522206/Lores-Vans-V1002002760082-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h22/h77/h00/h00/13426777849886/Lores-Vans-V1002002760082-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc4/hda/h00/h00/13426778177566/Lores-Vans-V1002002760082-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6b/h82/h00/h00/13426778505246/Lores-Vans-V1002002760082-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9b/he0/h00/h00/13426778832926/Lores-Vans-V1002002760082-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "BEGE",
+         "level" : 0
+      }, {
+         "code" : "NEUTROS",
+         "level" : 0
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "AMIZADE"
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1002002760082U",
+      "color" : "BEGE",
+      "description" : "O Tênis Knu Skool Creme Brule Brown traz o legado autêntico da Vans com construção vulcanizada e cabedal em couro combinado a detalhes em tecido listrado. Solado em borracha proporciona tração e durabilidade, enquanto o colarinho acolchoado oferece conforto e suporte. Design pensado para flexibilidade e resistência, com acabamento que valoriza expressão e atitude descontraída, mantendo os elementos técnicos e construtivos que marcaram a história da Vans.",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf8/h7c/h00/h00/13426779160606/Thumbnail-V1002002760082-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h66/h00/h00/13426777128990/Thumbnail-Vans-V1002002760082-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h46/hb1/h00/h00/13426777260062/Midres-Vans-V1002002760082-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h65/h22/h00/h00/13426777325598/Hires-Vans-V1002002760082-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hef/h27/h00/h00/13426777522206/Lores-Vans-V1002002760082-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he0/h7a/h00/h00/13426777194526/Lores-Vans-V1002002760082-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1002002760082U",
+      "legacySKU" : "V1002002760082",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1002002760087U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/ha0/h00/h00/13470206394398/Thumbnail-V1002002760087-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/hc2/h00/h00/13470204428318/Thumbnail-Vans-V1002002760087-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-incense/p/1002002760087U"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h20/h00/h00/13484190826526/Thumbnail-V1002002760088-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h7f/h00/h00/13484188860446/Thumbnail-Vans-V1002002760088-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-black/p/1002002760088U"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h09/h00/h00/13490846367774/Thumbnail-V1002002760090-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/ha9/h00/h00/13490845712414/Thumbnail-Vans-V1002002760090-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-suede-black/p/1002002760090U"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9f/h62/h00/h00/13490853052446/Thumbnail-V1002002760091-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h09/h00/h00/13490852397086/Thumbnail-Vans-V1002002760091-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-marshmallow/p/1002002760091U"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haa/h45/h00/h00/12859384594462/Thumbnail-Vans-V1002002760002-01.jpg",
+         "url" : "/tenis-knu-skool-navy-true-white/p/1002002760002U"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hc3/h57/h00/h00/11549152706590/PRETO-2-.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h6c/h00/h00/12859397373982/Thumbnail-Vans-V1002002760001-01.jpg",
+         "url" : "/tenis-knu-skool-black-true-white/p/1002002760001U"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/h12/h4f/h00/h00/11549151559710/BEGE.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h8a/h00/h00/13361596825630/Thumbnail-Vans-V1002002760084-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-incense/p/1002002760084U"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h38/h00/h00/13494473555998/Thumbnail-V1002002760089-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h7a/h00/h00/13494472900638/Thumbnail-Vans-V1002002760089-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-olive-brown/p/1002002760089U"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf8/h7c/h00/h00/13426779160606/Thumbnail-V1002002760082-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h66/h00/h00/13426777128990/Thumbnail-Vans-V1002002760082-01.jpg",
+         "url" : "/tenis-knu-skool-creme-brule-brown/p/1002002760082U"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hdd/h00/h00/13490832343070/Thumbnail-V1002002760086-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h31/h00/h00/13490830376990/Thumbnail-Vans-V1002002760086-01.jpg",
+         "url" : "/tenis-knu-skool-nineties-salt-wash-navy-green/p/1002002760086U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Knu Skool Creme Brule Brown",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h66/h00/h00/13426777128990/Thumbnail-Vans-V1002002760082-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760082U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1002002760082U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1002002760082U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1002002760082U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1002002760082U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760082U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-creme-brule-brown/p/1002002760082U",
+      "variantDescription" : "Tênis Knu Skool Creme Brule Brown | Bege",
+      "variantOptions" : [ {
+         "code" : "1002002760082U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760082U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760082U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760082U-36",
+         "sellable" : false
+      }, {
+         "code" : "1002002760082U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760082U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760082U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760082U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760082U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760082U-42",
+         "sellable" : false
+      }, {
+         "code" : "1002002760082U-43",
+         "sellable" : false
+      }, {
+         "code" : "1002002760082U-44",
+         "sellable" : false
+      }, {
+         "code" : "1002002760082U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h31/h00/h00/13490830376990/Thumbnail-Vans-V1002002760086-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h86/hd4/h00/h00/13490830704670/Thumbnail-Vans-V1002002760086-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/hc7/h00/h00/13490831032350/Thumbnail-Vans-V1002002760086-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h41/h78/h00/h00/13490831360030/Thumbnail-Vans-V1002002760086-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9d/h1e/h00/h00/13490831687710/Thumbnail-Vans-V1002002760086-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hce/h8d/h00/h00/13490832015390/Thumbnail-Vans-V1002002760086-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbb/h12/h00/h00/13490830573598/Hires-Vans-V1002002760086-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h14/h90/h00/h00/13490830901278/Hires-Vans-V1002002760086-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h00/hc5/h00/h00/13490831228958/Hires-Vans-V1002002760086-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6a/h75/h00/h00/13490831556638/Hires-Vans-V1002002760086-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd4/h25/h00/h00/13490831884318/Hires-Vans-V1002002760086-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h69/h64/h00/h00/13490832211998/Hires-Vans-V1002002760086-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h92/h3b/h00/h00/13490830508062/Midres-Vans-V1002002760086-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc2/h99/h00/h00/13490830835742/Midres-Vans-V1002002760086-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1f/h36/h00/h00/13490831163422/Midres-Vans-V1002002760086-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h19/h00/h00/13490831491102/Midres-Vans-V1002002760086-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/hbb/h00/h00/13490831818782/Midres-Vans-V1002002760086-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7a/he0/h00/h00/13490832146462/Midres-Vans-V1002002760086-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc7/h5c/h00/h00/13490830442526/Lores-Vans-V1002002760086-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/h0d/h00/h00/13490830770206/Lores-Vans-V1002002760086-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0e/h56/h00/h00/13490831097886/Lores-Vans-V1002002760086-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hde/hf8/h00/h00/13490831425566/Lores-Vans-V1002002760086-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8c/hb7/h00/h00/13490831753246/Lores-Vans-V1002002760086-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h50/hfe/h00/h00/13490832080926/Lores-Vans-V1002002760086-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "KNUSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "PUFF",
+         "level" : 0
+      }, {
+         "code" : "KNU",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "VERDE",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "BAPEXVANS",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1002002760086U",
+      "color" : "VERDE",
+      "description" : "O Tênis Knu Skool Nineties Salt Wash Navy Green traz o legado autêntico da Vans com construção vulcanizada e cabedal em couro combinado a detalhes em tecido listrado. Solado em borracha proporciona tração e durabilidade, enquanto o colarinho acolchoado oferece conforto e suporte. Design pensado para flexibilidade e resistência, com acabamento que valoriza expressão e atitude descontraída, mantendo os elementos técnicos e construtivos que marcaram a história da Vans.",
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hdd/h00/h00/13490832343070/Thumbnail-V1002002760086-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h31/h00/h00/13490830376990/Thumbnail-Vans-V1002002760086-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h92/h3b/h00/h00/13490830508062/Midres-Vans-V1002002760086-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbb/h12/h00/h00/13490830573598/Hires-Vans-V1002002760086-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/h0d/h00/h00/13490830770206/Lores-Vans-V1002002760086-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc7/h5c/h00/h00/13490830442526/Lores-Vans-V1002002760086-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1002002760086U",
+      "legacySKU" : "V1002002760086",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1002002760087U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/ha0/h00/h00/13470206394398/Thumbnail-V1002002760087-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/hc2/h00/h00/13470204428318/Thumbnail-Vans-V1002002760087-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-incense/p/1002002760087U"
+      }, {
+         "available" : true,
+         "code" : "1002002760088U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h20/h00/h00/13484190826526/Thumbnail-V1002002760088-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h7f/h00/h00/13484188860446/Thumbnail-Vans-V1002002760088-01.jpg",
+         "url" : "/tenis-knu-skool-leopard-black/p/1002002760088U"
+      }, {
+         "available" : true,
+         "code" : "1002002760090U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h09/h00/h00/13490846367774/Thumbnail-V1002002760090-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/ha9/h00/h00/13490845712414/Thumbnail-Vans-V1002002760090-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-suede-black/p/1002002760090U"
+      }, {
+         "available" : true,
+         "code" : "1002002760091U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9f/h62/h00/h00/13490853052446/Thumbnail-V1002002760091-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h09/h00/h00/13490852397086/Thumbnail-Vans-V1002002760091-01.jpg",
+         "url" : "/tenis-knu-skool-pearl-marshmallow/p/1002002760091U"
+      }, {
+         "available" : true,
+         "code" : "1002002760002U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haa/h45/h00/h00/12859384594462/Thumbnail-Vans-V1002002760002-01.jpg",
+         "url" : "/tenis-knu-skool-navy-true-white/p/1002002760002U"
+      }, {
+         "available" : true,
+         "code" : "1002002760001U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hc3/h57/h00/h00/11549152706590/PRETO-2-.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hed/h6c/h00/h00/12859397373982/Thumbnail-Vans-V1002002760001-01.jpg",
+         "url" : "/tenis-knu-skool-black-true-white/p/1002002760001U"
+      }, {
+         "available" : true,
+         "code" : "1002002760084U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/h12/h4f/h00/h00/11549151559710/BEGE.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4c/h8a/h00/h00/13361596825630/Thumbnail-Vans-V1002002760084-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-incense/p/1002002760084U"
+      }, {
+         "available" : true,
+         "code" : "1002002760089U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h38/h00/h00/13494473555998/Thumbnail-V1002002760089-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h7a/h00/h00/13494472900638/Thumbnail-Vans-V1002002760089-01.jpg",
+         "url" : "/tenis-knu-skool-color-theory-olive-brown/p/1002002760089U"
+      }, {
+         "available" : true,
+         "code" : "1002002760082U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf8/h7c/h00/h00/13426779160606/Thumbnail-V1002002760082-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h66/h00/h00/13426777128990/Thumbnail-Vans-V1002002760082-01.jpg",
+         "url" : "/tenis-knu-skool-creme-brule-brown/p/1002002760082U"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hdd/h00/h00/13490832343070/Thumbnail-V1002002760086-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h31/h00/h00/13490830376990/Thumbnail-Vans-V1002002760086-01.jpg",
+         "url" : "/tenis-knu-skool-nineties-salt-wash-navy-green/p/1002002760086U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Knu Skool Nineties Salt Wash Navy Green",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h31/h00/h00/13490830376990/Thumbnail-Vans-V1002002760086-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002002760086U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1002002760086U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002002760086U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-knu-skool-nineties-salt-wash-navy-green/p/1002002760086U",
+      "variantDescription" : "Tênis Knu Skool Nineties Salt Wash Navy Green | Verde",
+      "variantOptions" : [ {
+         "code" : "1002002760086U-33",
+         "sellable" : false
+      }, {
+         "code" : "1002002760086U-34",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-35",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-36",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-37",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-38",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-39",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-40",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-41",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-42",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-43",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-44",
+         "sellable" : true
+      }, {
+         "code" : "1002002760086U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   } ],
+   "description" : "O Tênis Knu Skool Pig Deep Twilight é uma interpretação moderna de um estilo clássico dos anos 90, definido por sua língua bufante e SideStripe™ em 3D, finalizada com cadarços robustos. Com perfil e detalhes de estilo marcantes, o Knu Skool se inspira no Old Skool original, combinando um ícone do passado com as tendências atuais.",
+   "favorited" : false,
+   "hasPriceVariations" : false,
+   "heelSize" : 0.0,
+   "installment" : "6x de R$116,66",
+   "legacySKU" : "V1002002760052",
+   "name" : "Tênis Knu Skool Pig Deep Twilight",
+   "price" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 699,99",
+      "priceType" : "FROM",
+      "value" : 699.99
+   },
+   "primaryImage" : {
+      "format" : "thumbnail",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/h2c/h00/h00/12928588873758/Thumbnail-Vans-V1002002760052-01.jpg"
+   },
+   "productHeight" : "0",
+   "productLength" : "0",
+   "productType" : "shoe",
+   "productWidth" : "0",
+   "purchasable" : true,
+   "selectedColor" : false,
+   "sellable" : true,
+   "sellableOmni" : true,
+   "stock" : {
+      "stockLevel" : 0,
+      "stockLevelStatus" : "inStock"
+   },
+   "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U",
+   "variantOptions" : [ {
+      "code" : "1002002760052U-33",
+      "displayText" : "33",
+      "ean" : "197804441549",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-33",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "33"
+      } ]
+   }, {
+      "code" : "1002002760052U-34",
+      "displayText" : "34",
+      "ean" : "197804441600",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 20,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-34",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "34"
+      } ]
+   }, {
+      "code" : "1002002760052U-35",
+      "displayText" : "35",
+      "ean" : "197804441655",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 17,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-35",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "35"
+      } ]
+   }, {
+      "code" : "1002002760052U-36",
+      "displayText" : "36",
+      "ean" : "197804442027",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 20,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-36",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "36"
+      } ]
+   }, {
+      "code" : "1002002760052U-37",
+      "displayText" : "37",
+      "ean" : "197804442249",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 16,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-37",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "37"
+      } ]
+   }, {
+      "code" : "1002002760052U-38",
+      "displayText" : "38",
+      "ean" : "197804442454",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 14,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-38",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "38"
+      } ]
+   }, {
+      "code" : "1002002760052U-39",
+      "displayText" : "39",
+      "ean" : "197804442805",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 52,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-39",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "39"
+      } ]
+   }, {
+      "code" : "1002002760052U-40",
+      "displayText" : "40",
+      "ean" : "197804442874",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 55,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-40",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "40"
+      } ]
+   }, {
+      "code" : "1002002760052U-41",
+      "displayText" : "41",
+      "ean" : "197804443093",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 70,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-41",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "41"
+      } ]
+   }, {
+      "code" : "1002002760052U-42",
+      "displayText" : "42",
+      "ean" : "197804443253",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 29,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-42",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "42"
+      } ]
+   }, {
+      "code" : "1002002760052U-43",
+      "displayText" : "43",
+      "ean" : "197804443413",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-43",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "43"
+      } ]
+   }, {
+      "code" : "1002002760052U-44",
+      "displayText" : "44",
+      "ean" : "197804443604",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-44",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "44"
+      } ]
+   }, {
+      "code" : "1002002760052U-45",
+      "displayText" : "45",
+      "ean" : "197804443659",
+      "installments" : "6x de R$116,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 699.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-knu-skool-pig-deep-twilight/p/1002002760052U-45",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "45"
+      } ]
+   } ]
+}

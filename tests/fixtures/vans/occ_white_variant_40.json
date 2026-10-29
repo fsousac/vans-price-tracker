@@ -1,0 +1,345 @@
+{
+   "availableInStore" : false,
+   "baseOptions" : [ {
+      "selected" : {
+         "cashback" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 0,00",
+            "priceType" : "FROM",
+            "value" : 0.0
+         },
+         "code" : "1002000690063U-40",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 149,99",
+            "priceType" : "BUY",
+            "value" : 149.99
+         },
+         "displayText" : "40",
+         "ean" : "7909150602115",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 299,99",
+            "priceType" : "FROM",
+            "value" : 299.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-era-true-white/p/1002000690063U-40",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "40"
+         } ]
+      },
+      "variantType" : "SizeVariantProduct"
+   }, {
+      "selected" : {
+         "cashback" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 0,00",
+            "priceType" : "FROM",
+            "value" : 0.0
+         },
+         "code" : "1002000690063U",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 149,99",
+            "priceType" : "FROM",
+            "value" : 149.99
+         },
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 299,99",
+            "priceType" : "FROM",
+            "value" : 299.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-era-true-white/p/1002000690063U",
+         "variantOptionQualifiers" : [ ]
+      },
+      "variantType" : "ModelVariantProduct"
+   } ],
+   "baseProduct" : "1002000690063U",
+   "breadCrumbs" : [ {
+      "name" : "Calçados",
+      "url" : "/c/sapatos"
+   }, {
+      "name" : "Tênis",
+      "url" : "/c/sapatos/tenis"
+   }, {
+      "linkClass" : "active",
+      "name" : "Tênis Era True White",
+      "url" : "/tenis-era-true-white/p/1002000690063U"
+   } ],
+   "cashback" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 0,00",
+      "priceType" : "FROM",
+      "value" : 0.0
+   },
+   "channelPrices" : [ {
+      "channel" : "web",
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 149,99",
+      "priceType" : "BUY",
+      "value" : 149.99
+   } ],
+   "characteristics" : [ ],
+   "code" : "1002000690063U-40",
+   "color" : "Branco",
+   "colorOptions" : [ {
+      "code" : "1002000690063U",
+      "color" : "BRANCO",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h9a/h00/h00/12919825530910/Thumbnail-V1002000690063-COLOR.jpg"
+      },
+      "name" : "Tênis Era True White",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "url" : "/tenis-era-true-white/p/1002000690063U"
+   }, {
+      "code" : "1002000690064U",
+      "color" : "PRETO",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/hec/h00/h00/12919823892510/Thumbnail-V1002000690064-COLOR.jpg"
+      },
+      "name" : "Tênis Era Black Black",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h8d/h00/h00/12856102191134/Thumbnail-Vans-V1002000690064-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "url" : "/tenis-era-black-black/p/1002000690064U"
+   }, {
+      "code" : "1002000690065U",
+      "color" : "PRETO",
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/ha4/h00/h00/12919824220190/Thumbnail-V1002000690065-COLOR.jpg"
+      },
+      "name" : "Tênis Era Black Classic Gum",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/h80/h00/h00/12856102846494/Thumbnail-Vans-V1002000690065-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "url" : "/tenis-era-black-classic-gum/p/1002000690065U"
+   }, {
+      "code" : "1002000690002U",
+      "imageColor" : {
+      },
+      "name" : "Tênis Era Navy",
+      "primaryImage" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h1d/h00/h00/12847064481822/Thumbnail-Vans-V1002000690002-01.jpg"
+      },
+      "selectedColor" : false,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "url" : "/tenis-era-navy/p/1002000690002U"
+   } ],
+   "containsChildCategory" : false,
+   "description" : "O tênis Vans Era foi o primeiro modelo projetado para skatistas e pensado por skatistas. Introduzido em 1976 e originalmente chamado Vans #95, o Vans Era tornou-se popular pelos lendários Z-Boys e continua sendo o tênis de escolha para skatistas, surfistas e pessoas criativas em todo o mundo. O Tênis Era True White possui cabedal de lona resistente na cor branca, viras laterais de borracha com biqueiras reforçadas para suportar o desgaste por repetição, ilhós de metal, colarinho acolchoado para dar apoio e flexibilidade e a original sola Waffle de borracha original Vans.",
+   "discountPrice" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$149,99",
+      "priceType" : "BUY",
+      "value" : 149.99
+   },
+   "displayText" : "40",
+   "favorited" : false,
+   "hasPriceVariations" : false,
+   "images" : [ {
+      "altText" : "Tênis Era True White",
+      "format" : "zoom",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he0/hb3/h00/h00/12856103763998/Hires-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "product",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h37/h00/h00/12856103698462/Midres-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "thumbnail",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "cartIcon",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "store",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h37/h00/h00/12856103698462/Midres-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "search",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd4/h69/h00/h00/12856103632926/Lores-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "zoom",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he0/hb3/h00/h00/12856103763998/Hires-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "product",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h37/h00/h00/12856103698462/Midres-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "thumbnail",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "store",
+      "galleryIndex" : 0,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h37/h00/h00/12856103698462/Midres-Vans-V1002000690063-01.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "zoom",
+      "galleryIndex" : 1,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he2/h7d/h00/h00/12861188374558/Hires-Vans-V1002000690063-02.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "product",
+      "galleryIndex" : 1,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb8/ha6/h00/h00/12861188309022/Midres-Vans-V1002000690063-02.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "thumbnail",
+      "galleryIndex" : 1,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h70/h39/h00/h00/12861188177950/Thumbnail-Vans-V1002000690063-02.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "store",
+      "galleryIndex" : 1,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb8/ha6/h00/h00/12861188309022/Midres-Vans-V1002000690063-02.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "zoom",
+      "galleryIndex" : 2,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdc/hba/h00/h00/12861188767774/Hires-Vans-V1002000690063-03.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "product",
+      "galleryIndex" : 2,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h17/hfb/h00/h00/12861188636702/Midres-Vans-V1002000690063-03.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "thumbnail",
+      "galleryIndex" : 2,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5f/h69/h00/h00/12861188505630/Thumbnail-Vans-V1002000690063-03.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "store",
+      "galleryIndex" : 2,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h17/hfb/h00/h00/12861188636702/Midres-Vans-V1002000690063-03.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "zoom",
+      "galleryIndex" : 3,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h26/h27/h00/h00/12861189160990/Hires-Vans-V1002000690063-04.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "product",
+      "galleryIndex" : 3,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3a/h57/h00/h00/12861189095454/Midres-Vans-V1002000690063-04.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "thumbnail",
+      "galleryIndex" : 3,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfe/hfc/h00/h00/12861188964382/Thumbnail-Vans-V1002000690063-04.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "store",
+      "galleryIndex" : 3,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3a/h57/h00/h00/12861189095454/Midres-Vans-V1002000690063-04.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "zoom",
+      "galleryIndex" : 4,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4d/hdd/h00/h00/12861189554206/Hires-Vans-V1002000690063-05.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "product",
+      "galleryIndex" : 4,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h35/h94/h00/h00/12861189488670/Midres-Vans-V1002000690063-05.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "thumbnail",
+      "galleryIndex" : 4,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc3/hd7/h00/h00/12861189357598/Thumbnail-Vans-V1002000690063-05.jpg"
+   }, {
+      "altText" : "Tênis Era True White",
+      "format" : "store",
+      "galleryIndex" : 4,
+      "imageType" : "GALLERY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h35/h94/h00/h00/12861189488670/Midres-Vans-V1002000690063-05.jpg"
+   } ],
+   "installment" : "1x de R$149,99",
+   "isProductGift" : false,
+   "legacyEntireSKU" : "V1002000690063U-40",
+   "legacySKU" : "V1002000690063U40",
+   "name" : "Tênis Era True White",
+   "percentualOfDiscount" : "50",
+   "price" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 299,99",
+      "priceType" : "BUY",
+      "value" : 299.99
+   },
+   "primaryImage" : {
+      "altText" : "Tênis Era True White",
+      "format" : "thumbnail",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+   },
+   "productReferences" : [ ],
+   "productType" : "shoe",
+   "purchasable" : true,
+   "selectedColor" : false,
+   "sellable" : false,
+   "sellableOmni" : false,
+   "showWishGiftButton" : false,
+   "size" : "40",
+   "stock" : {
+      "stockLevel" : 0,
+      "stockLevelStatus" : "lowStock"
+   },
+   "url" : "/tenis-era-true-white/p/1002000690063U-40"
+}

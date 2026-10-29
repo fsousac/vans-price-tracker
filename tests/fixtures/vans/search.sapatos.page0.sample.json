@@ -1,0 +1,2769 @@
+{
+ "type": "productCategorySearchPageWsDTO",
+ "breadcrumbs": [],
+ "categoryCode": "SAPATOS",
+ "categoryName": "Calçados",
+ "currentQuery": {
+  "query": {
+   "value": ":creation-time"
+  },
+  "url": "/c/sapatos?q=%3Acreation-time"
+ },
+ "facets": [
+  {
+   "category": true,
+   "code": "gender",
+   "multiSelect": true,
+   "name": "Gênero",
+   "priority": 2147483647,
+   "values": [
+    {
+     "code": "FEMININO",
+     "count": 1110,
+     "hasChildren": false,
+     "name": "Feminino",
+     "query": {
+      "query": {
+       "value": ":creation-time:gender:FEMININO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Agender%3AFEMININO"
+     },
+     "selected": false
+    },
+    {
+     "code": "INFANTIL",
+     "count": 130,
+     "hasChildren": false,
+     "name": "Infantil",
+     "query": {
+      "query": {
+       "value": ":creation-time:gender:INFANTIL"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Agender%3AINFANTIL"
+     },
+     "selected": false
+    },
+    {
+     "code": "MASCULINO",
+     "count": 1111,
+     "hasChildren": false,
+     "name": "Masculino",
+     "query": {
+      "query": {
+       "value": ":creation-time:gender:MASCULINO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Agender%3AMASCULINO"
+     },
+     "selected": false
+    },
+    {
+     "code": "UNISSEX",
+     "count": 1110,
+     "hasChildren": false,
+     "name": "Unissex",
+     "query": {
+      "query": {
+       "value": ":creation-time:gender:UNISSEX"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Agender%3AUNISSEX"
+     },
+     "selected": false
+    }
+   ],
+   "visible": true
+  },
+  {
+   "category": false,
+   "code": "shoeSize",
+   "multiSelect": true,
+   "name": "Tamanho Calçados",
+   "priority": 2147483646,
+   "topValues": [
+    {
+     "code": "15",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;304322",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;304322",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B304322"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B304322"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;304325",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;304325",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B304325"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B304325"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;305837",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;305837",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B305837"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B305837"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;305838",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;305838",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B305838"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B305838"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;305839",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;305839",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B305839"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B305839"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306358",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;306358",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306358"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306358"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306360",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;306360",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306360"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306360"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306520",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;306520",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306520"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306520"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306522",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;306522",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306522"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306522"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306665",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;306665",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306665"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306665"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306666",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;306666",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306666"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306666"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306890",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;306890",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306890"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306890"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;306891",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;306891",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B306891"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B306891"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;307062",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;307062",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B307062"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B307062"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;307353",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;307353",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B307353"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B307353"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;308734",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;308734",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B308734"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B308734"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;308735",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;308735",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B308735"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B308735"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;311131",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;311131",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B311131"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B311131"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;311314",
+     "count": 2,
+     "hasChildren": false,
+     "name": "15;311314",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B311314"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B311314"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;311321",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;311321",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B311321"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B311321"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;311461",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;311461",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B311461"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B311461"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;311938",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;311938",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B311938"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B311938"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;314761",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;314761",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B314761"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B314761"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;315785",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;315785",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B315785"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B315785"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;317723",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;317723",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B317723"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B317723"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;320765",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15;320765",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B320765"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B320765"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;321915",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;321915",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B321915"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B321915"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;322345",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;322345",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B322345"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B322345"
+     },
+     "selected": false
+    },
+    {
+     "code": "15;323617",
+     "count": 1,
+     "hasChildren": false,
+     "name": "15;323617",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15%3B323617"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15%253B323617"
+     },
+     "selected": false
+    }
+   ],
+   "values": [
+    {
+     "code": "15",
+     "count": 3,
+     "hasChildren": false,
+     "name": "15",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:15"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A15"
+     },
+     "selected": false
+    },
+    {
+     "code": "16",
+     "count": 3,
+     "hasChildren": false,
+     "name": "16",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:16"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A16"
+     },
+     "selected": false
+    },
+    {
+     "code": "17",
+     "count": 4,
+     "hasChildren": false,
+     "name": "17",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:17"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A17"
+     },
+     "selected": false
+    },
+    {
+     "code": "18",
+     "count": 35,
+     "hasChildren": false,
+     "name": "18",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:18"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A18"
+     },
+     "selected": false
+    },
+    {
+     "code": "19",
+     "count": 30,
+     "hasChildren": false,
+     "name": "19",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:19"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A19"
+     },
+     "selected": false
+    },
+    {
+     "code": "20",
+     "count": 29,
+     "hasChildren": false,
+     "name": "20",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:20"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A20"
+     },
+     "selected": false
+    },
+    {
+     "code": "21",
+     "count": 26,
+     "hasChildren": false,
+     "name": "21",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:21"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A21"
+     },
+     "selected": false
+    },
+    {
+     "code": "22",
+     "count": 28,
+     "hasChildren": false,
+     "name": "22",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:22"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A22"
+     },
+     "selected": false
+    },
+    {
+     "code": "23",
+     "count": 28,
+     "hasChildren": false,
+     "name": "23",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:23"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A23"
+     },
+     "selected": false
+    },
+    {
+     "code": "24",
+     "count": 29,
+     "hasChildren": false,
+     "name": "24",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:24"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A24"
+     },
+     "selected": false
+    },
+    {
+     "code": "25",
+     "count": 29,
+     "hasChildren": false,
+     "name": "25",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:25"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A25"
+     },
+     "selected": false
+    },
+    {
+     "code": "26",
+     "count": 46,
+     "hasChildren": false,
+     "name": "26",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:26"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A26"
+     },
+     "selected": false
+    },
+    {
+     "code": "27",
+     "count": 44,
+     "hasChildren": false,
+     "name": "27",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:27"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A27"
+     },
+     "selected": false
+    },
+    {
+     "code": "28",
+     "count": 41,
+     "hasChildren": false,
+     "name": "28",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:28"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A28"
+     },
+     "selected": false
+    },
+    {
+     "code": "29",
+     "count": 40,
+     "hasChildren": false,
+     "name": "29",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:29"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A29"
+     },
+     "selected": false
+    },
+    {
+     "code": "30",
+     "count": 40,
+     "hasChildren": false,
+     "name": "30",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:30"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A30"
+     },
+     "selected": false
+    },
+    {
+     "code": "31",
+     "count": 40,
+     "hasChildren": false,
+     "name": "31",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:31"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A31"
+     },
+     "selected": false
+    },
+    {
+     "code": "32",
+     "count": 42,
+     "hasChildren": false,
+     "name": "32",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:32"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A32"
+     },
+     "selected": false
+    },
+    {
+     "code": "33",
+     "count": 242,
+     "hasChildren": false,
+     "name": "33",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:33"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A33"
+     },
+     "selected": false
+    },
+    {
+     "code": "34",
+     "count": 621,
+     "hasChildren": false,
+     "name": "34",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:34"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A34"
+     },
+     "selected": false
+    },
+    {
+     "code": "35",
+     "count": 564,
+     "hasChildren": false,
+     "name": "35",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:35"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A35"
+     },
+     "selected": false
+    },
+    {
+     "code": "36",
+     "count": 483,
+     "hasChildren": false,
+     "name": "36",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:36"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A36"
+     },
+     "selected": false
+    },
+    {
+     "code": "37",
+     "count": 433,
+     "hasChildren": false,
+     "name": "37",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:37"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A37"
+     },
+     "selected": false
+    },
+    {
+     "code": "38",
+     "count": 391,
+     "hasChildren": false,
+     "name": "38",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:38"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A38"
+     },
+     "selected": false
+    },
+    {
+     "code": "39",
+     "count": 458,
+     "hasChildren": false,
+     "name": "39",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:39"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A39"
+     },
+     "selected": false
+    },
+    {
+     "code": "40",
+     "count": 440,
+     "hasChildren": false,
+     "name": "40",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:40"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A40"
+     },
+     "selected": false
+    },
+    {
+     "code": "41",
+     "count": 439,
+     "hasChildren": false,
+     "name": "41",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:41"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A41"
+     },
+     "selected": false
+    },
+    {
+     "code": "42",
+     "count": 380,
+     "hasChildren": false,
+     "name": "42",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:42"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A42"
+     },
+     "selected": false
+    },
+    {
+     "code": "43",
+     "count": 316,
+     "hasChildren": false,
+     "name": "43",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:43"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A43"
+     },
+     "selected": false
+    },
+    {
+     "code": "44",
+     "count": 324,
+     "hasChildren": false,
+     "name": "44",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:44"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A44"
+     },
+     "selected": false
+    },
+    {
+     "code": "45",
+     "count": 128,
+     "hasChildren": false,
+     "name": "45",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:45"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A45"
+     },
+     "selected": false
+    },
+    {
+     "code": "45/6",
+     "count": 1,
+     "hasChildren": false,
+     "name": "45/6",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:45%2F6%3B308703"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A45%252F6%253B308703"
+     },
+     "selected": false
+    },
+    {
+     "code": "46",
+     "count": 17,
+     "hasChildren": false,
+     "name": "46",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoeSize:46"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoeSize%3A46"
+     },
+     "selected": false
+    }
+   ],
+   "visible": true
+  },
+  {
+   "category": true,
+   "code": "color",
+   "multiSelect": true,
+   "name": "Cor",
+   "priority": 2147483643,
+   "values": [
+    {
+     "code": "AMARELO",
+     "count": 15,
+     "hasChildren": false,
+     "name": "Amarelo",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:AMARELO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AAMARELO"
+     },
+     "selected": false
+    },
+    {
+     "code": "ANIMALPRINT",
+     "count": 20,
+     "hasChildren": false,
+     "name": "Animal Print",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:ANIMALPRINT"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AANIMALPRINT"
+     },
+     "selected": false
+    },
+    {
+     "code": "AZUL",
+     "count": 133,
+     "hasChildren": false,
+     "name": "Azul",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:AZUL"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AAZUL"
+     },
+     "selected": false
+    },
+    {
+     "code": "BEGE",
+     "count": 84,
+     "hasChildren": false,
+     "name": "Bege",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:BEGE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3ABEGE"
+     },
+     "selected": false
+    },
+    {
+     "code": "BRANCO",
+     "count": 95,
+     "hasChildren": false,
+     "name": "Branco",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:BRANCO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3ABRANCO"
+     },
+     "selected": false
+    },
+    {
+     "code": "CAMUFLADO",
+     "count": 1,
+     "hasChildren": false,
+     "name": "Camuflado",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:CAMUFLADO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3ACAMUFLADO"
+     },
+     "selected": false
+    },
+    {
+     "code": "CINZA",
+     "count": 92,
+     "hasChildren": false,
+     "name": "Cinza",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:CINZA"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3ACINZA"
+     },
+     "selected": false
+    },
+    {
+     "code": "DOURADO",
+     "count": 3,
+     "hasChildren": false,
+     "name": "Dourado",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:DOURADO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3ADOURADO"
+     },
+     "selected": false
+    },
+    {
+     "code": "ESTAMPADO",
+     "count": 24,
+     "hasChildren": false,
+     "name": "Estampado",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:ESTAMPADO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AESTAMPADO"
+     },
+     "selected": false
+    },
+    {
+     "code": "LARANJA",
+     "count": 12,
+     "hasChildren": false,
+     "name": "Laranja",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:LARANJA"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3ALARANJA"
+     },
+     "selected": false
+    },
+    {
+     "code": "MARROM",
+     "count": 98,
+     "hasChildren": false,
+     "name": "Marrom",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:MARROM"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AMARROM"
+     },
+     "selected": false
+    },
+    {
+     "code": "MULTICOLORIDO",
+     "count": 2,
+     "hasChildren": false,
+     "name": "Multicolorido",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:MULTICOLORIDO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AMULTICOLORIDO"
+     },
+     "selected": false
+    },
+    {
+     "code": "PRATEADO",
+     "count": 3,
+     "hasChildren": false,
+     "name": "PRATEADO",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:PRATEADO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3APRATEADO"
+     },
+     "selected": false
+    },
+    {
+     "code": "PRETO",
+     "count": 280,
+     "hasChildren": false,
+     "name": "Preto",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:PRETO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3APRETO"
+     },
+     "selected": false
+    },
+    {
+     "code": "QUADRICULADO",
+     "count": 38,
+     "hasChildren": false,
+     "name": "Quadriculado",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:QUADRICULADO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AQUADRICULADO"
+     },
+     "selected": false
+    },
+    {
+     "code": "ROSA",
+     "count": 69,
+     "hasChildren": false,
+     "name": "Rosa",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:ROSA"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AROSA"
+     },
+     "selected": false
+    },
+    {
+     "code": "ROXO",
+     "count": 47,
+     "hasChildren": false,
+     "name": "Roxo",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:ROXO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AROXO"
+     },
+     "selected": false
+    },
+    {
+     "code": "VERDE",
+     "count": 119,
+     "hasChildren": false,
+     "name": "Verde",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:VERDE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AVERDE"
+     },
+     "selected": false
+    },
+    {
+     "code": "VERMELHO",
+     "count": 80,
+     "hasChildren": false,
+     "name": "Vermelho",
+     "query": {
+      "query": {
+       "value": ":creation-time:color:VERMELHO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acolor%3AVERMELHO"
+     },
+     "selected": false
+    }
+   ],
+   "visible": true
+  },
+  {
+   "category": true,
+   "code": "category",
+   "multiSelect": true,
+   "name": "Categoria",
+   "priority": 2147483641,
+   "values": [
+    {
+     "code": "CHINELO",
+     "count": 33,
+     "hasChildren": false,
+     "name": "Chinelos",
+     "query": {
+      "query": {
+       "value": ":creation-time:category:CHINELO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acategory%3ACHINELO"
+     },
+     "selected": false
+    },
+    {
+     "code": "EASYON",
+     "count": 148,
+     "hasChildren": false,
+     "name": "Easy On",
+     "query": {
+      "query": {
+       "value": ":creation-time:category:EASYON"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acategory%3AEASYON"
+     },
+     "selected": false
+    },
+    {
+     "code": "KPOP",
+     "count": 8,
+     "hasChildren": false,
+     "name": "KPOP",
+     "query": {
+      "query": {
+       "value": ":creation-time:category:KPOP"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acategory%3AKPOP"
+     },
+     "selected": false
+    },
+    {
+     "code": "TENIS",
+     "count": 1197,
+     "hasChildren": false,
+     "name": "Tênis",
+     "query": {
+      "query": {
+       "value": ":creation-time:category:TENIS"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Acategory%3ATENIS"
+     },
+     "selected": false
+    }
+   ],
+   "visible": true
+  },
+  {
+   "category": true,
+   "code": "shoesStyle",
+   "multiSelect": true,
+   "name": "Estilo Calçados",
+   "priority": 2147483640,
+   "values": [
+    {
+     "code": "AUTHENTIC",
+     "count": 152,
+     "hasChildren": false,
+     "name": "Authentic",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:AUTHENTIC"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AAUTHENTIC"
+     },
+     "selected": false
+    },
+    {
+     "code": "AVE",
+     "count": 12,
+     "hasChildren": false,
+     "name": "Ave",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:AVE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AAVE"
+     },
+     "selected": false
+    },
+    {
+     "code": "CHUKKALOW",
+     "count": 12,
+     "hasChildren": false,
+     "name": "Chukka Low",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:CHUKKALOW"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ACHUKKALOW"
+     },
+     "selected": false
+    },
+    {
+     "code": "CROSSPATH",
+     "count": 54,
+     "hasChildren": false,
+     "name": "Crosspath",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:CROSSPATH"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ACROSSPATH"
+     },
+     "selected": false
+    },
+    {
+     "code": "CRUZE",
+     "count": 9,
+     "hasChildren": false,
+     "name": "Cruze",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:CRUZE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ACRUZE"
+     },
+     "selected": false
+    },
+    {
+     "code": "CURRENCAPLES",
+     "count": 7,
+     "hasChildren": false,
+     "name": "Curren Caples",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:CURRENCAPLES"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ACURRENCAPLES"
+     },
+     "selected": false
+    },
+    {
+     "code": "ERA",
+     "count": 29,
+     "hasChildren": false,
+     "name": "Era",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ERA"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AERA"
+     },
+     "selected": false
+    },
+    {
+     "code": "ESTAZZO",
+     "count": 2,
+     "hasChildren": false,
+     "name": "Estazzo",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ESTAZZO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AESTAZZO"
+     },
+     "selected": false
+    },
+    {
+     "code": "GILBERTCROCKETT",
+     "count": 4,
+     "hasChildren": false,
+     "name": "GILBERT CROCKETT",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:GILBERTCROCKETT"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AGILBERTCROCKETT"
+     },
+     "selected": false
+    },
+    {
+     "code": "HALFCAB",
+     "count": 43,
+     "hasChildren": false,
+     "name": "Half Cab",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:HALFCAB"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AHALFCAB"
+     },
+     "selected": false
+    },
+    {
+     "code": "HYLANE",
+     "count": 45,
+     "hasChildren": false,
+     "name": "Hylane",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:HYLANE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AHYLANE"
+     },
+     "selected": false
+    },
+    {
+     "code": "KNUSKOOL",
+     "count": 80,
+     "hasChildren": false,
+     "name": "Knu Skool",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:KNUSKOOL"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AKNUSKOOL"
+     },
+     "selected": false
+    },
+    {
+     "code": "LIZZIEHI",
+     "count": 1,
+     "hasChildren": false,
+     "name": "LIZZIE HI",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:LIZZIEHI"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ALIZZIEHI"
+     },
+     "selected": false
+    },
+    {
+     "code": "LOWLAND",
+     "count": 12,
+     "hasChildren": false,
+     "name": "LOWLAND",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:LOWLAND"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ALOWLAND"
+     },
+     "selected": false
+    },
+    {
+     "code": "MARYJANE",
+     "count": 17,
+     "hasChildren": false,
+     "name": "MARYJANE",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:MARYJANE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AMARYJANE"
+     },
+     "selected": false
+    },
+    {
+     "code": "OVERTCC",
+     "count": 1,
+     "hasChildren": false,
+     "name": "OVERT CC",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:OVERTCC"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AOVERTCC"
+     },
+     "selected": false
+    },
+    {
+     "code": "OLDSKOOL",
+     "count": 242,
+     "hasChildren": false,
+     "name": "Old Skool",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:OLDSKOOL"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AOLDSKOOL"
+     },
+     "selected": false
+    },
+    {
+     "code": "ROWAN",
+     "count": 12,
+     "hasChildren": false,
+     "name": "ROWAN",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ROWAN"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AROWAN"
+     },
+     "selected": false
+    },
+    {
+     "code": "ROWLEY",
+     "count": 14,
+     "hasChildren": false,
+     "name": "ROWLEY",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ROWLEY"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AROWLEY"
+     },
+     "selected": false
+    },
+    {
+     "code": "SAFELOW",
+     "count": 5,
+     "hasChildren": false,
+     "name": "SAFE LOW",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SAFELOW"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASAFELOW"
+     },
+     "selected": false
+    },
+    {
+     "code": "OLDSKOOL36",
+     "count": 10,
+     "hasChildren": false,
+     "name": "SKATE OLD SKOOL 36+",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:OLDSKOOL36"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AOLDSKOOL36"
+     },
+     "selected": false
+    },
+    {
+     "code": "SLIM",
+     "count": 1,
+     "hasChildren": false,
+     "name": "SLIM",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SLIM"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASLIM"
+     },
+     "selected": false
+    },
+    {
+     "code": "SPEED",
+     "count": 5,
+     "hasChildren": false,
+     "name": "SPEED",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SPEED"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASPEED"
+     },
+     "selected": false
+    },
+    {
+     "code": "SPORTLOW",
+     "count": 17,
+     "hasChildren": false,
+     "name": "SPORT LOW",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SPORTLOW"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASPORTLOW"
+     },
+     "selected": false
+    },
+    {
+     "code": "SK8HI",
+     "count": 48,
+     "hasChildren": false,
+     "name": "Sk8-Hi",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SK8HI"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASK8HI"
+     },
+     "selected": false
+    },
+    {
+     "code": "SK8LOW",
+     "count": 12,
+     "hasChildren": false,
+     "name": "Sk8-Low",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SK8LOW"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASK8LOW"
+     },
+     "selected": false
+    },
+    {
+     "code": "SK8MID",
+     "count": 2,
+     "hasChildren": false,
+     "name": "Sk8-Mid",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SK8MID"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASK8MID"
+     },
+     "selected": false
+    },
+    {
+     "code": "SLIDEON",
+     "count": 29,
+     "hasChildren": false,
+     "name": "Slide-On",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SLIDEON"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASLIDEON"
+     },
+     "selected": false
+    },
+    {
+     "code": "SLIPON",
+     "count": 78,
+     "hasChildren": false,
+     "name": "Slip-On",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SLIPON"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASLIPON"
+     },
+     "selected": false
+    },
+    {
+     "code": "SUPERLOWPRO",
+     "count": 30,
+     "hasChildren": false,
+     "name": "Super Lowpro",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:SUPERLOWPRO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3ASUPERLOWPRO"
+     },
+     "selected": false
+    },
+    {
+     "code": "MIXXA",
+     "count": 4,
+     "hasChildren": false,
+     "name": "Tênis Mixxa",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:MIXXA"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AMIXXA"
+     },
+     "selected": false
+    },
+    {
+     "code": "ULTRARANGE",
+     "count": 86,
+     "hasChildren": false,
+     "name": "UltraRange",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ULTRARANGE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AULTRARANGE"
+     },
+     "selected": false
+    },
+    {
+     "code": "ULTRARANGEEXO",
+     "count": 4,
+     "hasChildren": false,
+     "name": "UltraRange EXO",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ULTRARANGEEXO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AULTRARANGEEXO"
+     },
+     "selected": false
+    },
+    {
+     "code": "ULTRARANGERAPIDWELD",
+     "count": 12,
+     "hasChildren": false,
+     "name": "UltraRange Rapidweld",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ULTRARANGERAPIDWELD"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AULTRARANGERAPIDWELD"
+     },
+     "selected": false
+    },
+    {
+     "code": "ULTRARANGESE",
+     "count": 16,
+     "hasChildren": false,
+     "name": "UltraRange SE",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ULTRARANGESE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AULTRARANGESE"
+     },
+     "selected": false
+    },
+    {
+     "code": "ULTRARANGEVR3",
+     "count": 3,
+     "hasChildren": false,
+     "name": "UltraRange VR3",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:ULTRARANGEVR3"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AULTRARANGEVR3"
+     },
+     "selected": false
+    },
+    {
+     "code": "UPLAND",
+     "count": 37,
+     "hasChildren": false,
+     "name": "Upland",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:UPLAND"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AUPLAND"
+     },
+     "selected": false
+    },
+    {
+     "code": "WAYVEE",
+     "count": 13,
+     "hasChildren": false,
+     "name": "Wayvee",
+     "query": {
+      "query": {
+       "value": ":creation-time:shoesStyle:WAYVEE"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3AshoesStyle%3AWAYVEE"
+     },
+     "selected": false
+    }
+   ],
+   "visible": true
+  },
+  {
+   "category": false,
+   "code": "price",
+   "multiSelect": true,
+   "name": "Preço",
+   "priority": 2147483636,
+   "values": [
+    {
+     "code": "R$ 0 - R$ 99",
+     "count": 8,
+     "hasChildren": false,
+     "name": "R$ 0 a R$ 99",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+0+-+R%24+99"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B0%2B-%2BR%2524%2B99"
+     },
+     "selected": false
+    },
+    {
+     "code": "R$ 100 - R$ 199",
+     "count": 168,
+     "hasChildren": false,
+     "name": "R$ 100 a R$ 199",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+100+-+R%24+199"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B100%2B-%2BR%2524%2B199"
+     },
+     "selected": false
+    },
+    {
+     "code": "R$ 200 - R$ 299",
+     "count": 279,
+     "hasChildren": false,
+     "name": "R$ 200 a R$ 299",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+200+-+R%24+299"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B200%2B-%2BR%2524%2B299"
+     },
+     "selected": false
+    },
+    {
+     "code": "R$ 300 - R$ 399",
+     "count": 304,
+     "hasChildren": false,
+     "name": "R$ 300 a R$ 399",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+300+-+R%24+399"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B300%2B-%2BR%2524%2B399"
+     },
+     "selected": false
+    },
+    {
+     "code": "R$ 400 - R$ 499",
+     "count": 162,
+     "hasChildren": false,
+     "name": "R$ 400 a R$ 499",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+400+-+R%24+499"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B400%2B-%2BR%2524%2B499"
+     },
+     "selected": false
+    },
+    {
+     "code": "R$ 500 - R$ 599",
+     "count": 132,
+     "hasChildren": false,
+     "name": "R$ 500 a R$ 599",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+500+-+R%24+599"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B500%2B-%2BR%2524%2B599"
+     },
+     "selected": false
+    },
+    {
+     "code": "R$ 600 - R$ 699",
+     "count": 114,
+     "hasChildren": false,
+     "name": "R$ 600 a R$ 699",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+600+-+R%24+699"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B600%2B-%2BR%2524%2B699"
+     },
+     "selected": false
+    },
+    {
+     "code": "R$ 700 - R$ 2000",
+     "count": 57,
+     "hasChildren": false,
+     "name": "R$ 700 a R$ 2000",
+     "query": {
+      "query": {
+       "value": ":creation-time:price:R%24+700+-+R%24+2000"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Aprice%3AR%2524%2B700%2B-%2BR%2524%2B2000"
+     },
+     "selected": false
+    }
+   ],
+   "visible": true
+  },
+  {
+   "category": true,
+   "code": "material",
+   "multiSelect": true,
+   "name": "Material",
+   "priority": 2147483634,
+   "values": [
+    {
+     "code": "COURO",
+     "count": 416,
+     "hasChildren": false,
+     "name": "Couro",
+     "query": {
+      "query": {
+       "value": ":creation-time:material:COURO"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Amaterial%3ACOURO"
+     },
+     "selected": false
+    },
+    {
+     "code": "LONA",
+     "count": 16,
+     "hasChildren": false,
+     "name": "Lona",
+     "query": {
+      "query": {
+       "value": ":creation-time:material:LONA"
+      },
+      "url": "/c/sapatos?q=%3Acreation-time%3Amaterial%3ALONA"
+     },
+     "selected": false
+    }
+   ],
+   "visible": true
+  }
+ ],
+ "freeTextSearch": "",
+ "pagination": {
+  "currentPage": 0,
+  "pageSize": 24,
+  "sort": "creation-time",
+  "totalPages": 52,
+  "totalResults": 1239
+ },
+ "products": [
+  {
+   "availableInStore": true,
+   "brandDisplayName": "Vans",
+   "categories": [
+    {
+     "code": "UNISSEX",
+     "level": 0
+    },
+    {
+     "code": "FEMININO",
+     "level": 0
+    },
+    {
+     "code": "MASCULINO",
+     "level": 0
+    },
+    {
+     "code": "WOMEN",
+     "level": 0
+    },
+    {
+     "code": "SAPATOS",
+     "level": 1
+    },
+    {
+     "code": "SURF"
+    },
+    {
+     "code": "MTE",
+     "level": 0
+    },
+    {
+     "code": "TENIS",
+     "level": 2
+    },
+    {
+     "code": "CONFORTO"
+    },
+    {
+     "code": "NOVIDADES",
+     "level": 0
+    },
+    {
+     "code": "ALL",
+     "level": 0
+    },
+    {
+     "code": "PRETO",
+     "level": 0
+    },
+    {
+     "code": "FESTIVAL",
+     "level": 0
+    },
+    {
+     "code": "FESTIVAIS",
+     "level": 0
+    },
+    {
+     "code": "SELECAOESPECIAL",
+     "level": 0
+    },
+    {
+     "code": "MULE",
+     "level": 0
+    },
+    {
+     "code": "EDICAOLIMITADA"
+    }
+   ],
+   "channelPrices": [
+    {
+     "channel": "web",
+     "currencyIso": "BRL",
+     "formattedValue": "R$ 549,99",
+     "priceType": "BUY",
+     "value": 549.99
+    }
+   ],
+   "code": "1003551190001U",
+   "color": "PRETO",
+   "description": "O Tênis Harbor Mule Vr3 resgata o legado autêntico da Vans com construção pensad",
+   "favorited": false,
+   "hasPriceVariations": false,
+   "hasVideo": false,
+   "imageColor": {
+    "url": "https://secure-static.vans.com.br/medias/sys_master/root/hc3/h57/h00/h00/11549152706590/PRETO-2-.png"
+   },
+   "images": [
+    {
+     "format": "thumbnail",
+     "imageType": "PRIMARY",
+     "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1f/he3/h00/h00/13451891277854/Thumbnail-Vans-V1003551190001-01.jpg"
+    },
+    {
+     "format": "product",
+     "imageType": "PRIMARY",
+     "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h01/h00/h00/13451891408926/Midres-Vans-V1003551190001-01.jpg"
+    }
+   ],
+   "installment": "5x de R$109,99",
+   "legacyEntireSKU": "V1003551190001U",
+   "legacySKU": "V1003551190001",
+   "moreColors": [],
+   "moreColorsQuantity": 0,
+   "name": "Harbor Mule Vr3 Black",
+   "price": {
+    "currencyIso": "BRL",
+    "formattedValue": "R$ 549,99",
+    "priceType": "BUY",
+    "value": 549.99
+   },
+   "primaryImage": {
+    "format": "thumbnail",
+    "imageType": "PRIMARY",
+    "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1f/he3/h00/h00/13451891277854/Thumbnail-Vans-V1003551190001-01.jpg"
+   },
+   "productType": "shoe",
+   "selectedColor": false,
+   "sellable": true,
+   "sellableOmni": true,
+   "showVideoOnCategoryPage": false,
+   "sizesAvailabilityInfo": [
+    {
+     "available": false,
+     "code": "1003551190001U-33",
+     "size": "33"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-34",
+     "size": "34"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-35",
+     "size": "35"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-36",
+     "size": "36"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-37",
+     "size": "37"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-38",
+     "size": "38"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-39",
+     "size": "39"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-40",
+     "size": "40"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-41",
+     "size": "41"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-42",
+     "size": "42"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-43",
+     "size": "43"
+    },
+    {
+     "available": true,
+     "code": "1003551190001U-44",
+     "size": "44"
+    },
+    {
+     "available": false,
+     "code": "1003551190001U-45",
+     "size": "45"
+    }
+   ],
+   "stock": {},
+   "url": "/harbor-mule-vr3-black/p/1003551190001U",
+   "variantDescription": "Harbor Mule Vr3 Black | Preto",
+   "variantOptions": [
+    {
+     "code": "1003551190001U-33",
+     "sellable": false
+    },
+    {
+     "code": "1003551190001U-34",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-35",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-36",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-37",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-38",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-39",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-40",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-41",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-42",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-43",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-44",
+     "sellable": true
+    },
+    {
+     "code": "1003551190001U-45",
+     "sellable": false
+    }
+   ],
+   "volumePricesFlag": false
+  },
+  {
+   "availableInStore": true,
+   "brandDisplayName": "Vans",
+   "categories": [
+    {
+     "code": "UNISSEX",
+     "level": 0
+    },
+    {
+     "code": "FEMININO",
+     "level": 0
+    },
+    {
+     "code": "MASCULINO",
+     "level": 0
+    },
+    {
+     "code": "WOMEN",
+     "level": 0
+    },
+    {
+     "code": "SAPATOS",
+     "level": 1
+    },
+    {
+     "code": "SURF"
+    },
+    {
+     "code": "MTE",
+     "level": 0
+    },
+    {
+     "code": "TENIS",
+     "level": 2
+    },
+    {
+     "code": "CONFORTO"
+    },
+    {
+     "code": "NOVIDADES",
+     "level": 0
+    },
+    {
+     "code": "ALL",
+     "level": 0
+    },
+    {
+     "code": "MARROM",
+     "level": 0
+    },
+    {
+     "code": "FESTIVAL",
+     "level": 0
+    },
+    {
+     "code": "FESTIVAIS",
+     "level": 0
+    },
+    {
+     "code": "SELECAOESPECIAL",
+     "level": 0
+    },
+    {
+     "code": "SEMANADOCONSUMIDOR",
+     "level": 0
+    },
+    {
+     "code": "MULE",
+     "level": 0
+    },
+    {
+     "code": "EDICAOLIMITADA"
+    }
+   ],
+   "channelPrices": [
+    {
+     "channel": "web",
+     "currencyIso": "BRL",
+     "formattedValue": "R$ 549,99",
+     "priceType": "BUY",
+     "value": 549.99
+    }
+   ],
+   "code": "1003551190002U",
+   "color": "MARROM",
+   "description": "Tênis Harbor Mule Vr3 Khaki resgata o legado autêntico da Vans com construção pe",
+   "favorited": false,
+   "hasPriceVariations": false,
+   "hasVideo": false,
+   "imageColor": {
+    "url": "https://secure-static.vans.com.br/medias/sys_master/root/h4a/hba/h00/h00/11549145038878/MARROM.png"
+   },
+   "images": [
+    {
+     "format": "thumbnail",
+     "imageType": "PRIMARY",
+     "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbc/hab/h00/h00/13451889639454/Thumbnail-Vans-V1003551190002-01.jpg"
+    },
+    {
+     "format": "product",
+     "imageType": "PRIMARY",
+     "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hec/hf0/h00/h00/13451889770526/Midres-Vans-V1003551190002-01.jpg"
+    }
+   ],
+   "installment": "5x de R$109,99",
+   "legacyEntireSKU": "V1003551190002U",
+   "legacySKU": "V1003551190002",
+   "moreColors": [],
+   "moreColorsQuantity": 0,
+   "name": "Harbor Mule Vr3 Khaki",
+   "price": {
+    "currencyIso": "BRL",
+    "formattedValue": "R$ 549,99",
+    "priceType": "BUY",
+    "value": 549.99
+   },
+   "primaryImage": {
+    "format": "thumbnail",
+    "imageType": "PRIMARY",
+    "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbc/hab/h00/h00/13451889639454/Thumbnail-Vans-V1003551190002-01.jpg"
+   },
+   "productType": "shoe",
+   "selectedColor": false,
+   "sellable": true,
+   "sellableOmni": true,
+   "showVideoOnCategoryPage": false,
+   "sizesAvailabilityInfo": [
+    {
+     "available": false,
+     "code": "1003551190002U-33",
+     "size": "33"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-34",
+     "size": "34"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-35",
+     "size": "35"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-36",
+     "size": "36"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-37",
+     "size": "37"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-38",
+     "size": "38"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-39",
+     "size": "39"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-40",
+     "size": "40"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-41",
+     "size": "41"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-42",
+     "size": "42"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-43",
+     "size": "43"
+    },
+    {
+     "available": true,
+     "code": "1003551190002U-44",
+     "size": "44"
+    },
+    {
+     "available": false,
+     "code": "1003551190002U-45",
+     "size": "45"
+    }
+   ],
+   "stock": {},
+   "url": "/harbor-mule-vr3-khaki/p/1003551190002U",
+   "variantDescription": "Harbor Mule Vr3 Khaki | Marrom",
+   "variantOptions": [
+    {
+     "code": "1003551190002U-33",
+     "sellable": false
+    },
+    {
+     "code": "1003551190002U-34",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-35",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-36",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-37",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-38",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-39",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-40",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-41",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-42",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-43",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-44",
+     "sellable": true
+    },
+    {
+     "code": "1003551190002U-45",
+     "sellable": false
+    }
+   ],
+   "volumePricesFlag": false
+  },
+  {
+   "availableInStore": true,
+   "brandDisplayName": "Vans",
+   "categories": [
+    {
+     "code": "UNISSEX",
+     "level": 0
+    },
+    {
+     "code": "FEMININO",
+     "level": 0
+    },
+    {
+     "code": "MASCULINO",
+     "level": 0
+    },
+    {
+     "code": "WOMEN",
+     "level": 0
+    },
+    {
+     "code": "SAPATOS",
+     "level": 1
+    },
+    {
+     "code": "SURF"
+    },
+    {
+     "code": "MTE",
+     "level": 0
+    },
+    {
+     "code": "TENIS",
+     "level": 2
+    },
+    {
+     "code": "CONFORTO"
+    },
+    {
+     "code": "ULTRARANGENEO"
+    },
+    {
+     "code": "VR3"
+    },
+    {
+     "code": "EARTHDAY",
+     "level": 0
+    },
+    {
+     "code": "TENISBAIXO",
+     "level": 0
+    },
+    {
+     "code": "CANOBAIXO",
+     "level": 0
+    },
+    {
+     "code": "LANCAMENTO",
+     "level": 0
+    },
+    {
+     "code": "WAFFLEDROPS",
+     "level": 0
+    },
+    {
+     "code": "NOVIDADES",
+     "level": 0
+    },
+    {
+     "code": "ALL",
+     "level": 0
+    },
+    {
+     "code": "CINZA",
+     "level": 0
+    },
+    {
+     "code": "FESTIVAL",
+     "level": 0
+    },
+    {
+     "code": "FESTIVAIS",
+     "level": 0
+    },
+    {
+     "code": "SELECAOESPECIAL",
+     "level": 0
+    },
+    {
+     "code": "ULTRARANGE"
+    },
+    {
+     "code": "SEMANADOCONSUMIDOR",
+     "level": 0
+    },
+    {
+     "code": "DIADASCRIANCAS",
+     "level": 0
+    }
+   ],
+   "channelPrices": [
+    {
+     "channel": "web",
+     "currencyIso": "BRL",
+     "formattedValue": "R$ 899,99",
+     "priceType": "BUY",
+     "value": 899.99
+    }
+   ],
+   "code": "1003551160009U",
+   "color": "CINZA",
+   "description": "Uma nova adição à família Vans, o UltraRange Rapidweld nasceu para oferecer vers",
+   "favorited": false,
+   "hasPriceVariations": false,
+   "hasVideo": false,
+   "imageColor": {
+    "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h1a/h00/h00/13575989231646/Thumbnail-V1003551160009-COLOR.jpg"
+   },
+   "images": [
+    {
+     "format": "thumbnail",
+     "imageType": "PRIMARY",
+     "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h5e/h00/h00/13575988019230/Thumbnail-Vans-V1003551160009-01.jpg"
+    },
+    {
+     "format": "product",
+     "imageType": "PRIMARY",
+     "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h89/h35/h00/h00/13575988084766/Midres-Vans-V1003551160009-01.jpg"
+    }
+   ],
+   "installment": "6x de R$149,99",
+   "legacyEntireSKU": "V1003551160009U",
+   "legacySKU": "V1003551160009",
+   "moreColors": [
+    {
+     "available": true,
+     "code": "1003551160009U",
+     "colorImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h1a/h00/h00/13575989231646/Thumbnail-V1003551160009-COLOR.jpg",
+     "primaryImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h5e/h00/h00/13575988019230/Thumbnail-Vans-V1003551160009-01.jpg",
+     "url": "/tenis-ultrarange-neo-2-0-metallic-black-silver/p/1003551160009U"
+    },
+    {
+     "available": true,
+     "code": "1003551160001U",
+     "colorImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfd/heb/h00/h00/13576029536286/Thumbnail-V1003551160001-COLOR.jpg",
+     "primaryImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf6/hcf/h00/h00/13576028323870/Thumbnail-Vans-V1003551160001-01.jpg",
+     "url": "/tenis-ultrarange-neo-2-0-metallic-marshmallow-silver/p/1003551160001U"
+    },
+    {
+     "available": true,
+     "code": "1003551160004U",
+     "colorImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h28/h3b/h00/h00/13576027373598/Thumbnail-V1003551160004-COLOR.jpg",
+     "primaryImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfe/h58/h00/h00/13575993393182/Thumbnail-Vans-V1003551160004-01.jpg",
+     "url": "/tenis-ultrarange-neo-2-0-duck-canvas-green-balsam/p/1003551160004U"
+    },
+    {
+     "available": true,
+     "code": "1003551160003U",
+     "colorImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb5/h7d/h00/h00/13494468313118/Thumbnail-V1003551160003-COLOR.jpg",
+     "primaryImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h57/h00/h00/13498401259550/Thumbnail-Vans-V1003551160003-01.jpg",
+     "url": "/tenis-ultrarange-neo-2-0-port-brown/p/1003551160003U"
+    },
+    {
+     "available": true,
+     "code": "1003551160006U",
+     "colorImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8e/h9c/h00/h00/13461398683678/Thumbnail-V1003551160006-COLOR.jpg",
+     "primaryImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h49/h46/h00/h00/13461398028318/Thumbnail-Vans-V1003551160006-01.jpg",
+     "url": "/tenis-ultrarange-neo-2-0-olive-brown/p/1003551160006U"
+    },
+    {
+     "available": true,
+     "code": "1003551160007U",
+     "colorImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h05/h61/h00/h00/13461397700638/Thumbnail-V1003551160007-COLOR.jpg",
+     "primaryImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h65/h1c/h00/h00/13461397045278/Thumbnail-Vans-V1003551160007-01.jpg",
+     "url": "/tenis-ultrarange-neo-2-0-charcoal-gray/p/1003551160007U"
+    },
+    {
+     "available": true,
+     "code": "1003551160008U",
+     "colorImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/h8d/h00/h00/13490791448606/Thumbnail-V1003551160008-COLOR.jpg",
+     "primaryImageUrl": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hae/h00/h00/13490790662174/Thumbnail-Vans-V1003551160008-01.jpg",
+     "url": "/tenis-ultrarange-neo-2-0-mint-shadow/p/1003551160008U"
+    }
+   ],
+   "moreColorsQuantity": 7,
+   "name": "Tênis Ultrarange Neo 2.0 Metallic Black Silver",
+   "price": {
+    "currencyIso": "BRL",
+    "formattedValue": "R$ 899,99",
+    "priceType": "BUY",
+    "value": 899.99
+   },
+   "primaryImage": {
+    "format": "thumbnail",
+    "imageType": "PRIMARY",
+    "url": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/h5e/h00/h00/13575988019230/Thumbnail-Vans-V1003551160009-01.jpg"
+   },
+   "productType": "shoe",
+   "selectedColor": false,
+   "sellable": true,
+   "sellableOmni": true,
+   "showVideoOnCategoryPage": false,
+   "sizesAvailabilityInfo": [
+    {
+     "available": false,
+     "code": "1003551160009U-33",
+     "size": "33"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-34",
+     "size": "34"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-35",
+     "size": "35"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-36",
+     "size": "36"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-37",
+     "size": "37"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-38",
+     "size": "38"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-39",
+     "size": "39"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-40",
+     "size": "40"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-41",
+     "size": "41"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-42",
+     "size": "42"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-43",
+     "size": "43"
+    },
+    {
+     "available": true,
+     "code": "1003551160009U-44",
+     "size": "44"
+    },
+    {
+     "available": false,
+     "code": "1003551160009U-45",
+     "size": "45"
+    }
+   ],
+   "stock": {},
+   "url": "/tenis-ultrarange-neo-2-0-metallic-black-silver/p/1003551160009U",
+   "variantDescription": "Tênis Ultrarange Neo 2.0 Metallic Black Silver | Cinza",
+   "variantOptions": [
+    {
+     "code": "1003551160009U-33",
+     "sellable": false
+    },
+    {
+     "code": "1003551160009U-34",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-35",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-36",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-37",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-38",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-39",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-40",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-41",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-42",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-43",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-44",
+     "sellable": true
+    },
+    {
+     "code": "1003551160009U-45",
+     "sellable": false
+    }
+   ],
+   "volumePricesFlag": false
+  }
+ ],
+ "sorts": [
+  {
+   "code": "creation-time",
+   "name": "Mais Recentes",
+   "selected": true
+  },
+  {
+   "code": "price-asc",
+   "name": "Menor Preço",
+   "selected": false
+  },
+  {
+   "code": "price-desc",
+   "name": "Maior Preço",
+   "selected": false
+  },
+  {
+   "code": "best-selling-desc",
+   "name": "Mais Vendidos",
+   "selected": false
+  },
+  {
+   "code": "product-sort",
+   "name": "Relevância",
+   "selected": false
+  },
+  {
+   "code": "percentual-of-discount",
+   "name": "Maiores Descontos",
+   "selected": false
+  }
+ ],
+ "breadcrumbCategory": [
+  {
+   "linkClass": "",
+   "name": "Calçados",
+   "url": "/c/sapatos"
+  }
+ ],
+ "subCategories": [
+  {
+   "code": "CHINELO",
+   "name": "Chinelos",
+   "url": "/c/sapatos/chinelo"
+  },
+  {
+   "code": "TENIS",
+   "name": "Tênis",
+   "url": "/c/sapatos/tenis"
+  }
+ ]
+}

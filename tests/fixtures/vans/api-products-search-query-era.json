@@ -1,0 +1,500 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "currentQuery" : {
+      "query" : {
+         "value" : "era:product-sort"
+      },
+      "url" : "/search?text=era&q=era%3Aproduct-sort"
+   },
+   "freeTextSearch" : "era",
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 3,
+      "sort" : "product-sort",
+      "totalPages" : 18,
+      "totalResults" : 52
+   },
+   "products" : [ {
+      "categories" : [ {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "SKATEBOARDING",
+         "level" : 0
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "ERA",
+         "level" : 0
+      }, {
+         "code" : "TENISSLIM",
+         "level" : 0
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "FULL"
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "PRESENTES",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "BLACKWHITE"
+      }, {
+         "code" : "SKATEWEEK",
+         "level" : 0
+      }, {
+         "code" : "VERAO",
+         "level" : 0
+      }, {
+         "code" : "DIADOROCK"
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "AMIZADE"
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "PARASKATE"
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "BESTSELLERS",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "code" : "1004300580002U",
+      "color" : "PRETO",
+      "description" : "<p>O Era chegou às ruas há 50 anos. Criado por pioneiros do skate, foi o nosso primeiro tênis desenvolvido para o skateboarding. Uma evolução do Authentic, o Era combina sua silhueta clássica e confiável com melhorias focadas em performance desde o colarinho acolchoado até o solado de borracha com alta aderência que ajudaram a levar o skate para o próximo nível no final dos anos 70.<br />\nAo longo das décadas seguintes, ele permaneceu como um dos nossos estilos mais desejados. Mas agora o Era saiu do arquivo e voltou para as ruas. Modernizado com nossa tecnologia de skate mais recente, o Skate Era de hoje foi reforçado e refinado para a próxima geração.</p>",
+      "favorited" : false,
+      "hasPriceVariations" : false,
+      "installment" : "4x de R$99,99",
+      "legacySKU" : "V1004300580002",
+      "name" : "Tênis Skate Era Black White",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 399,99",
+         "priceType" : "BUY",
+         "value" : 399.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf5/h32/h00/h00/13259382128670/Thumbnail-Vans-V1004300580002-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "stock" : {
+      },
+      "url" : "/tenis-skate-era-black-white/p/1004300580002U",
+      "variantOptions" : [ {
+         "code" : "1004300580002U-33",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-34",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-35",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-36",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-37",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-38",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-39",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-40",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-41",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-42",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-43",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-44",
+         "sellable" : true
+      }, {
+         "code" : "1004300580002U-45",
+         "sellable" : false
+      } ]
+   }, {
+      "categories" : [ {
+         "code" : "FULL"
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "SKATEBOARDING",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ERA",
+         "level" : 0
+      }, {
+         "code" : "TENISSLIM",
+         "level" : 0
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "PARASKATE"
+      }, {
+         "code" : "PRODUTOSESTAMPADOS"
+      }, {
+         "code" : "TENDENCIAS"
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "EDICAOLIMITADA"
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "CHECKERBOARD",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      }, {
+         "code" : "HALLOWEEN",
+         "level" : 0
+      } ],
+      "code" : "1004300580009U",
+      "description" : "O Era nasceu em 1976 como Vans #95, desenvolvido para os primeiros skatistas e adotado pelos Z-Boys; esse legado da Vans atravessa gerações no Tênis Skate Era Checkerboard Black White. Confeccionado em couro com sola vulcanizada, o modelo traz bico redondo, palmilha PopCush acolchoada e cadarços contrastantes. Acabamento clean e textura em couro camurça entregam resistência e presença discreta, mantendo conforto e suporte característicos do solado vulcanizado",
+      "favorited" : false,
+      "hasPriceVariations" : false,
+      "installment" : "4x de R$99,99",
+      "legacySKU" : "V1004300580009",
+      "name" : "Tênis Skate Era Checkerboard Black White",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 399,99",
+         "priceType" : "BUY",
+         "value" : 399.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc6/h00/h00/h00/13361696768030/Thumbnail-Vans-V1004300580009-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "stock" : {
+      },
+      "url" : "/tenis-skate-era-checkerboard-black-white/p/1004300580009U",
+      "variantOptions" : [ {
+         "code" : "1004300580009U-33",
+         "sellable" : false
+      }, {
+         "code" : "1004300580009U-34",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-35",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-36",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-37",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-38",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-39",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-40",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-41",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-42",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-43",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-44",
+         "sellable" : true
+      }, {
+         "code" : "1004300580009U-45",
+         "sellable" : false
+      } ]
+   }, {
+      "categories" : [ {
+         "code" : "FULL"
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "SKATEBOARDING",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ERA",
+         "level" : 0
+      }, {
+         "code" : "TENISSLIM",
+         "level" : 0
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "NOVIDADES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "ALLBLACK",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOESPECIAL",
+         "level" : 0
+      }, {
+         "code" : "PARASKATE"
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "CLASSIC",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "code" : "1004300580008U",
+      "color" : "PRETO",
+      "description" : "O Era nasceu em 1976 como Vans #95, desenvolvido para os primeiros skatistas e adotado pelos Z-Boys; esse legado da Vans atravessa gerações no Tênis Skate Era couro Black Black. Confeccionado em couro com sola vulcanizada, o modelo traz bico redondo, palmilha PopCush acolchoada e cadarços contrastantes. Acabamento clean e textura em couro camurça entregam resistência e presença discreta, mantendo conforto e suporte característicos do solado vulcanizado",
+      "favorited" : false,
+      "hasPriceVariations" : false,
+      "installment" : "4x de R$99,99",
+      "legacySKU" : "V1004300580008",
+      "name" : "Tênis Skate Era Leather Black Black",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 399,99",
+         "priceType" : "BUY",
+         "value" : 399.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc4/heb/h00/h00/13451799560222/Thumbnail-Vans-V1004300580008-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "stock" : {
+      },
+      "url" : "/tenis-skate-era-leather-black-black/p/1004300580008U",
+      "variantOptions" : [ {
+         "code" : "1004300580008U-33",
+         "sellable" : false
+      }, {
+         "code" : "1004300580008U-34",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-35",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-36",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-37",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-38",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-39",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-40",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-41",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-42",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-43",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-44",
+         "sellable" : true
+      }, {
+         "code" : "1004300580008U-45",
+         "sellable" : false
+      } ]
+   } ],
+   "sorts" : [ {
+      "code" : "creation-time",
+      "name" : "Mais Recentes",
+      "selected" : false
+   }, {
+      "code" : "price-asc",
+      "name" : "Menor Preço",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Maior Preço",
+      "selected" : false
+   }, {
+      "code" : "best-selling-desc",
+      "name" : "Mais Vendidos",
+      "selected" : false
+   }, {
+      "code" : "product-sort",
+      "name" : "Relevância",
+      "selected" : true
+   }, {
+      "code" : "percentual-of-discount",
+      "name" : "Maiores Descontos",
+      "selected" : false
+   } ],
+   "breadcrumbCategory" : [ {
+      "linkClass" : "active",
+      "name" : "era",
+      "url" : "/search?text=era"
+   } ]
+}

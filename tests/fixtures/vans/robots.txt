@@ -1,0 +1,59 @@
+User-agent: BDCbot
+Disallow: /
+
+User-agent: *
+Disallow: /*?q=:*
+Disallow: /*&q=:*
+Disallow: /login
+Disallow: /my-account
+Disallow: /wish-list
+Disallow: /cart$
+Disallow: /checkout
+Disallow: /search*.*
+Disallow: /search*text=*
+Disallow: /search*%*
+Disallow: /search/
+Disallow: /p/*/write-answer
+Disallow: /p/*/write-answer-after-login
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /login
+Disallow: /my-account
+Disallow: /wish-list
+Disallow: /cart$
+Disallow: /checkout
+
+User-agent: GPTBot
+Allow: /
+Disallow: /login
+Disallow: /my-account
+Disallow: /wish-list
+Disallow: /cart$
+Disallow: /checkout
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /login
+Disallow: /my-account
+Disallow: /wish-list
+Disallow: /cart$
+Disallow: /checkout
+
+User-agent: ClaudeWeb
+Allow: /
+Disallow: /login
+Disallow: /my-account
+Disallow: /wish-list
+Disallow: /cart$
+Disallow: /checkout
+
+User-agent: DeepSeekBot
+Allow: /
+Disallow: /login
+Disallow: /my-account
+Disallow: /wish-list
+Disallow: /cart$
+Disallow: /checkout
+
+Sitemap: https://www.vans.com.br/sitemap.xml

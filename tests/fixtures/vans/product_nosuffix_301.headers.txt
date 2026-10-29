@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Date: Wed, 14 Oct 2026 13:06:12 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-dns-prefetch-control: on
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-security-policy: frame-ancestors 'self' https://app.contentful.com
+permissions-policy: geolocation=(self "https://app.contentful.com"), camera=(), microphone=(), usb=(), payment=(), fullscreen=(), accelerometer=(), gyroscope=(), magnetometer=()
+referrer-policy: strict-origin-when-cross-origin
+link: <https://secure-static.vans.com.br>; rel="preconnect"
+new_cms: true
+x-nextjs-cache: MISS
+Cache-Control: s-maxage=31536000, stale-while-revalidate
+location: /tenis-knu-skool-pig-deep-twilight/p/1002002760052U
+cf-cache-status: DYNAMIC
+Strict-Transport-Security: max-age=0; includeSubDomains
+Server: cloudflare
+CF-RAY: a4a6ccce6805cb30-GIG
+alt-svc: h3=":443"; ma=86400
+

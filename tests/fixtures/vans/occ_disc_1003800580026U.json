@@ -1,0 +1,4572 @@
+{
+   "baseOptions" : [ {
+      "options" : [ {
+         "code" : "1003800580026U-33",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "33",
+         "ean" : "197804439188",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 5,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-33",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "33"
+         } ]
+      }, {
+         "code" : "1003800580026U-34",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "34",
+         "ean" : "197804439515",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 11,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-34",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "34"
+         } ]
+      }, {
+         "code" : "1003800580026U-35",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "35",
+         "ean" : "197804439539",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 14,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-35",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "35"
+         } ]
+      }, {
+         "code" : "1003800580026U-36",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "36",
+         "ean" : "197804439591",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 4,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-36",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "36"
+         } ]
+      }, {
+         "code" : "1003800580026U-37",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "37",
+         "ean" : "197804439843",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-37",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "37"
+         } ]
+      }, {
+         "code" : "1003800580026U-38",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "38",
+         "ean" : "197804440047",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-38",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "38"
+         } ]
+      }, {
+         "code" : "1003800580026U-39",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "39",
+         "ean" : "197804440146",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-39",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "39"
+         } ]
+      }, {
+         "code" : "1003800580026U-40",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "40",
+         "ean" : "197804440184",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-40",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "40"
+         } ]
+      }, {
+         "code" : "1003800580026U-41",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "41",
+         "ean" : "197804440399",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-41",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "41"
+         } ]
+      }, {
+         "code" : "1003800580026U-42",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "42",
+         "ean" : "197804440450",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-42",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "42"
+         } ]
+      }, {
+         "code" : "1003800580026U-43",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "43",
+         "ean" : "197804440511",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-43",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "43"
+         } ]
+      }, {
+         "code" : "1003800580026U-44",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "44",
+         "ean" : "197804440764",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-44",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "44"
+         } ]
+      }, {
+         "code" : "1003800580026U-45",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "BUY",
+            "value" : 379.99
+         },
+         "displayText" : "45",
+         "ean" : "197804440832",
+         "installments" : "3x de R$126,66",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-45",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "45"
+         } ]
+      } ],
+      "selected" : {
+         "code" : "1003800580026U",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 379,99",
+            "priceType" : "FROM",
+            "value" : 379.99
+         },
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 649.99
+         },
+         "sellable" : true,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U",
+         "variantOptionQualifiers" : [ ]
+      },
+      "variantType" : "ModelVariantProduct"
+   } ],
+   "baseProduct" : "100380058",
+   "code" : "1003800580026U",
+   "color" : "Verde",
+   "colorOptions" : [ {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8a/h8f/h00/h00/13085224763422/Thumbnail-Vans-V1003800580018-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h40/h61/h00/h00/13085225811998/Thumbnail-Vans-V1003800580018-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3c/hd2/h00/h00/13085226205214/Thumbnail-Vans-V1003800580018-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he8/h87/h00/h00/13085226532894/Thumbnail-Vans-V1003800580018-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha1/hbf/h00/h00/13085226926110/Thumbnail-Vans-V1003800580018-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h52/hc7/h00/h00/13073923014686/Hires-Vans-V1003800580018-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h05/h3c/h00/h00/13085225680926/Hires-Vans-V1003800580018-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1a/h90/h00/h00/13085226008606/Hires-Vans-V1003800580018-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdc/h3d/h00/h00/13085226401822/Hires-Vans-V1003800580018-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1d/h59/h00/h00/13085226795038/Hires-Vans-V1003800580018-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h34/h62/h00/h00/13085227122718/Hires-Vans-V1003800580018-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h35/h37/h00/h00/13073922949150/Midres-Vans-V1003800580018-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h87/hac/h00/h00/13085225615390/Midres-Vans-V1003800580018-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h5c/h00/h00/13085225943070/Midres-Vans-V1003800580018-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h30/h88/h00/h00/13085226336286/Midres-Vans-V1003800580018-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7f/h7d/h00/h00/13085226729502/Midres-Vans-V1003800580018-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h61/h00/h00/13085227057182/Midres-Vans-V1003800580018-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h15/h00/h00/13073922883614/Lores-Vans-V1003800580018-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8d/h6f/h00/h00/13085225222174/Lores-Vans-V1003800580018-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h76/h00/h00/13085225877534/Lores-Vans-V1003800580018-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h15/ha7/h00/h00/13085226270750/Lores-Vans-V1003800580018-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/he6/h00/h00/13085226663966/Lores-Vans-V1003800580018-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hca/h96/h00/h00/13085226991646/Lores-Vans-V1003800580018-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "CLASSICPLUS",
+         "level" : 0
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "CANOMEDIO",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "BRANCO",
+         "level" : 0
+      }, {
+         "code" : "VERAO",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "LOOKSFINALDEANO"
+      }, {
+         "code" : "LOOKS",
+         "level" : 0
+      }, {
+         "code" : "CARNAVAL",
+         "level" : 0
+      }, {
+         "code" : "INVERNO",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "COMPREEGANHE",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "PROGRESSIVA"
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOINVERNO"
+      }, {
+         "code" : "CHUNKY",
+         "level" : 0
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "RETRO",
+         "level" : 0
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      } ],
+      "code" : "1003800580018U",
+      "color" : "BRANCO",
+      "description" : "Sempre em alta. Inspirado nos estilos de skate do início dos anos 2000, com um perfil bufante e detalhes oversized. O Hylane é um tênis inspirado no skate Y2K que reinterpreta nossa silhueta Upland de 1999. O Tênis Hylane Mesh White Gum traz referências do passado que  coexistem com detalhes de design sofisticados, como a Sidestripe 3D brilhante e logotipos bordados, enquanto a estrutura robusta e a língua de skate bufante proporcionam um visual e sensação retrô. Com uma entressola com textura exclusiva em V entrelaçado, o Hylane transforma uma estética old school em um item essencial do guarda-roupa atual.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf5/ha6/h00/h00/13073923145758/Thumbnail-V1003800580018-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h35/h37/h00/h00/13073922949150/Midres-Vans-V1003800580018-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h52/hc7/h00/h00/13073923014686/Hires-Vans-V1003800580018-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8d/h6f/h00/h00/13085225222174/Lores-Vans-V1003800580018-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h15/h00/h00/13073922883614/Lores-Vans-V1003800580018-01.jpg"
+      } ],
+      "installment" : "3x de R$126,66",
+      "legacyEntireSKU" : "V1003800580018U",
+      "legacySKU" : "V1003800580018",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1003800580018U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf5/ha6/h00/h00/13073923145758/Thumbnail-V1003800580018-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg",
+         "url" : "/tenis-hylane-mesh-white-gum/p/1003800580018U"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/ha9/h00/h00/13236403437598/Thumbnail-V1003800580042-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg",
+         "url" : "/tenis-hylane-2-tone-vintage-cocoa/p/1003800580042U"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h8b/h00/h00/13280789659678/Thumbnail-V1003800580034-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg",
+         "url" : "/tenis-hylane-mono-black/p/1003800580034U"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg",
+         "url" : "/tenis-hylane-stormy-weather/p/1003800580017U"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h15/h00/h00/13280791298078/Thumbnail-V1003800580039-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg",
+         "url" : "/tenis-hylane-suede-glacial-slate/p/1003800580039U"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdd/heb/h00/h00/13276941221918/Thumbnail-V1003800580043-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg",
+         "url" : "/tenis-hylane-suede-vintage-cocoa/p/1003800580043U"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h23/h00/h00/13280788873246/Thumbnail-V1003800580032-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg",
+         "url" : "/tenis-hylane-mono-mushroom/p/1003800580032U"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h89/h00/h00/12954248478750/Thumbnail-V1003800580015-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg",
+         "url" : "/tenis-hylane-2-tone-coal-brown/p/1003800580015U"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/ha4/h00/h00/13236404092958/Thumbnail-V1003800580044-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi-white/p/1003800580044U"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/hb5/h00/h00/13259558715422/Thumbnail-V1003800580031-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi/p/1003800580031U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Hylane Mesh White Gum",
+      "percentualOfDiscount" : "41",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "BUY",
+         "value" : 649.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : true,
+         "code" : "1003800580018U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580018U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580018U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580018U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1003800580018U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1003800580018U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580018U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580018U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1003800580018U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1003800580018U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1003800580018U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1003800580018U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580018U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-mesh-white-gum/p/1003800580018U",
+      "variantDescription" : "Tênis Hylane Mesh White Gum | Branco",
+      "variantOptions" : [ {
+         "code" : "1003800580018U-33",
+         "sellable" : true
+      }, {
+         "code" : "1003800580018U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580018U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580018U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580018U-37",
+         "sellable" : true
+      }, {
+         "code" : "1003800580018U-38",
+         "sellable" : false
+      }, {
+         "code" : "1003800580018U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580018U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580018U-41",
+         "sellable" : false
+      }, {
+         "code" : "1003800580018U-42",
+         "sellable" : false
+      }, {
+         "code" : "1003800580018U-43",
+         "sellable" : false
+      }, {
+         "code" : "1003800580018U-44",
+         "sellable" : false
+      }, {
+         "code" : "1003800580018U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbd/h7e/h00/h00/13258610671646/Thumbnail-Vans-V1003800580042-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9e/h3c/h00/h00/13258610999326/Thumbnail-Vans-V1003800580042-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3e/h7a/h00/h00/13258611327006/Thumbnail-Vans-V1003800580042-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9c/h2b/h00/h00/13258611654686/Thumbnail-Vans-V1003800580042-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf8/h23/h00/h00/13258611982366/Thumbnail-Vans-V1003800580042-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h85/hf3/h00/h00/13236403306526/Hires-Vans-V1003800580042-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h55/hce/h00/h00/13258610868254/Hires-Vans-V1003800580042-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h86/he7/h00/h00/13258611195934/Hires-Vans-V1003800580042-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h75/h00/h00/13258611523614/Hires-Vans-V1003800580042-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbe/h6d/h00/h00/13258611851294/Hires-Vans-V1003800580042-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h3d/h00/h00/13258612178974/Hires-Vans-V1003800580042-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he9/ha5/h00/h00/13236403240990/Midres-Vans-V1003800580042-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h50/h9c/h00/h00/13258610802718/Midres-Vans-V1003800580042-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h59/h80/h00/h00/13258611130398/Midres-Vans-V1003800580042-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4a/hc4/h00/h00/13258611458078/Midres-Vans-V1003800580042-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1a/h66/h00/h00/13258611785758/Midres-Vans-V1003800580042-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h08/he3/h00/h00/13258612113438/Midres-Vans-V1003800580042-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h27/h00/h00/13236403175454/Lores-Vans-V1003800580042-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h9f/h00/h00/13258610737182/Lores-Vans-V1003800580042-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h55/h00/h00/13258611064862/Lores-Vans-V1003800580042-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h65/ha5/h00/h00/13258611392542/Lores-Vans-V1003800580042-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hca/hb7/h00/h00/13258611720222/Lores-Vans-V1003800580042-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdf/h0c/h00/h00/13258612047902/Lores-Vans-V1003800580042-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "MARROM",
+         "level" : 0
+      }, {
+         "code" : "NEUTROS",
+         "level" : 0
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "INVERNO",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOINVERNO"
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "CHUNKY",
+         "level" : 0
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "RETRO",
+         "level" : 0
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      } ],
+      "code" : "1003800580042U",
+      "color" : "MARROM",
+      "description" : "O Tênis Hylane 2-Tone Vintage Cocoa reúne o legado da VANS em um modelo autêntico com construção direta. Cabedal em Tênis Hylane 2-Tone Vintage Cocoa e montagem cold cement oferecem estrutura resistente e flexível, proporcionando conforto e suporte. Detalhes de acabamento destacam a expressão descontraída e atemporal do modelo, com sensação acolchoada internamente e resposta estável ao caminhar.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/ha9/h00/h00/13236403437598/Thumbnail-V1003800580042-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he9/ha5/h00/h00/13236403240990/Midres-Vans-V1003800580042-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h85/hf3/h00/h00/13236403306526/Hires-Vans-V1003800580042-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h9f/h00/h00/13258610737182/Lores-Vans-V1003800580042-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h27/h00/h00/13236403175454/Lores-Vans-V1003800580042-01.jpg"
+      } ],
+      "installment" : "3x de R$126,66",
+      "legacyEntireSKU" : "V1003800580042U",
+      "legacySKU" : "V1003800580042",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1003800580018U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf5/ha6/h00/h00/13073923145758/Thumbnail-V1003800580018-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg",
+         "url" : "/tenis-hylane-mesh-white-gum/p/1003800580018U"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/ha9/h00/h00/13236403437598/Thumbnail-V1003800580042-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg",
+         "url" : "/tenis-hylane-2-tone-vintage-cocoa/p/1003800580042U"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h8b/h00/h00/13280789659678/Thumbnail-V1003800580034-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg",
+         "url" : "/tenis-hylane-mono-black/p/1003800580034U"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg",
+         "url" : "/tenis-hylane-stormy-weather/p/1003800580017U"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h15/h00/h00/13280791298078/Thumbnail-V1003800580039-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg",
+         "url" : "/tenis-hylane-suede-glacial-slate/p/1003800580039U"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdd/heb/h00/h00/13276941221918/Thumbnail-V1003800580043-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg",
+         "url" : "/tenis-hylane-suede-vintage-cocoa/p/1003800580043U"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h23/h00/h00/13280788873246/Thumbnail-V1003800580032-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg",
+         "url" : "/tenis-hylane-mono-mushroom/p/1003800580032U"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h89/h00/h00/12954248478750/Thumbnail-V1003800580015-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg",
+         "url" : "/tenis-hylane-2-tone-coal-brown/p/1003800580015U"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/ha4/h00/h00/13236404092958/Thumbnail-V1003800580044-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi-white/p/1003800580044U"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/hb5/h00/h00/13259558715422/Thumbnail-V1003800580031-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi/p/1003800580031U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Hylane 2-Tone Vintage Cocoa",
+      "percentualOfDiscount" : "45",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 699,99",
+         "priceType" : "BUY",
+         "value" : 699.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1003800580042U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580042U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-2-tone-vintage-cocoa/p/1003800580042U",
+      "variantDescription" : "Tênis Hylane 2-Tone Vintage Cocoa | Marrom",
+      "variantOptions" : [ {
+         "code" : "1003800580042U-33",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580042U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580042U-36",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-37",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-38",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580042U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580042U-41",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-42",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-43",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-44",
+         "sellable" : false
+      }, {
+         "code" : "1003800580042U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he5/h5b/h00/h00/13291483562014/Thumbnail-Vans-V1003800580034-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h18/hab/h00/h00/13291483889694/Thumbnail-Vans-V1003800580034-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0a/h9e/h00/h00/13291484217374/Thumbnail-Vans-V1003800580034-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h4e/h00/h00/13291484545054/Thumbnail-Vans-V1003800580034-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha5/hac/h00/h00/13291484872734/Thumbnail-Vans-V1003800580034-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h89/h8e/h00/h00/13280789463070/Hires-Vans-V1003800580034-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h61/h00/h00/13291483758622/Hires-Vans-V1003800580034-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hae/hc4/h00/h00/13291484086302/Hires-Vans-V1003800580034-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0d/h72/h00/h00/13291484413982/Hires-Vans-V1003800580034-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha3/hc1/h00/h00/13291484741662/Hires-Vans-V1003800580034-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h37/h0a/h00/h00/13291485200414/Hires-Vans-V1003800580034-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h2f/h00/h00/13280789331998/Midres-Vans-V1003800580034-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf1/ha5/h00/h00/13291483693086/Midres-Vans-V1003800580034-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h08/haf/h00/h00/13291484020766/Midres-Vans-V1003800580034-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h53/h0c/h00/h00/13291484348446/Midres-Vans-V1003800580034-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h42/h43/h00/h00/13291484676126/Midres-Vans-V1003800580034-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h65/h96/h00/h00/13291485134878/Midres-Vans-V1003800580034-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h67/h4c/h00/h00/13280789266462/Lores-Vans-V1003800580034-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/h30/h00/h00/13291483627550/Lores-Vans-V1003800580034-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hea/h1e/h00/h00/13291483955230/Lores-Vans-V1003800580034-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h38/h2b/h00/h00/13291484282910/Lores-Vans-V1003800580034-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/heb/h2f/h00/h00/13291484610590/Lores-Vans-V1003800580034-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h59/h4c/h00/h00/13291485003806/Lores-Vans-V1003800580034-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "ALLBLACK",
+         "level" : 0
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "BLACKWHITE"
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "DIADOROCK"
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1003800580034U",
+      "color" : "PRETO",
+      "description" : "O Tênis Hylane Mono Black reúne o legado da Vans em um modelo autêntico com construção direta. Cabedal em couro e montagem cold cement oferecem estrutura resistente e flexível, proporcionando conforto e suporte. Detalhes de acabamento destacam a expressão descontraída e atemporal do modelo, com sensação acolchoada internamente e resposta estável ao caminhar.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h8b/h00/h00/13280789659678/Thumbnail-V1003800580034-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h2f/h00/h00/13280789331998/Midres-Vans-V1003800580034-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h89/h8e/h00/h00/13280789463070/Hires-Vans-V1003800580034-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/h30/h00/h00/13291483627550/Lores-Vans-V1003800580034-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h67/h4c/h00/h00/13280789266462/Lores-Vans-V1003800580034-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1003800580034U",
+      "legacySKU" : "V1003800580034",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Hylane Mono Black",
+      "percentualOfDiscount" : "28",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 699,99",
+         "priceType" : "BUY",
+         "value" : 699.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1003800580034U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1003800580034U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1003800580034U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1003800580034U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580034U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-mono-black/p/1003800580034U",
+      "variantDescription" : "Tênis Hylane Mono Black | Preto",
+      "variantOptions" : [ {
+         "code" : "1003800580034U-33",
+         "sellable" : false
+      }, {
+         "code" : "1003800580034U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-37",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-38",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-41",
+         "sellable" : true
+      }, {
+         "code" : "1003800580034U-42",
+         "sellable" : false
+      }, {
+         "code" : "1003800580034U-43",
+         "sellable" : false
+      }, {
+         "code" : "1003800580034U-44",
+         "sellable" : false
+      }, {
+         "code" : "1003800580034U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h99/ha5/h00/h00/12847170584606/Thumbnail-Vans-V1003800580017-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h42/hff/h00/h00/12847170912286/Thumbnail-Vans-V1003800580017-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h84/he0/h00/h00/12847171305502/Thumbnail-Vans-V1003800580017-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9a/hd8/h00/h00/12847171633182/Thumbnail-Vans-V1003800580017-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he1/h13/h00/h00/12847170453534/Hires-Vans-V1003800580017-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h77/h63/h00/h00/12847170781214/Hires-Vans-V1003800580017-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h89/h3a/h00/h00/12847171174430/Hires-Vans-V1003800580017-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h59/hdd/h00/h00/12847171502110/Hires-Vans-V1003800580017-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h73/hd3/h00/h00/12847171829790/Hires-Vans-V1003800580017-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/ha0/h00/h00/12847170387998/Midres-Vans-V1003800580017-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h20/hbd/h00/h00/12847170715678/Midres-Vans-V1003800580017-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0e/he6/h00/h00/12847171108894/Midres-Vans-V1003800580017-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/h96/h00/h00/12847171436574/Midres-Vans-V1003800580017-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he2/h46/h00/h00/12847171764254/Midres-Vans-V1003800580017-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd5/h7d/h00/h00/12847170322462/Lores-Vans-V1003800580017-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3f/h2e/h00/h00/12847170650142/Lores-Vans-V1003800580017-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7d/h59/h00/h00/12847171043358/Lores-Vans-V1003800580017-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he8/h09/h00/h00/12847171371038/Lores-Vans-V1003800580017-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf6/h8c/h00/h00/12847171698718/Lores-Vans-V1003800580017-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "WAFFLEDROPS",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "CLASSICPLUS",
+         "level" : 0
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "CANOMEDIO",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "AZUL",
+         "level" : 0
+      }, {
+         "code" : "INVERNO",
+         "level" : 0
+      }, {
+         "code" : "VERAO",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "LANCAMENTO",
+         "level" : 0
+      }, {
+         "code" : "MAISVENDIDOS"
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "NATAL"
+      }, {
+         "code" : "HOHOHO"
+      }, {
+         "code" : "LOOKSNATAL"
+      }, {
+         "code" : "LOOKSFINALDEANO"
+      }, {
+         "code" : "LOOKS",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "COMPREEGANHE",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOINVERNO"
+      }, {
+         "code" : "CHUNKY",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "RETRO",
+         "level" : 0
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      } ],
+      "code" : "1003800580017U",
+      "color" : "AZUL",
+      "description" : "Sempre em alta. Inspirado nos estilos de skate do início dos anos 2000, com um perfil bufante e detalhes oversized. O Hylane é um tênis inspirado no skate Y2K que reinterpreta nossa silhueta Upland de 1999. O Tênis Hylane Stormy Weather traz referências do passado que  coexistem com detalhes de design sofisticados, como a Sidestripe 3D brilhante e logotipos bordados, enquanto a estrutura robusta e a língua de skate bufante proporcionam um visual e sensação retrô. Com uma entressola com textura exclusiva em V entrelaçado, o Hylane transforma uma estética old school em um item essencial do guarda-roupa atual.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/ha0/h00/h00/12847170387998/Midres-Vans-V1003800580017-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he1/h13/h00/h00/12847170453534/Hires-Vans-V1003800580017-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3f/h2e/h00/h00/12847170650142/Lores-Vans-V1003800580017-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd5/h7d/h00/h00/12847170322462/Lores-Vans-V1003800580017-01.jpg"
+      } ],
+      "installment" : "3x de R$126,66",
+      "legacyEntireSKU" : "V1003800580017U",
+      "legacySKU" : "V1003800580017",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Hylane Stormy Weather",
+      "percentualOfDiscount" : "41",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "BUY",
+         "value" : 649.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : true,
+         "code" : "1003800580017U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1003800580017U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1003800580017U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1003800580017U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1003800580017U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580017U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-stormy-weather/p/1003800580017U",
+      "variantDescription" : "Tênis Hylane Stormy Weather | Azul",
+      "variantOptions" : [ {
+         "code" : "1003800580017U-33",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-37",
+         "sellable" : false
+      }, {
+         "code" : "1003800580017U-38",
+         "sellable" : false
+      }, {
+         "code" : "1003800580017U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-41",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-42",
+         "sellable" : true
+      }, {
+         "code" : "1003800580017U-43",
+         "sellable" : false
+      }, {
+         "code" : "1003800580017U-44",
+         "sellable" : false
+      }, {
+         "code" : "1003800580017U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdd/hb1/h00/h00/13291487494174/Thumbnail-Vans-V1003800580039-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he8/ha6/h00/h00/13291487821854/Thumbnail-Vans-V1003800580039-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h66/h00/h00/h00/13291488149534/Thumbnail-Vans-V1003800580039-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2e/h4f/h00/h00/13291488477214/Thumbnail-Vans-V1003800580039-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h72/h03/h00/h00/13291488804894/Thumbnail-Vans-V1003800580039-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5b/h5f/h00/h00/13280791167006/Hires-Vans-V1003800580039-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h09/h3e/h00/h00/13291487690782/Hires-Vans-V1003800580039-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1e/h92/h00/h00/13291488018462/Hires-Vans-V1003800580039-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h42/h00/h00/13291488346142/Hires-Vans-V1003800580039-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb8/ha0/h00/h00/13291488673822/Hires-Vans-V1003800580039-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h16/h00/h00/13291489001502/Hires-Vans-V1003800580039-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h72/h00/h00/13280791101470/Midres-Vans-V1003800580039-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h30/h69/h00/h00/13291487625246/Midres-Vans-V1003800580039-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/hc7/h00/h00/13291487952926/Midres-Vans-V1003800580039-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbd/h63/h00/h00/13291488280606/Midres-Vans-V1003800580039-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/hec/h00/h00/13291488608286/Midres-Vans-V1003800580039-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h45/h8e/h00/h00/13291488935966/Midres-Vans-V1003800580039-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h61/h00/h00/13280791035934/Lores-Vans-V1003800580039-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf9/h6c/h00/h00/13291487559710/Lores-Vans-V1003800580039-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h74/h00/h00/13291487887390/Lores-Vans-V1003800580039-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h40/hd4/h00/h00/13291488215070/Lores-Vans-V1003800580039-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/hcd/h00/h00/13291488542750/Lores-Vans-V1003800580039-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hda/he2/h00/h00/13291488870430/Lores-Vans-V1003800580039-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "AZUL",
+         "level" : 0
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1003800580039U",
+      "color" : "AZUL",
+      "description" : "O Tênis Hylane Suede Glacial Slate reúne o legado da VANS em um modelo autêntico com construção direta. Cabedal em couro e montagem cold cement oferecem estrutura resistente e flexível, proporcionando conforto e suporte. Detalhes de acabamento destacam a expressão descontraída e atemporal do modelo, com sensação acolchoada internamente e resposta estável ao caminhar.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h15/h00/h00/13280791298078/Thumbnail-V1003800580039-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h72/h00/h00/13280791101470/Midres-Vans-V1003800580039-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5b/h5f/h00/h00/13280791167006/Hires-Vans-V1003800580039-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf9/h6c/h00/h00/13291487559710/Lores-Vans-V1003800580039-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h61/h00/h00/13280791035934/Lores-Vans-V1003800580039-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1003800580039U",
+      "legacySKU" : "V1003800580039",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1003800580018U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf5/ha6/h00/h00/13073923145758/Thumbnail-V1003800580018-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg",
+         "url" : "/tenis-hylane-mesh-white-gum/p/1003800580018U"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/ha9/h00/h00/13236403437598/Thumbnail-V1003800580042-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg",
+         "url" : "/tenis-hylane-2-tone-vintage-cocoa/p/1003800580042U"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h8b/h00/h00/13280789659678/Thumbnail-V1003800580034-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg",
+         "url" : "/tenis-hylane-mono-black/p/1003800580034U"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg",
+         "url" : "/tenis-hylane-stormy-weather/p/1003800580017U"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h15/h00/h00/13280791298078/Thumbnail-V1003800580039-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg",
+         "url" : "/tenis-hylane-suede-glacial-slate/p/1003800580039U"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdd/heb/h00/h00/13276941221918/Thumbnail-V1003800580043-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg",
+         "url" : "/tenis-hylane-suede-vintage-cocoa/p/1003800580043U"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h23/h00/h00/13280788873246/Thumbnail-V1003800580032-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg",
+         "url" : "/tenis-hylane-mono-mushroom/p/1003800580032U"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h89/h00/h00/12954248478750/Thumbnail-V1003800580015-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg",
+         "url" : "/tenis-hylane-2-tone-coal-brown/p/1003800580015U"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/ha4/h00/h00/13236404092958/Thumbnail-V1003800580044-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi-white/p/1003800580044U"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/hb5/h00/h00/13259558715422/Thumbnail-V1003800580031-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi/p/1003800580031U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Hylane Suede Glacial Slate",
+      "percentualOfDiscount" : "28",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 699,99",
+         "priceType" : "BUY",
+         "value" : 699.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1003800580039U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580039U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-suede-glacial-slate/p/1003800580039U",
+      "variantDescription" : "Tênis Hylane Suede Glacial Slate | Azul",
+      "variantOptions" : [ {
+         "code" : "1003800580039U-33",
+         "sellable" : false
+      }, {
+         "code" : "1003800580039U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-37",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-38",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-41",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-42",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-43",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-44",
+         "sellable" : true
+      }, {
+         "code" : "1003800580039U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc5/h67/h00/h00/13280814104606/Thumbnail-Vans-V1003800580043-HO.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6e/he8/h00/h00/13302283698206/Thumbnail-Vans-V1003800580043-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd9/ha9/h00/h00/13302284025886/Thumbnail-Vans-V1003800580043-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6f/hf9/h00/h00/13302284353566/Thumbnail-Vans-V1003800580043-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfa/hb6/h00/h00/13302284681246/Thumbnail-Vans-V1003800580043-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/h47/h00/h00/13302285008926/Thumbnail-Vans-V1003800580043-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he6/ha9/h00/h00/13280814301214/Hires-Vans-V1003800580043-HO.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h56/h00/h00/13302283567134/Hires-Vans-V1003800580043-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h07/h00/h00/13302283894814/Hires-Vans-V1003800580043-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb7/h67/h00/h00/13302284222494/Hires-Vans-V1003800580043-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4d/hb7/h00/h00/13302284550174/Hires-Vans-V1003800580043-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd3/hb1/h00/h00/13302284877854/Hires-Vans-V1003800580043-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9e/h54/h00/h00/13302285533214/Hires-Vans-V1003800580043-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb9/h1d/h00/h00/13280814235678/Midres-Vans-V1003800580043-HO.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1c/hb4/h00/h00/13302283534366/Midres-Vans-V1003800580043-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4b/h7a/h00/h00/13302283829278/Midres-Vans-V1003800580043-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6e/hc4/h00/h00/13302284156958/Midres-Vans-V1003800580043-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd9/h74/h00/h00/13302284484638/Midres-Vans-V1003800580043-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf6/h2d/h00/h00/13302284812318/Midres-Vans-V1003800580043-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h36/h91/h00/h00/13302285139998/Midres-Vans-V1003800580043-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h71/h00/h00/13280814170142/Lores-Vans-V1003800580043-HO.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h10/h41/h00/h00/13302283501598/Lores-Vans-V1003800580043-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h30/h99/h00/h00/13302283763742/Lores-Vans-V1003800580043-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8e/h35/h00/h00/13302284091422/Lores-Vans-V1003800580043-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haf/h9d/h00/h00/13302284419102/Lores-Vans-V1003800580043-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h74/hbc/h00/h00/13302284746782/Lores-Vans-V1003800580043-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he9/hdf/h00/h00/13302285074462/Lores-Vans-V1003800580043-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "MARROM",
+         "level" : 0
+      }, {
+         "code" : "NEUTROS",
+         "level" : 0
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1003800580043U",
+      "color" : "MARROM",
+      "description" : "O Tênis Hylane Suede Yellow Dust revisita o legado da VANS com construção clássica em couro suede e bico redondo. A montagem em cold cement garante união sólida entre cabedal e sola, enquanto o acabamento acolchoado no colar proporciona conforto e suporte. Design pensado para expressão descontraída, com toque atemporal e componentes que privilegiam flexibilidade e resistência.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdd/heb/h00/h00/13276941221918/Thumbnail-V1003800580043-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h1c/hb4/h00/h00/13302283534366/Midres-Vans-V1003800580043-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb6/h56/h00/h00/13302283567134/Hires-Vans-V1003800580043-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h71/h00/h00/13280814170142/Lores-Vans-V1003800580043-HO.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h10/h41/h00/h00/13302283501598/Lores-Vans-V1003800580043-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1003800580043U",
+      "legacySKU" : "V1003800580043",
+      "moreColors" : [ {
+         "available" : true,
+         "code" : "1003800580018U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf5/ha6/h00/h00/13073923145758/Thumbnail-V1003800580018-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h5c/h00/h00/13073922818078/Thumbnail-Vans-V1003800580018-01.jpg",
+         "url" : "/tenis-hylane-mesh-white-gum/p/1003800580018U"
+      }, {
+         "available" : true,
+         "code" : "1003800580042U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/ha9/h00/h00/13236403437598/Thumbnail-V1003800580042-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h63/hb1/h00/h00/13236403109918/Thumbnail-Vans-V1003800580042-01.jpg",
+         "url" : "/tenis-hylane-2-tone-vintage-cocoa/p/1003800580042U"
+      }, {
+         "available" : true,
+         "code" : "1003800580034U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb2/h8b/h00/h00/13280789659678/Thumbnail-V1003800580034-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h62/h1a/h00/h00/13280789200926/Thumbnail-Vans-V1003800580034-01.jpg",
+         "url" : "/tenis-hylane-mono-black/p/1003800580034U"
+      }, {
+         "available" : true,
+         "code" : "1003800580017U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/root/hec/h71/h00/h00/11541769781278/AZUL.png",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h56/h00/h00/12847170256926/Thumbnail-Vans-V1003800580017-01.jpg",
+         "url" : "/tenis-hylane-stormy-weather/p/1003800580017U"
+      }, {
+         "available" : true,
+         "code" : "1003800580039U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h15/h00/h00/13280791298078/Thumbnail-V1003800580039-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hff/h91/h00/h00/13280790970398/Thumbnail-Vans-V1003800580039-01.jpg",
+         "url" : "/tenis-hylane-suede-glacial-slate/p/1003800580039U"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdd/heb/h00/h00/13276941221918/Thumbnail-V1003800580043-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg",
+         "url" : "/tenis-hylane-suede-vintage-cocoa/p/1003800580043U"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h23/h00/h00/13280788873246/Thumbnail-V1003800580032-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg",
+         "url" : "/tenis-hylane-mono-mushroom/p/1003800580032U"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h89/h00/h00/12954248478750/Thumbnail-V1003800580015-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg",
+         "url" : "/tenis-hylane-2-tone-coal-brown/p/1003800580015U"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/ha4/h00/h00/13236404092958/Thumbnail-V1003800580044-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi-white/p/1003800580044U"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/hb5/h00/h00/13259558715422/Thumbnail-V1003800580031-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg",
+         "url" : "/tenis-hylane-metallic-multi/p/1003800580031U"
+      } ],
+      "moreColorsQuantity" : 10,
+      "name" : "Tênis Hylane Suede Vintage Cocoa",
+      "percentualOfDiscount" : "28",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 699,99",
+         "priceType" : "BUY",
+         "value" : 699.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0c/h22/h00/h00/13302283468830/Thumbnail-Vans-V1003800580043-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1003800580043U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1003800580043U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1003800580043U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580043U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-suede-vintage-cocoa/p/1003800580043U",
+      "variantDescription" : "Tênis Hylane Suede Vintage Cocoa | Marrom",
+      "variantOptions" : [ {
+         "code" : "1003800580043U-33",
+         "sellable" : false
+      }, {
+         "code" : "1003800580043U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-37",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-38",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-41",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-42",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-43",
+         "sellable" : false
+      }, {
+         "code" : "1003800580043U-44",
+         "sellable" : true
+      }, {
+         "code" : "1003800580043U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h07/h53/h00/h00/13291481923614/Thumbnail-Vans-V1003800580032-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfe/h6e/h00/h00/13291482251294/Thumbnail-Vans-V1003800580032-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h22/hfa/h00/h00/13291482578974/Thumbnail-Vans-V1003800580032-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h52/h57/h00/h00/13291482906654/Thumbnail-Vans-V1003800580032-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4f/h0c/h00/h00/13291483234334/Thumbnail-Vans-V1003800580032-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/hb5/h00/h00/13280788742174/Hires-Vans-V1003800580032-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h24/h00/h00/13291482120222/Hires-Vans-V1003800580032-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd1/hbb/h00/h00/13291482447902/Hires-Vans-V1003800580032-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbb/hc3/h00/h00/13291482775582/Hires-Vans-V1003800580032-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h68/h85/h00/h00/13291483103262/Hires-Vans-V1003800580032-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h97/he3/h00/h00/13291483430942/Hires-Vans-V1003800580032-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h1e/h00/h00/13280788676638/Midres-Vans-V1003800580032-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h20/hb1/h00/h00/13291482054686/Midres-Vans-V1003800580032-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h49/hff/h00/h00/13291482382366/Midres-Vans-V1003800580032-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h5c/h00/h00/13291482710046/Midres-Vans-V1003800580032-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h71/h4e/h00/h00/13291483037726/Midres-Vans-V1003800580032-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h07/h9e/h00/h00/13291483365406/Midres-Vans-V1003800580032-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3d/hff/h00/h00/13280788611102/Lores-Vans-V1003800580032-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h02/h21/h00/h00/13291481989150/Lores-Vans-V1003800580032-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h19/h2a/h00/h00/13291482316830/Lores-Vans-V1003800580032-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haf/h79/h00/h00/13291482644510/Lores-Vans-V1003800580032-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h99/h81/h00/h00/13291482972190/Lores-Vans-V1003800580032-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7b/hd3/h00/h00/13291483299870/Lores-Vans-V1003800580032-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "BEGE",
+         "level" : 0
+      }, {
+         "code" : "NEUTROS",
+         "level" : 0
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1003800580032U",
+      "color" : "BEGE",
+      "description" : "O Tênis Hylane Mono Mushroom reúne o legado da VANS em um modelo autêntico com construção direta. Cabedal em couro e montagem cold cement oferecem estrutura resistente e flexível, proporcionando conforto e suporte. Detalhes de acabamento destacam a expressão descontraída e atemporal do modelo, com sensação acolchoada internamente e resposta estável ao caminhar.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h23/h00/h00/13280788873246/Thumbnail-V1003800580032-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha8/h1e/h00/h00/13280788676638/Midres-Vans-V1003800580032-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/hb5/h00/h00/13280788742174/Hires-Vans-V1003800580032-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h02/h21/h00/h00/13291481989150/Lores-Vans-V1003800580032-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3d/hff/h00/h00/13280788611102/Lores-Vans-V1003800580032-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1003800580032U",
+      "legacySKU" : "V1003800580032",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Hylane Mono Mushroom",
+      "percentualOfDiscount" : "28",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 699,99",
+         "priceType" : "BUY",
+         "value" : 699.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/h73/h00/h00/13280788545566/Thumbnail-Vans-V1003800580032-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1003800580032U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1003800580032U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1003800580032U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1003800580032U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580032U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-mono-mushroom/p/1003800580032U",
+      "variantDescription" : "Tênis Hylane Mono Mushroom | Bege",
+      "variantOptions" : [ {
+         "code" : "1003800580032U-33",
+         "sellable" : false
+      }, {
+         "code" : "1003800580032U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-37",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-38",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-41",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-42",
+         "sellable" : true
+      }, {
+         "code" : "1003800580032U-43",
+         "sellable" : false
+      }, {
+         "code" : "1003800580032U-44",
+         "sellable" : false
+      }, {
+         "code" : "1003800580032U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h17/h03/h00/h00/12968313258014/Thumbnail-Vans-V1003800580015-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3f/h19/h00/h00/12968314109982/Thumbnail-Vans-V1003800580015-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd5/h68/h00/h00/12968314437662/Thumbnail-Vans-V1003800580015-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6b/hb8/h00/h00/12968314765342/Thumbnail-Vans-V1003800580015-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/he3/h00/h00/12968315093022/Thumbnail-Vans-V1003800580015-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0a/h17/h00/h00/12954249003038/Hires-Vans-V1003800580015-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h12/h98/h00/h00/12968313978910/Hires-Vans-V1003800580015-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he1/h28/h00/h00/12968314306590/Hires-Vans-V1003800580015-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb3/h26/h00/h00/12968314634270/Hires-Vans-V1003800580015-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7c/h37/h00/h00/12968314961950/Hires-Vans-V1003800580015-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h19/ha8/h00/h00/12968315387934/Hires-Vans-V1003800580015-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h11/hab/h00/h00/12954248937502/Midres-Vans-V1003800580015-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he5/hd3/h00/h00/12968313847838/Midres-Vans-V1003800580015-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hae/h63/h00/h00/12968314241054/Midres-Vans-V1003800580015-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8d/hfa/h00/h00/12968314568734/Midres-Vans-V1003800580015-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdc/hb5/h00/h00/12968314896414/Midres-Vans-V1003800580015-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc7/hbf/h00/h00/12968315322398/Midres-Vans-V1003800580015-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/h42/h00/h00/12954248871966/Lores-Vans-V1003800580015-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/h3d/h00/h00/12968313520158/Lores-Vans-V1003800580015-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/hc8/h00/h00/12968314175518/Lores-Vans-V1003800580015-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h53/h6d/h00/h00/12968314503198/Lores-Vans-V1003800580015-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h83/hcb/h00/h00/12968314830878/Lores-Vans-V1003800580015-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2d/h8d/h00/h00/12968315158558/Lores-Vans-V1003800580015-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "CLASSICPLUS",
+         "level" : 0
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "CANOMEDIO",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MARROM",
+         "level" : 0
+      }, {
+         "code" : "INVERNO",
+         "level" : 0
+      }, {
+         "code" : "VERAO",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "NATAL"
+      }, {
+         "code" : "MAISVENDIDOS"
+      }, {
+         "code" : "HOHOHO"
+      }, {
+         "code" : "NATALINA"
+      }, {
+         "code" : "PAVE"
+      }, {
+         "code" : "ITSTIME"
+      }, {
+         "code" : "LOOKS",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "COMPREEGANHE",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "PROGRESSIVA"
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "SELECAOINVERNO"
+      }, {
+         "code" : "CHUNKY",
+         "level" : 0
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "RETRO",
+         "level" : 0
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      } ],
+      "code" : "1003800580015U",
+      "color" : "MARROM",
+      "description" : "Sempre em alta. Inspirado nos estilos de skate do início dos anos 2000, com um perfil bufante e detalhes oversized. O Hylane é um tênis inspirado no skate Y2K que reinterpreta nossa silhueta Upland de 1999. O Tênis Hylane 2-tone Coal Brown traz referências do passado que  coexistem com detalhes de design sofisticados, como a Sidestripe 3D brilhante e logotipos bordados, enquanto a estrutura robusta e a língua de skate bufante proporcionam um visual e sensação retrô. Com uma entressola com textura exclusiva em V entrelaçado, o Hylane transforma uma estética old school em um item essencial do guarda-roupa atual.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h89/h00/h00/12954248478750/Thumbnail-V1003800580015-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h11/hab/h00/h00/12954248937502/Midres-Vans-V1003800580015-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0a/h17/h00/h00/12954249003038/Hires-Vans-V1003800580015-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/h3d/h00/h00/12968313520158/Lores-Vans-V1003800580015-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h31/h42/h00/h00/12954248871966/Lores-Vans-V1003800580015-01.jpg"
+      } ],
+      "installment" : "3x de R$126,66",
+      "legacyEntireSKU" : "V1003800580015U",
+      "legacySKU" : "V1003800580015",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Hylane 2-tone Coal Brown",
+      "percentualOfDiscount" : "41",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 649,99",
+         "priceType" : "BUY",
+         "value" : 649.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5a/h19/h00/h00/12954248806430/Thumbnail-Vans-V1003800580015-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : true,
+         "code" : "1003800580015U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580015U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580015U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-2-tone-coal-brown/p/1003800580015U",
+      "variantDescription" : "Tênis Hylane 2-tone Coal Brown | Marrom",
+      "variantOptions" : [ {
+         "code" : "1003800580015U-33",
+         "sellable" : true
+      }, {
+         "code" : "1003800580015U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580015U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580015U-36",
+         "sellable" : false
+      }, {
+         "code" : "1003800580015U-37",
+         "sellable" : false
+      }, {
+         "code" : "1003800580015U-38",
+         "sellable" : false
+      }, {
+         "code" : "1003800580015U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580015U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580015U-41",
+         "sellable" : false
+      }, {
+         "code" : "1003800580015U-42",
+         "sellable" : false
+      }, {
+         "code" : "1003800580015U-43",
+         "sellable" : false
+      }, {
+         "code" : "1003800580015U-44",
+         "sellable" : false
+      }, {
+         "code" : "1003800580015U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h85/hd2/h00/h00/13258614800414/Thumbnail-Vans-V1003800580044-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h7f/h3e/h00/h00/13258615128094/Thumbnail-Vans-V1003800580044-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb0/h1f/h00/h00/13258615455774/Thumbnail-Vans-V1003800580044-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he5/h2f/h00/h00/13258615783454/Thumbnail-Vans-V1003800580044-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc1/he6/h00/h00/13258616111134/Thumbnail-Vans-V1003800580044-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h34/hb6/h00/h00/13236403961886/Hires-Vans-V1003800580044-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd3/h72/h00/h00/13258614997022/Hires-Vans-V1003800580044-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbc/h69/h00/h00/13258615324702/Hires-Vans-V1003800580044-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd2/h61/h00/h00/13258615652382/Hires-Vans-V1003800580044-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3c/h12/h00/h00/13258615980062/Hires-Vans-V1003800580044-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he9/heb/h00/h00/13258616307742/Hires-Vans-V1003800580044-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h3a/h00/h00/13236403896350/Midres-Vans-V1003800580044-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h88/h00/h00/13258614931486/Midres-Vans-V1003800580044-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h37/hd0/h00/h00/13258615259166/Midres-Vans-V1003800580044-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h07/h72/h00/h00/13258615586846/Midres-Vans-V1003800580044-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h28/heb/h00/h00/13258615914526/Midres-Vans-V1003800580044-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h86/h87/h00/h00/13258616242206/Midres-Vans-V1003800580044-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h28/h6c/h00/h00/13236403830814/Lores-Vans-V1003800580044-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haf/h4d/h00/h00/13258614865950/Lores-Vans-V1003800580044-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h51/hb1/h00/h00/13258615193630/Lores-Vans-V1003800580044-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hde/hab/h00/h00/13258615521310/Lores-Vans-V1003800580044-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hab/h5c/h00/h00/13258615848990/Lores-Vans-V1003800580044-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf7/h06/h00/h00/13258616176670/Lores-Vans-V1003800580044-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "PRATEADO"
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "TENDENCIAS"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "INVERNO",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "CADARCOELEVADO"
+      }, {
+         "code" : "SELECAOINVERNO"
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1003800580044U",
+      "color" : "PRATEADO",
+      "description" : "O Tênis Hylane Metallic Multi White reúne o legado da VANS em um modelo autêntico com construção direta. Cabedal em couro e montagem cold cement oferecem estrutura resistente e flexível, proporcionando conforto e suporte. Detalhes de acabamento destacam a expressão descontraída e atemporal do modelo, com sensação acolchoada internamente e resposta estável ao caminhar.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/ha4/h00/h00/13236404092958/Thumbnail-V1003800580044-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h23/h3a/h00/h00/13236403896350/Midres-Vans-V1003800580044-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h34/hb6/h00/h00/13236403961886/Hires-Vans-V1003800580044-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/haf/h4d/h00/h00/13258614865950/Lores-Vans-V1003800580044-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h28/h6c/h00/h00/13236403830814/Lores-Vans-V1003800580044-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1003800580044U",
+      "legacySKU" : "V1003800580044",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Hylane Metallic Multi White",
+      "percentualOfDiscount" : "28",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 699,99",
+         "priceType" : "BUY",
+         "value" : 699.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h59/h00/h00/13236403765278/Thumbnail-Vans-V1003800580044-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1003800580044U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-36",
+         "size" : "36"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1003800580044U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580044U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-metallic-multi-white/p/1003800580044U",
+      "variantDescription" : "Tênis Hylane Metallic Multi White | Prateado",
+      "variantOptions" : [ {
+         "code" : "1003800580044U-33",
+         "sellable" : false
+      }, {
+         "code" : "1003800580044U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-37",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-38",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-41",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-42",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-43",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-44",
+         "sellable" : true
+      }, {
+         "code" : "1003800580044U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h05/h9a/h00/h00/13258671259678/Thumbnail-Vans-V1003800580031-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/h57/h00/h00/13258671456286/Thumbnail-Vans-V1003800580031-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/h98/h00/h00/13258671652894/Thumbnail-Vans-V1003800580031-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/had/h30/h00/h00/13258671882270/Thumbnail-Vans-V1003800580031-05.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h20/h10/h00/h00/13258672668702/Thumbnail-Vans-V1003800580031-06.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h10/h3e/h00/h00/13224571502622/Hires-Vans-V1003800580031-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h39/h23/h00/h00/13258671357982/Hires-Vans-V1003800580031-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h1e/h00/h00/13258671554590/Hires-Vans-V1003800580031-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h59/h63/h00/h00/13258671751198/Hires-Vans-V1003800580031-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h96/h81/h00/h00/13258672537630/Hires-Vans-V1003800580031-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h01/h32/h00/h00/13258672865310/Hires-Vans-V1003800580031-06.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he2/hfb/h00/h00/13224571437086/Midres-Vans-V1003800580031-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd7/h0d/h00/h00/13258671325214/Midres-Vans-V1003800580031-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0f/he2/h00/h00/13258671521822/Midres-Vans-V1003800580031-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h22/h2f/h00/h00/13258671718430/Midres-Vans-V1003800580031-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbe/h86/h00/h00/13258672341022/Midres-Vans-V1003800580031-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/h5a/h00/h00/13258672799774/Midres-Vans-V1003800580031-06.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfd/hdc/h00/h00/13224571371550/Lores-Vans-V1003800580031-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hca/haf/h00/h00/13258671292446/Lores-Vans-V1003800580031-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h48/h9d/h00/h00/13258671489054/Lores-Vans-V1003800580031-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h72/h00/h00/13258671685662/Lores-Vans-V1003800580031-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h87/h16/h00/h00/13258671947806/Lores-Vans-V1003800580031-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h08/hc6/h00/h00/13258672734238/Lores-Vans-V1003800580031-06.jpg"
+      } ],
+      "availableInStore" : true,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "Y2K",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "HYLANE",
+         "level" : 0
+      }, {
+         "code" : "ANOS2000",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "COURO",
+         "level" : 0
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "DIADASMULHERES",
+         "level" : 0
+      }, {
+         "code" : "OUTONO"
+      }, {
+         "code" : "CONFORTO"
+      }, {
+         "code" : "TENISECAMISETAS",
+         "level" : 0
+      }, {
+         "code" : "FTW299"
+      }, {
+         "code" : "DIADASMAES"
+      }, {
+         "code" : "SUEDE",
+         "level" : 0
+      }, {
+         "code" : "INVERNO",
+         "level" : 0
+      }, {
+         "code" : "TENDENCIAS"
+      }, {
+         "code" : "NAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "DIADOSNAMORADOS",
+         "level" : 0
+      }, {
+         "code" : "CADARCOELEVADO"
+      }, {
+         "code" : "SELECAOINVERNO"
+      }, {
+         "code" : "PARATORCER"
+      }, {
+         "code" : "DIADOROCK"
+      }, {
+         "code" : "DIADOSPAIS",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      } ],
+      "code" : "1003800580031U",
+      "color" : "PRETO",
+      "description" : "<p>O Hylane é um sapato inspirado no skate dos anos 2000 que reinterpreta nossa silhueta Upland de 1999. Acenos ao passado coexistem ao lado de detalhes de design elevados, como a Sidestripe em alto relevo e logotipos bordados, enquanto a postura robusta e a língua fofa do skate proporcionam uma aparência e sensação retrô. Finalizado com uma construção de sola de copa e uma textura exclusiva em forma de V entrelaçada, o Hylane transforma uma estética old skool em um item essencial do guarda-roupa atual.</p>",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 499,99",
+         "priceType" : "BUY",
+         "value" : 499.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2a/hb5/h00/h00/13259558715422/Thumbnail-V1003800580031-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he2/hfb/h00/h00/13224571437086/Midres-Vans-V1003800580031-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h10/h3e/h00/h00/13224571502622/Hires-Vans-V1003800580031-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hca/haf/h00/h00/13258671292446/Lores-Vans-V1003800580031-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfd/hdc/h00/h00/13224571371550/Lores-Vans-V1003800580031-01.jpg"
+      } ],
+      "installment" : "5x de R$99,99",
+      "legacyEntireSKU" : "V1003800580031U",
+      "legacySKU" : "V1003800580031",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Hylane Metallic Multi",
+      "percentualOfDiscount" : "28",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 699,99",
+         "priceType" : "BUY",
+         "value" : 699.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd6/hb1/h00/h00/13224571306014/Thumbnail-Vans-V1003800580031-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : true,
+      "sellableOmni" : true,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1003800580031U-33",
+         "size" : "33"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-34",
+         "size" : "34"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-35",
+         "size" : "35"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1003800580031U-37",
+         "size" : "37"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-38",
+         "size" : "38"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-39",
+         "size" : "39"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-40",
+         "size" : "40"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-41",
+         "size" : "41"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-42",
+         "size" : "42"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-43",
+         "size" : "43"
+      }, {
+         "available" : true,
+         "code" : "1003800580031U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1003800580031U-45",
+         "size" : "45"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-hylane-metallic-multi/p/1003800580031U",
+      "variantDescription" : "Tênis Hylane Metallic Multi | Preto",
+      "variantOptions" : [ {
+         "code" : "1003800580031U-33",
+         "sellable" : false
+      }, {
+         "code" : "1003800580031U-34",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-35",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-36",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-37",
+         "sellable" : false
+      }, {
+         "code" : "1003800580031U-38",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-39",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-40",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-41",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-42",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-43",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-44",
+         "sellable" : true
+      }, {
+         "code" : "1003800580031U-45",
+         "sellable" : false
+      } ],
+      "volumePricesFlag" : false
+   } ],
+   "description" : "Sempre em alta. Inspirado nos estilos de skate do início dos anos 2000, com um perfil bufante e detalhes oversized. O Hylane é um tênis inspirado no skate Y2K que reinterpreta nossa silhueta Upland de 1999. O Tênis Hylane 2-tone Khaki Green traz referências do passado que  coexistem com detalhes de design sofisticados, como a Sidestripe 3D brilhante e logotipos bordados, enquanto a estrutura robusta e a língua de skate bufante proporcionam um visual e sensação retrô. Com uma entressola com textura exclusiva em V entrelaçado, o Hylane transforma uma estética old school em um item essencial do guarda-roupa atual.",
+   "discountPrice" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$379,99",
+      "priceType" : "FROM",
+      "value" : 379.99
+   },
+   "favorited" : false,
+   "hasPriceVariations" : false,
+   "heelSize" : 0.0,
+   "installment" : "3x de R$126,66",
+   "legacySKU" : "V1003800580026",
+   "name" : "Tênis Hylane 2-tone Khaki Green",
+   "percentualOfDiscount" : "41",
+   "price" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 649,99",
+      "priceType" : "FROM",
+      "value" : 649.99
+   },
+   "primaryImage" : {
+      "format" : "thumbnail",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/hb3/h00/h00/12954245595166/Thumbnail-Vans-V1003800580026-01.jpg"
+   },
+   "productHeight" : "0",
+   "productLength" : "0",
+   "productType" : "shoe",
+   "productWidth" : "0",
+   "purchasable" : true,
+   "selectedColor" : false,
+   "sellable" : true,
+   "sellableOmni" : true,
+   "stock" : {
+      "stockLevel" : 0,
+      "stockLevelStatus" : "inStock"
+   },
+   "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U",
+   "variantOptions" : [ {
+      "code" : "1003800580026U-33",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "33",
+      "ean" : "197804439188",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 5,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-33",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "33"
+      } ]
+   }, {
+      "code" : "1003800580026U-34",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "34",
+      "ean" : "197804439515",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 11,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-34",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "34"
+      } ]
+   }, {
+      "code" : "1003800580026U-35",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "35",
+      "ean" : "197804439539",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 14,
+         "stockLevelStatus" : "inStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-35",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "35"
+      } ]
+   }, {
+      "code" : "1003800580026U-36",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "36",
+      "ean" : "197804439591",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : true,
+      "stock" : {
+         "stockLevel" : 4,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-36",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "36"
+      } ]
+   }, {
+      "code" : "1003800580026U-37",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "37",
+      "ean" : "197804439843",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-37",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "37"
+      } ]
+   }, {
+      "code" : "1003800580026U-38",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "38",
+      "ean" : "197804440047",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-38",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "38"
+      } ]
+   }, {
+      "code" : "1003800580026U-39",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "39",
+      "ean" : "197804440146",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-39",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "39"
+      } ]
+   }, {
+      "code" : "1003800580026U-40",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "40",
+      "ean" : "197804440184",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-40",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "40"
+      } ]
+   }, {
+      "code" : "1003800580026U-41",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "41",
+      "ean" : "197804440399",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-41",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "41"
+      } ]
+   }, {
+      "code" : "1003800580026U-42",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "42",
+      "ean" : "197804440450",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-42",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "42"
+      } ]
+   }, {
+      "code" : "1003800580026U-43",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "43",
+      "ean" : "197804440511",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-43",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "43"
+      } ]
+   }, {
+      "code" : "1003800580026U-44",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "44",
+      "ean" : "197804440764",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-44",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "44"
+      } ]
+   }, {
+      "code" : "1003800580026U-45",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 379,99",
+         "priceType" : "BUY",
+         "value" : 379.99
+      },
+      "displayText" : "45",
+      "ean" : "197804440832",
+      "installments" : "3x de R$126,66",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 649.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-hylane-2-tone-khaki-green/p/1003800580026U-45",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "45"
+      } ]
+   } ]
+}

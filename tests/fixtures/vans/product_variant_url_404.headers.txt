@@ -1,0 +1,23 @@
+HTTP/1.1 404 Not Found
+Date: Wed, 14 Oct 2026 13:06:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+x-dns-prefetch-control: on
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+content-security-policy: frame-ancestors 'self' https://app.contentful.com
+permissions-policy: geolocation=(self "https://app.contentful.com"), camera=(), microphone=(), usb=(), payment=(), fullscreen=(), accelerometer=(), gyroscope=(), magnetometer=()
+referrer-policy: strict-origin-when-cross-origin
+link: <https://secure-static.vans.com.br>; rel="preconnect"
+new_cms: true
+x-nextjs-cache: HIT
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Strict-Transport-Security: max-age=0; includeSubDomains
+vary: Accept-Encoding
+cf-cache-status: BYPASS
+Server: cloudflare
+CF-RAY: a4a6ccda58e9feaa-GIG
+alt-svc: h3=":443"; ma=86400
+

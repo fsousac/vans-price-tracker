@@ -1,0 +1,2170 @@
+{
+   "baseOptions" : [ {
+      "options" : [ {
+         "code" : "1002000690002U-33",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "33",
+         "ean" : "700053843219",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-33",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "33"
+         } ]
+      }, {
+         "code" : "1002000690002U-34",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "34",
+         "ean" : "700053843226",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "lowStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-34",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "34"
+         } ]
+      }, {
+         "code" : "1002000690002U-35",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "35",
+         "ean" : "700053843233",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-35",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "35"
+         } ]
+      }, {
+         "code" : "1002000690002U-36",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "36",
+         "ean" : "700053843257",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-36",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "36"
+         } ]
+      }, {
+         "code" : "1002000690002U-37",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "37",
+         "ean" : "700053843271",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-37",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "37"
+         } ]
+      }, {
+         "code" : "1002000690002U-38",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "38",
+         "ean" : "700053843295",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-38",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "38"
+         } ]
+      }, {
+         "code" : "1002000690002U-39",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "39",
+         "ean" : "700053843318",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-39",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "39"
+         } ]
+      }, {
+         "code" : "1002000690002U-40",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "40",
+         "ean" : "700053843325",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-40",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "40"
+         } ]
+      }, {
+         "code" : "1002000690002U-41",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "41",
+         "ean" : "700053843349",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-41",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "41"
+         } ]
+      }, {
+         "code" : "1002000690002U-42",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "42",
+         "ean" : "700053843356",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-42",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "42"
+         } ]
+      }, {
+         "code" : "1002000690002U-43",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "43",
+         "ean" : "700053843363",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-43",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "43"
+         } ]
+      }, {
+         "code" : "1002000690002U-44",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "44",
+         "ean" : "700053843387",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-44",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "44"
+         } ]
+      }, {
+         "code" : "1002000690002U-45",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "45",
+         "ean" : "700053843394",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-45",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "45"
+         } ]
+      }, {
+         "code" : "1002000690002U-46",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "46",
+         "ean" : "700054073745",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-46",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "46"
+         } ]
+      }, {
+         "code" : "1002000690002U-48",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "BUY",
+            "value" : 99.99000000000001
+         },
+         "displayText" : "48",
+         "installments" : "1x de R$99,99",
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "outOfStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U-48",
+         "variantOptionQualifiers" : [ {
+            "qualifier" : "size",
+            "value" : "48"
+         } ]
+      } ],
+      "selected" : {
+         "code" : "1002000690002U",
+         "discountPrice" : {
+            "currencyIso" : "BRL",
+            "formattedValue" : "R$ 99,99",
+            "priceType" : "FROM",
+            "value" : 99.99000000000001
+         },
+         "priceData" : {
+            "currencyIso" : "BRL",
+            "value" : 279.99
+         },
+         "sellable" : false,
+         "stock" : {
+            "stockLevel" : 0,
+            "stockLevelStatus" : "inStock"
+         },
+         "url" : "/tenis-era-navy/p/1002000690002U",
+         "variantOptionQualifiers" : [ ]
+      },
+      "variantType" : "ModelVariantProduct"
+   } ],
+   "baseProduct" : "100200069",
+   "code" : "1002000690002U",
+   "colorOptions" : [ {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h1d/h00/h00/12847064481822/Thumbnail-Vans-V1002000690002-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h85/h00/h00/12847064809502/Thumbnail-Vans-V1002000690002-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb3/h69/h00/h00/12847065137182/Thumbnail-Vans-V1002000690002-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he3/hc7/h00/h00/12847065464862/Thumbnail-Vans-V1002000690002-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0e/h68/h00/h00/9543200342046/1002000690002U-05-BASEIMAGE-Thumbnail.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h64/h95/h00/h00/12847064678430/Hires-Vans-V1002000690002-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbf/hb3/h00/h00/12847065006110/Hires-Vans-V1002000690002-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h65/ha6/h00/h00/12847065333790/Hires-Vans-V1002000690002-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4d/h78/h00/h00/12847065792542/Hires-Vans-V1002000690002-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h35/h6d/h00/h00/9543200538654/1002000690002U-05-BASEIMAGE-Hires.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbd/h7f/h00/h00/12847064612894/Midres-Vans-V1002000690002-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h53/hcf/h00/h00/12847064940574/Midres-Vans-V1002000690002-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h04/h28/h00/h00/12847065268254/Midres-Vans-V1002000690002-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfb/hf5/h00/h00/12847065661470/Midres-Vans-V1002000690002-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc6/hf9/h00/h00/9543200473118/1002000690002U-05-BASEIMAGE-Midres.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5c/h01/h00/h00/12847064547358/Lores-Vans-V1002000690002-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h50/h00/h00/12847064875038/Lores-Vans-V1002000690002-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h09/h5a/h00/h00/12847065202718/Lores-Vans-V1002000690002-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2b/h36/h00/h00/12847065595934/Lores-Vans-V1002000690002-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h81/h24/h00/h00/9543200407582/1002000690002U-05-BASEIMAGE-Lores.jpg"
+      } ],
+      "availableInStore" : false,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ERA",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "ZZMALLONLY"
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "ACIMA40",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "VANS40ATE50",
+         "level" : 0
+      }, {
+         "code" : "ULTIMOSPARES",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "BLACKFRIDAY",
+         "level" : 0
+      }, {
+         "code" : "TUDO50"
+      }, {
+         "code" : "GERAL40"
+      }, {
+         "code" : "CLASSICOS20"
+      }, {
+         "code" : "AMIGOSECRETO"
+      }, {
+         "code" : "ATE299"
+      }, {
+         "code" : "ATE159",
+         "level" : 0
+      }, {
+         "code" : "OPORTUNIDADESEMSALE",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "CLASSICOSEMSALE",
+         "level" : 0
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "FTWATE299"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      } ],
+      "code" : "1002000690002U",
+      "description" : "O Vans Era, originalmente chamado de Vans #95, ganhou vida em 1976 e foi popularizado pelos lendários Z-Boys de Santa Monica. Foi o primeiro calçado a exibir nosso famoso colarinho acolchoado, mudando completamente o jogo em termos de conforto, e continua sendo o favorito de pessoas criativas no mundo todo. \n\nCom cabedal de lona resistente em uma variedade de cores tradicionais, o Era energiza nossa silhueta de cano baixo atemporal com estilo e sem esforço. Além do colarinho de suporte, este calçado clássico com cadarço foi produzido com ilhós de metal e sola de borracha waffle exclusiva.\n\n• Tênis de cano baixo e cadarço lendário da Vans \n• Cabedal resistente de lona\n• Colarinhos acolchoados de suporte\n• Ilhós de metal\n• Sola de borracha waffle exclusiva.Aproveite a Black Friday Vans e adquira já seu novo produto Off The Wall",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h1d/h00/h00/12847064481822/Thumbnail-Vans-V1002000690002-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hbd/h7f/h00/h00/12847064612894/Midres-Vans-V1002000690002-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h64/h95/h00/h00/12847064678430/Hires-Vans-V1002000690002-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf2/h50/h00/h00/12847064875038/Lores-Vans-V1002000690002-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5c/h01/h00/h00/12847064547358/Lores-Vans-V1002000690002-01.jpg"
+      } ],
+      "installment" : "1x de R$99,99",
+      "legacyEntireSKU" : "V1002000690002U",
+      "legacySKU" : "V1002000690002",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Era Navy",
+      "percentualOfDiscount" : "64",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 279,99",
+         "priceType" : "BUY",
+         "value" : 279.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h1d/h00/h00/12847064481822/Thumbnail-Vans-V1002000690002-01.jpg"
+      },
+      "productType" : "shoe",
+      "selectedColor" : true,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002000690002U-33",
+         "size" : "33"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-34",
+         "size" : "34"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-38",
+         "size" : "38"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-39",
+         "size" : "39"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-45",
+         "size" : "45"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-46",
+         "size" : "46"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U-48",
+         "size" : "48"
+      } ],
+      "stock" : {
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U",
+      "variantDescription" : "Tênis Era Navy",
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h70/h39/h00/h00/12861188177950/Thumbnail-Vans-V1002000690063-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h5f/h69/h00/h00/12861188505630/Thumbnail-Vans-V1002000690063-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hfe/hfc/h00/h00/12861188964382/Thumbnail-Vans-V1002000690063-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc3/hd7/h00/h00/12861189357598/Thumbnail-Vans-V1002000690063-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he0/hb3/h00/h00/12856103763998/Hires-Vans-V1002000690063-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he2/h7d/h00/h00/12861188374558/Hires-Vans-V1002000690063-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdc/hba/h00/h00/12861188767774/Hires-Vans-V1002000690063-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h26/h27/h00/h00/12861189160990/Hires-Vans-V1002000690063-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h4d/hdd/h00/h00/12861189554206/Hires-Vans-V1002000690063-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h37/h00/h00/12856103698462/Midres-Vans-V1002000690063-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb8/ha6/h00/h00/12861188309022/Midres-Vans-V1002000690063-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h17/hfb/h00/h00/12861188636702/Midres-Vans-V1002000690063-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3a/h57/h00/h00/12861189095454/Midres-Vans-V1002000690063-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h35/h94/h00/h00/12861189488670/Midres-Vans-V1002000690063-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd4/h69/h00/h00/12856103632926/Lores-Vans-V1002000690063-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h66/hf0/h00/h00/12861188243486/Lores-Vans-V1002000690063-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h03/hc0/h00/h00/12861188571166/Lores-Vans-V1002000690063-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd9/hcf/h00/h00/12861189029918/Lores-Vans-V1002000690063-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h95/h4b/h00/h00/12861189423134/Lores-Vans-V1002000690063-05.jpg"
+      } ],
+      "availableInStore" : false,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ERA",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "VOLTOUAOESTOQUE"
+      }, {
+         "code" : "BACKTOSKOOL",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "ULTIMOSPARES",
+         "level" : 0
+      }, {
+         "code" : "ATE500"
+      }, {
+         "code" : "VERAO",
+         "level" : 0
+      }, {
+         "code" : "DESCUBRAVANS"
+      }, {
+         "code" : "NOHYPE",
+         "level" : 0
+      }, {
+         "code" : "SELECAOFFTHEWALL"
+      }, {
+         "code" : "CLASSICS"
+      }, {
+         "code" : "PRESENTESOFFTHEWALL"
+      }, {
+         "code" : "ALLWHITE",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "BRANCO",
+         "level" : 0
+      }, {
+         "code" : "FTWATE299"
+      }, {
+         "code" : "FTWATE399"
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "BLACKFRIDAY",
+         "level" : 0
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "GERAL40"
+      }, {
+         "code" : "CLASSICOS20"
+      }, {
+         "code" : "BASICOSSALE"
+      }, {
+         "code" : "AMIGOSECRETO"
+      }, {
+         "code" : "ATE299"
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "OPORTUNIDADESEMSALE",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "CLASSICOSEMSALE",
+         "level" : 0
+      }, {
+         "code" : "TUDO50"
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "FTWATE299"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 149,99",
+         "priceType" : "BUY",
+         "value" : 149.99
+      } ],
+      "code" : "1002000690063U",
+      "color" : "BRANCO",
+      "description" : "O tênis Vans Era foi o primeiro modelo projetado para skatistas e pensado por skatistas. Introduzido em 1976 e originalmente chamado Vans #95, o Vans Era tornou-se popular pelos lendários Z-Boys e continua sendo o tênis de escolha para skatistas, surfistas e pessoas criativas em todo o mundo. O Tênis Era True White possui cabedal de lona resistente na cor branca, viras laterais de borracha com biqueiras reforçadas para suportar o desgaste por repetição, ilhós de metal, colarinho acolchoado para dar apoio e flexibilidade e a original sola Waffle de borracha original Vans.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 149,99",
+         "priceType" : "BUY",
+         "value" : 149.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h9a/h00/h00/12919825530910/Thumbnail-V1002000690063-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hcf/h37/h00/h00/12856103698462/Midres-Vans-V1002000690063-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he0/hb3/h00/h00/12856103763998/Hires-Vans-V1002000690063-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h66/hf0/h00/h00/12861188243486/Lores-Vans-V1002000690063-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd4/h69/h00/h00/12856103632926/Lores-Vans-V1002000690063-01.jpg"
+      } ],
+      "installment" : "1x de R$149,99",
+      "legacyEntireSKU" : "V1002000690063U",
+      "legacySKU" : "V1002000690063",
+      "mobileStampImage" : "https://secure-static.vans.com.br/medias/sys_master/root/h02/h06/h00/h00/12211901530142/Mais-Vendidos.jpg",
+      "moreColors" : [ {
+         "available" : false,
+         "code" : "1002000690063U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h9a/h00/h00/12919825530910/Thumbnail-V1002000690063-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg",
+         "url" : "/tenis-era-true-white/p/1002000690063U"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/hec/h00/h00/12919823892510/Thumbnail-V1002000690064-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h8d/h00/h00/12856102191134/Thumbnail-Vans-V1002000690064-01.jpg",
+         "url" : "/tenis-era-black-black/p/1002000690064U"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U",
+         "colorImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/ha4/h00/h00/12919824220190/Thumbnail-V1002000690065-COLOR.jpg",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/h80/h00/h00/12856102846494/Thumbnail-Vans-V1002000690065-01.jpg",
+         "url" : "/tenis-era-black-classic-gum/p/1002000690065U"
+      }, {
+         "available" : false,
+         "code" : "1002000690002U",
+         "primaryImageUrl" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h1d/h00/h00/12847064481822/Thumbnail-Vans-V1002000690002-01.jpg",
+         "url" : "/tenis-era-navy/p/1002000690002U"
+      } ],
+      "moreColorsQuantity" : 4,
+      "name" : "Tênis Era True White",
+      "percentualOfDiscount" : "50",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 299,99",
+         "priceType" : "BUY",
+         "value" : 299.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/he7/h59/h00/h00/12856103567390/Thumbnail-Vans-V1002000690063-01.jpg"
+      },
+      "productTags" : [ {
+         "identifier" : "VN_BESTSELLER",
+         "mediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/h55/h1e/h00/h00/12211902251038/Mais-Vendidos.jpg"
+         },
+         "mobileMediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/h02/h06/h00/h00/12211901530142/Mais-Vendidos.jpg"
+         },
+         "preOrder" : false,
+         "stampMediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/hc7/h62/h00/h00/12211902054430/Mais-Vendidos.jpg"
+         },
+         "type" : "PRODUCT_TAG_DEFAULT"
+      } ],
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002000690063U-33",
+         "size" : "33"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-34",
+         "size" : "34"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-38",
+         "size" : "38"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-39",
+         "size" : "39"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-45",
+         "size" : "45"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-46",
+         "size" : "46"
+      }, {
+         "available" : false,
+         "code" : "1002000690063U-48",
+         "size" : "48"
+      } ],
+      "stampImage" : "https://secure-static.vans.com.br/medias/sys_master/root/hc7/h62/h00/h00/12211902054430/Mais-Vendidos.jpg",
+      "stock" : {
+      },
+      "url" : "/tenis-era-true-white/p/1002000690063U",
+      "variantDescription" : "Tênis Era True White | Branco",
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h8d/h00/h00/12856102191134/Thumbnail-Vans-V1002000690064-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h51/h1b/h00/h00/12861184901150/Thumbnail-Vans-V1002000690064-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h3c/hc6/h00/h00/12861185228830/Thumbnail-Vans-V1002000690064-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h79/h88/h00/h00/12856102518814/Thumbnail-Vans-V1002000690064-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h94/h92/h00/h00/12856102387742/Hires-Vans-V1002000690064-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h05/h21/h00/h00/12861185097758/Hires-Vans-V1002000690064-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hca/h81/h00/h00/12861185425438/Hires-Vans-V1002000690064-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h9b/hca/h00/h00/12856102715422/Hires-Vans-V1002000690064-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha0/h8d/h00/h00/12856102322206/Midres-Vans-V1002000690064-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h15/hc1/h00/h00/12861185032222/Midres-Vans-V1002000690064-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h0b/ha8/h00/h00/12861185359902/Midres-Vans-V1002000690064-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h3e/h00/h00/12856102649886/Midres-Vans-V1002000690064-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdc/h00/h00/h00/12856102256670/Lores-Vans-V1002000690064-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc9/hc6/h00/h00/12861184966686/Lores-Vans-V1002000690064-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h26/h63/h00/h00/12861185294366/Lores-Vans-V1002000690064-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h72/h50/h00/h00/12856102584350/Lores-Vans-V1002000690064-04.jpg"
+      } ],
+      "availableInStore" : false,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "BACKTOSKOOL",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "ERA",
+         "level" : 0
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "ALLBLACK",
+         "level" : 0
+      }, {
+         "code" : "MONOCOLOR",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "CARNAVAL",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "VERAO",
+         "level" : 0
+      }, {
+         "code" : "DESCUBRAVANS"
+      }, {
+         "code" : "NOHYPE",
+         "level" : 0
+      }, {
+         "code" : "SELECAOFFTHEWALL"
+      }, {
+         "code" : "CLASSICS"
+      }, {
+         "code" : "PRESENTESOFFTHEWALL"
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "FTWATE299"
+      }, {
+         "code" : "FTWATE399"
+      }, {
+         "code" : "PRIMAVERA"
+      }, {
+         "code" : "BLACKFRIDAY",
+         "level" : 0
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "GERAL40"
+      }, {
+         "code" : "CLASSICOS20"
+      }, {
+         "code" : "BASICOSSALE"
+      }, {
+         "code" : "AMIGOSECRETO"
+      }, {
+         "code" : "ATE299"
+      }, {
+         "code" : "FESTIVAL",
+         "level" : 0
+      }, {
+         "code" : "OPORTUNIDADESEMSALE",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "CLASSICOSEMSALE",
+         "level" : 0
+      }, {
+         "code" : "TUDO50"
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "FESTIVAIS",
+         "level" : 0
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "FTWATE299"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 149,99",
+         "priceType" : "BUY",
+         "value" : 149.99
+      } ],
+      "code" : "1002000690064U",
+      "color" : "PRETO",
+      "description" : "O tênis Vans Era foi o primeiro modelo projetado para skatistas e pensado por skatistas. Introduzido em 1976 e originalmente chamado Vans #95, o Vans Era tornou-se popular pelos lendários Z-Boys e continua sendo o tênis de escolha para skatistas, surfistas e pessoas criativas em todo o mundo. O Tênis Era True White possui cabedal de lona resistente na cor preta, viras laterais de borracha com biqueiras reforçadas para suportar o desgaste por repetição, ilhós de metal, colarinho acolchoado para dar apoio e flexibilidade e a original sola Waffle de borracha original Vans.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 149,99",
+         "priceType" : "BUY",
+         "value" : 149.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h56/hec/h00/h00/12919823892510/Thumbnail-V1002000690064-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h8d/h00/h00/12856102191134/Thumbnail-Vans-V1002000690064-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha0/h8d/h00/h00/12856102322206/Midres-Vans-V1002000690064-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h94/h92/h00/h00/12856102387742/Hires-Vans-V1002000690064-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc9/hc6/h00/h00/12861184966686/Lores-Vans-V1002000690064-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hdc/h00/h00/h00/12856102256670/Lores-Vans-V1002000690064-01.jpg"
+      } ],
+      "installment" : "1x de R$149,99",
+      "legacyEntireSKU" : "V1002000690064U",
+      "legacySKU" : "V1002000690064",
+      "mobileStampImage" : "https://secure-static.vans.com.br/medias/sys_master/root/h02/h06/h00/h00/12211901530142/Mais-Vendidos.jpg",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Era Black Black",
+      "percentualOfDiscount" : "50",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 299,99",
+         "priceType" : "BUY",
+         "value" : 299.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h6d/h8d/h00/h00/12856102191134/Thumbnail-Vans-V1002000690064-01.jpg"
+      },
+      "productTags" : [ {
+         "identifier" : "VN_BESTSELLER",
+         "mediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/h55/h1e/h00/h00/12211902251038/Mais-Vendidos.jpg"
+         },
+         "mobileMediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/h02/h06/h00/h00/12211901530142/Mais-Vendidos.jpg"
+         },
+         "preOrder" : false,
+         "stampMediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/hc7/h62/h00/h00/12211902054430/Mais-Vendidos.jpg"
+         },
+         "type" : "PRODUCT_TAG_DEFAULT"
+      } ],
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002000690064U-33",
+         "size" : "33"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-34",
+         "size" : "34"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-38",
+         "size" : "38"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-39",
+         "size" : "39"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-45",
+         "size" : "45"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-46",
+         "size" : "46"
+      }, {
+         "available" : false,
+         "code" : "1002000690064U-48",
+         "size" : "48"
+      } ],
+      "stampImage" : "https://secure-static.vans.com.br/medias/sys_master/root/hc7/h62/h00/h00/12211902054430/Mais-Vendidos.jpg",
+      "stock" : {
+      },
+      "url" : "/tenis-era-black-black/p/1002000690064U",
+      "variantDescription" : "Tênis Era Black Black | Preto",
+      "volumePricesFlag" : false
+   }, {
+      "allImages" : [ {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/h80/h00/h00/12856102846494/Thumbnail-Vans-V1002000690065-01.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2d/hea/h00/h00/12861185556510/Thumbnail-Vans-V1002000690065-02.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h43/he2/h00/h00/12861185884190/Thumbnail-Vans-V1002000690065-03.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h2c/hd9/h00/h00/12861186211870/Thumbnail-Vans-V1002000690065-04.jpg"
+      }, {
+         "format" : "Thumbnail",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h77/h6b/h00/h00/12861186539550/Thumbnail-Vans-V1002000690065-05.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf9/h66/h00/h00/12856103043102/Hires-Vans-V1002000690065-01.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h60/hd1/h00/h00/12861185753118/Hires-Vans-V1002000690065-02.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h91/h3f/h00/h00/12861186080798/Hires-Vans-V1002000690065-03.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/h28/h00/h00/12861186408478/Hires-Vans-V1002000690065-04.jpg"
+      }, {
+         "format" : "Hires",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h06/h27/h00/h00/12861186736158/Hires-Vans-V1002000690065-05.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h11/h00/h00/12856102977566/Midres-Vans-V1002000690065-01.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h21/ha0/h00/h00/12861185687582/Midres-Vans-V1002000690065-02.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hba/h16/h00/h00/12861186015262/Midres-Vans-V1002000690065-03.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h75/h47/h00/h00/12861186342942/Midres-Vans-V1002000690065-04.jpg"
+      }, {
+         "format" : "Midres",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h20/h08/h00/h00/12861186670622/Midres-Vans-V1002000690065-05.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h42/hf3/h00/h00/12856102912030/Lores-Vans-V1002000690065-01.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h3f/h00/h00/12861185622046/Lores-Vans-V1002000690065-02.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h87/hd6/h00/h00/12861185949726/Lores-Vans-V1002000690065-03.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hd5/hc5/h00/h00/12861186277406/Lores-Vans-V1002000690065-04.jpg"
+      }, {
+         "format" : "Lores",
+         "imageType" : "GALLERY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hb1/h6a/h00/h00/12861186605086/Lores-Vans-V1002000690065-05.jpg"
+      } ],
+      "availableInStore" : false,
+      "brandDisplayName" : "Vans",
+      "categories" : [ {
+         "code" : "TENIS",
+         "level" : 2
+      }, {
+         "code" : "ERA",
+         "level" : 0
+      }, {
+         "code" : "SAPATOS",
+         "level" : 1
+      }, {
+         "code" : "MASCULINO",
+         "level" : 0
+      }, {
+         "code" : "FEMININO",
+         "level" : 0
+      }, {
+         "code" : "UNISSEX",
+         "level" : 0
+      }, {
+         "code" : "BASICOS"
+      }, {
+         "code" : "PRETO",
+         "level" : 0
+      }, {
+         "code" : "ZZMALL",
+         "level" : 0
+      }, {
+         "code" : "SOLAGUM",
+         "level" : 0
+      }, {
+         "code" : "CANOBAIXO",
+         "level" : 0
+      }, {
+         "code" : "BACKTOSKOOL",
+         "level" : 0
+      }, {
+         "code" : "CARNAVAL",
+         "level" : 0
+      }, {
+         "code" : "MEN",
+         "level" : 0
+      }, {
+         "code" : "WOMEN",
+         "level" : 0
+      }, {
+         "code" : "ALL",
+         "level" : 0
+      }, {
+         "code" : "CASUAL",
+         "level" : 0
+      }, {
+         "code" : "TENISBAIXO",
+         "level" : 0
+      }, {
+         "code" : "PROMOCAO",
+         "level" : 0
+      }, {
+         "code" : "BLACKFRIDAY",
+         "level" : 0
+      }, {
+         "code" : "VANS20"
+      }, {
+         "code" : "VANSFRIDAY"
+      }, {
+         "code" : "PRESENTESCOMDESCONTO"
+      }, {
+         "code" : "SOLAS"
+      }, {
+         "code" : "FERIADO",
+         "level" : 0
+      }, {
+         "code" : "MADRUGA"
+      }, {
+         "code" : "FTWATE299"
+      }, {
+         "code" : "FTWATE399"
+      }, {
+         "code" : "TUDO40"
+      }, {
+         "code" : "CLASSICOS20"
+      }, {
+         "code" : "GERAL40"
+      }, {
+         "code" : "BASICOSSALE"
+      }, {
+         "code" : "AMIGOSECRETO"
+      }, {
+         "code" : "ATE299"
+      }, {
+         "code" : "OPORTUNIDADESEMSALE",
+         "level" : 0
+      }, {
+         "code" : "CALCADOSSALE"
+      }, {
+         "code" : "CLASSICOSEMSALE",
+         "level" : 0
+      }, {
+         "code" : "TUDO50"
+      }, {
+         "code" : "TUDO30"
+      }, {
+         "code" : "SALE",
+         "level" : 0
+      }, {
+         "code" : "SEMANADOCONSUMIDOR",
+         "level" : 0
+      }, {
+         "code" : "FTWATE299"
+      }, {
+         "code" : "DIADASCRIANCAS",
+         "level" : 0
+      } ],
+      "channelPrices" : [ {
+         "channel" : "web",
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 129,99",
+         "priceType" : "BUY",
+         "value" : 129.99
+      } ],
+      "code" : "1002000690065U",
+      "color" : "PRETO",
+      "description" : "O tênis Vans Era foi o primeiro modelo projetado para skatistas e pensado por skatistas. Introduzido em 1976 e originalmente chamado Vans #95, o Vans Era tornou-se popular pelos lendários Z-Boys e continua sendo o tênis de escolha para skatistas, surfistas e pessoas criativas em todo o mundo. O Tênis Era Black Classic Gum possui cabedal de lona resistente na cor preta, viras laterais de borracha na cor goma com biqueiras reforçadas para suportar o desgaste por repetição, ilhós de metal, colarinho acolchoado para dar apoio e flexibilidade e a original sola Waffle de borracha original Vans.",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 129,99",
+         "priceType" : "BUY",
+         "value" : 129.99
+      },
+      "hasPriceVariations" : false,
+      "hasVideo" : false,
+      "imageColor" : {
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h78/ha4/h00/h00/12919824220190/Thumbnail-V1002000690065-COLOR.jpg"
+      },
+      "images" : [ {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/h80/h00/h00/12856102846494/Thumbnail-Vans-V1002000690065-01.jpg"
+      }, {
+         "format" : "product",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h27/h11/h00/h00/12856102977566/Midres-Vans-V1002000690065-01.jpg"
+      }, {
+         "format" : "zoom",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hf9/h66/h00/h00/12856103043102/Hires-Vans-V1002000690065-01.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "HOVER",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/ha9/h3f/h00/h00/12861185622046/Lores-Vans-V1002000690065-02.jpg"
+      }, {
+         "format" : "search",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h42/hf3/h00/h00/12856102912030/Lores-Vans-V1002000690065-01.jpg"
+      } ],
+      "installment" : "1x de R$129,99",
+      "legacyEntireSKU" : "V1002000690065U",
+      "legacySKU" : "V1002000690065",
+      "mobileStampImage" : "https://secure-static.vans.com.br/medias/sys_master/root/h02/h06/h00/h00/12211901530142/Mais-Vendidos.jpg",
+      "moreColors" : [ ],
+      "moreColorsQuantity" : 0,
+      "name" : "Tênis Era Black Classic Gum",
+      "percentualOfDiscount" : "56",
+      "price" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 299,99",
+         "priceType" : "BUY",
+         "value" : 299.99
+      },
+      "primaryImage" : {
+         "format" : "thumbnail",
+         "imageType" : "PRIMARY",
+         "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h8f/h80/h00/h00/12856102846494/Thumbnail-Vans-V1002000690065-01.jpg"
+      },
+      "productTags" : [ {
+         "identifier" : "VN_BESTSELLER",
+         "mediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/h55/h1e/h00/h00/12211902251038/Mais-Vendidos.jpg"
+         },
+         "mobileMediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/h02/h06/h00/h00/12211901530142/Mais-Vendidos.jpg"
+         },
+         "preOrder" : false,
+         "stampMediaImage" : {
+            "url" : "https://secure-static.vans.com.br/medias/sys_master/root/hc7/h62/h00/h00/12211902054430/Mais-Vendidos.jpg"
+         },
+         "type" : "PRODUCT_TAG_DEFAULT"
+      } ],
+      "productType" : "shoe",
+      "selectedColor" : false,
+      "sellable" : false,
+      "sellableOmni" : false,
+      "showVideoOnCategoryPage" : false,
+      "sizesAvailabilityInfo" : [ {
+         "available" : false,
+         "code" : "1002000690065U-33",
+         "size" : "33"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-34",
+         "size" : "34"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-35",
+         "size" : "35"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-36",
+         "size" : "36"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-37",
+         "size" : "37"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-38",
+         "size" : "38"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-39",
+         "size" : "39"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-40",
+         "size" : "40"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-41",
+         "size" : "41"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-42",
+         "size" : "42"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-43",
+         "size" : "43"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-44",
+         "size" : "44"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-45",
+         "size" : "45"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-46",
+         "size" : "46"
+      }, {
+         "available" : false,
+         "code" : "1002000690065U-48",
+         "size" : "48"
+      } ],
+      "stampImage" : "https://secure-static.vans.com.br/medias/sys_master/root/hc7/h62/h00/h00/12211902054430/Mais-Vendidos.jpg",
+      "stock" : {
+      },
+      "url" : "/tenis-era-black-classic-gum/p/1002000690065U",
+      "variantDescription" : "Tênis Era Black Classic Gum | Preto",
+      "volumePricesFlag" : false
+   } ],
+   "description" : "O Vans Era, originalmente chamado de Vans #95, ganhou vida em 1976 e foi popularizado pelos lendários Z-Boys de Santa Monica. Foi o primeiro calçado a exibir nosso famoso colarinho acolchoado, mudando completamente o jogo em termos de conforto, e continua sendo o favorito de pessoas criativas no mundo todo. \n\nCom cabedal de lona resistente em uma variedade de cores tradicionais, o Era energiza nossa silhueta de cano baixo atemporal com estilo e sem esforço. Além do colarinho de suporte, este calçado clássico com cadarço foi produzido com ilhós de metal e sola de borracha waffle exclusiva.\n\n• Tênis de cano baixo e cadarço lendário da Vans \n• Cabedal resistente de lona\n• Colarinhos acolchoados de suporte\n• Ilhós de metal\n• Sola de borracha waffle exclusiva.Aproveite a Black Friday Vans e adquira já seu novo produto Off The Wall",
+   "discountPrice" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$99,99",
+      "priceType" : "FROM",
+      "value" : 99.99000000000001
+   },
+   "favorited" : false,
+   "hasPriceVariations" : false,
+   "installment" : "1x de R$99,99",
+   "legacySKU" : "V1002000690002",
+   "name" : "Tênis Era Navy",
+   "percentualOfDiscount" : "64",
+   "price" : {
+      "currencyIso" : "BRL",
+      "formattedValue" : "R$ 279,99",
+      "priceType" : "FROM",
+      "value" : 279.99
+   },
+   "primaryImage" : {
+      "format" : "thumbnail",
+      "imageType" : "PRIMARY",
+      "url" : "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h88/h1d/h00/h00/12847064481822/Thumbnail-Vans-V1002000690002-01.jpg"
+   },
+   "productType" : "shoe",
+   "purchasable" : true,
+   "selectedColor" : false,
+   "sellable" : false,
+   "sellableOmni" : false,
+   "stock" : {
+      "stockLevel" : 0,
+      "stockLevelStatus" : "inStock"
+   },
+   "url" : "/tenis-era-navy/p/1002000690002U",
+   "variantOptions" : [ {
+      "code" : "1002000690002U-33",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "33",
+      "ean" : "700053843219",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-33",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "33"
+      } ]
+   }, {
+      "code" : "1002000690002U-34",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "34",
+      "ean" : "700053843226",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "lowStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-34",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "34"
+      } ]
+   }, {
+      "code" : "1002000690002U-35",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "35",
+      "ean" : "700053843233",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-35",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "35"
+      } ]
+   }, {
+      "code" : "1002000690002U-36",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "36",
+      "ean" : "700053843257",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-36",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "36"
+      } ]
+   }, {
+      "code" : "1002000690002U-37",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "37",
+      "ean" : "700053843271",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-37",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "37"
+      } ]
+   }, {
+      "code" : "1002000690002U-38",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "38",
+      "ean" : "700053843295",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-38",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "38"
+      } ]
+   }, {
+      "code" : "1002000690002U-39",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "39",
+      "ean" : "700053843318",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-39",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "39"
+      } ]
+   }, {
+      "code" : "1002000690002U-40",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "40",
+      "ean" : "700053843325",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-40",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "40"
+      } ]
+   }, {
+      "code" : "1002000690002U-41",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "41",
+      "ean" : "700053843349",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-41",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "41"
+      } ]
+   }, {
+      "code" : "1002000690002U-42",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "42",
+      "ean" : "700053843356",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-42",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "42"
+      } ]
+   }, {
+      "code" : "1002000690002U-43",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "43",
+      "ean" : "700053843363",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-43",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "43"
+      } ]
+   }, {
+      "code" : "1002000690002U-44",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "44",
+      "ean" : "700053843387",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-44",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "44"
+      } ]
+   }, {
+      "code" : "1002000690002U-45",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "45",
+      "ean" : "700053843394",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-45",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "45"
+      } ]
+   }, {
+      "code" : "1002000690002U-46",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "46",
+      "ean" : "700054073745",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-46",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "46"
+      } ]
+   }, {
+      "code" : "1002000690002U-48",
+      "discountPrice" : {
+         "currencyIso" : "BRL",
+         "formattedValue" : "R$ 99,99",
+         "priceType" : "BUY",
+         "value" : 99.99000000000001
+      },
+      "displayText" : "48",
+      "installments" : "1x de R$99,99",
+      "priceData" : {
+         "currencyIso" : "BRL",
+         "value" : 279.99
+      },
+      "sellable" : false,
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "url" : "/tenis-era-navy/p/1002000690002U-48",
+      "variantOptionQualifiers" : [ {
+         "qualifier" : "size",
+         "value" : "48"
+      } ]
+   } ]
+}

@@ -1,0 +1,6 @@
+{
+   "errors" : [ {
+      "message" : "Product with code '9999999999999U' not found!",
+      "type" : "UnknownIdentifierError"
+   } ]
+}
